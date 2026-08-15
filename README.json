@@ -19,7 +19,7 @@
             "last_commit": "2026-03-26T15:31:47Z",
             "owner": "oskarsh",
             "repo": "Yin-Yang",
-            "stars": 706
+            "stars": 705
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2026-08-09T22:06:28Z",
             "owner": "rcspam",
             "repo": "dictee",
-            "stars": 52
+            "stars": 54
           }
         }
       ],
@@ -203,7 +203,7 @@
             "last_commit": "2026-08-13T13:58:01Z",
             "owner": "ruizhi-lab",
             "repo": "latte-dock-ng",
-            "stars": 44
+            "stars": 45
           }
         },
         {
@@ -293,7 +293,7 @@
             "last_commit": "2025-11-27T13:56:14Z",
             "owner": "vinceliuice",
             "repo": "Layan-kde",
-            "stars": 531
+            "stars": 532
           }
         },
         {
@@ -585,7 +585,7 @@
             "last_commit": "2026-08-01T14:42:16Z",
             "owner": "PapirusDevelopmentTeam",
             "repo": "papirus-icon-theme",
-            "stars": 8009
+            "stars": 8013
           }
         },
         {
@@ -700,7 +700,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2024-08-27T16:55:28Z",
+            "last_commit": "2026-08-15T14:37:36Z",
             "owner": "lingtjien",
             "repo": "Grid-Tiling-Kwin",
             "stars": 912
@@ -750,7 +750,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T23:41:09.177Z",
+    "last_updated": "2026-08-15T23:36:46.258Z",
     "original_repository": "francoism90/awesome-kde",
     "original_repository_sha": "579f44b5998628785e7191f6755ed418c2e27e84",
     "enhanced_repository": "enhansome/enhansome-kde",
