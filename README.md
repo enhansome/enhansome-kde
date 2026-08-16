@@ -130,12 +130,12 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 #### Extensions
 
 * [Kvantum](https://github.com/tsujan/Kvantum) ⭐ 2,016 | 🐛 0 | 🌐 C++ | 📅 2026-08-03 - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
-* [Karousel](https://github.com/peterfajdiga/karousel) ⭐ 1,084 | 🐛 71 | 🌐 TypeScript | 📅 2026-07-16 - KWin tiling script with scrolling. Works especially well with ultrawide screens.
+* [Karousel](https://github.com/peterfajdiga/karousel) ⭐ 1,085 | 🐛 71 | 🌐 TypeScript | 📅 2026-07-16 - KWin tiling script with scrolling. Works especially well with ultrawide screens.
 * [Window AppMenu Applet](https://github.com/psifidotos/applet-window-appmenu) ⭐ 413 | 🐛 26 | 🌐 C++ | 📅 2024-07-11 - **Plasma 5** applet in order to show the window appmenu.
 * [Dynamic Wallpaper Engine](https://github.com/zzag/plasma5-wallpapers-dynamic) ⭐ 385 | 🐛 22 | 🌐 C++ | 📅 2026-06-11 - A wallpaper plugin that continuously updates the desktop background based on the current time in your location.
 * [Window Title Applet](https://github.com/psifidotos/applet-window-title/) ⭐ 245 | 🐛 26 | 🌐 QML | 📅 2024-07-11 - **Plasma 5** applet that shows the current window title and icon in your panels.
 * [Hoppla](https://github.com/Fuchs/hoppla-sa) ⭐ 72 | 🐛 8 | 🌐 QML | 📅 2025-02-24 - KDE Plasma desktop widget to control Philips Hue lights.
-* [Latte Dock NG](https://github.com/ruizhi-lab/latte-dock-ng) ⭐ 45 | 🐛 4 | 🌐 C++ | 📅 2026-08-13 is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets.
+* [Latte Dock NG](https://github.com/ruizhi-lab/latte-dock-ng) ⭐ 47 | 🐛 4 | 🌐 C++ | 📅 2026-08-13 is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets.
 * [Places Widget](https://github.com/dfaust/plasma-applet-places-widget) ⭐ 13 | 🐛 11 | 🌐 QML | 📅 2024-02-21 - **Plasma 5** widget that gives access to user places.
 * [KDoit](https://github.com/lubdhak7414/KDoit) ⭐ 13 | 🐛 0 | 🌐 QML | 📅 2026-06-29 - Lightweight to-do list plasmoid for KDE Plasma 6 with nested sublists, priorities, due dates, and UUID-based file sync.
 * [Latte-Dock](https://invent.kde.org/plasma/latte-dock) - Latte is a dock based on Plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids for **Plasma 5** 📌. ⚠️ Unmaintained.
@@ -148,7 +148,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Themes
 
-* [WhiteSur](https://github.com/vinceliuice/WhiteSur-kde) ⭐ 1,244 | 🐛 74 | 🌐 QML | 📅 2026-08-07 - A MacOS Big Sur theme for KDE Plasma.
+* [WhiteSur](https://github.com/vinceliuice/WhiteSur-kde) ⭐ 1,245 | 🐛 74 | 🌐 QML | 📅 2026-08-07 - A MacOS Big Sur theme for KDE Plasma.
 * [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde) ⭐ 940 | 🐛 31 | 🌐 QML | 📅 2025-12-17 - A port of the popular GTK theme Arc for **Plasma 5** desktop with a few additions and extras.
 * [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) ⭐ 670 | 🐛 15 | 🌐 QML | 📅 2024-03-19 - A port of the popular GTK theme Materia for **Plasma 5** desktop with a few additions and extras.
 * [Layan](https://github.com/vinceliuice/Layan-kde) ⭐ 532 | 🐛 39 | 🌐 QML | 📅 2025-11-27 - A flat design theme for KDE Plasma desktop.
@@ -179,7 +179,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Icons
 
-* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,013 | 🐛 575 | 🌐 Shell | 📅 2026-08-01 - Material icon theme, initially based on Paper.
+* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,015 | 🐛 575 | 🌐 Shell | 📅 2026-08-01 - Material icon theme, initially based on Paper.
 * [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) ⭐ 1,992 | 🐛 115 | 🌐 Shell | 📅 2021-11-25 - Icon pack with inspiration taken from the latest iterations of macOS and Google's Material Design.
 * [Tela](https://github.com/vinceliuice/Tela-icon-theme) ⭐ 1,859 | 🐛 104 | 🌐 Shell | 📅 2026-08-10 - A flat colorful Design icon theme.
 * [Candy](https://github.com/EliverLara/candy-icons) ⭐ 1,313 | 🐛 147 | 📅 2026-03-06 - Sweet gradient icons.
@@ -196,13 +196,13 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 * [Kröhnkite](https://github.com/anametologin/krohnkite) ⚠️ Archived - A dynamic tiling extension for KWin.
 * [kwin-tiling](https://github.com/faho/kwin-tiling) ⚠️ Archived - Tiling script for kwin.
-* [Grid-Tiling-Kwin](https://github.com/lingtjien/Grid-Tiling-Kwin) ⭐ 912 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-15 - A kwin script that automatically tiles windows.
+* [Grid-Tiling-Kwin](https://github.com/lingtjien/Grid-Tiling-Kwin) ⭐ 912 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-16 - A kwin script that automatically tiles windows.
 * [Fluid tile](https://codeberg.org/Serroda/fluid-tile) - Simple auto tiling with UI for KWin that works natively.
 
 #### Display Manager
 
 * [Chili](https://github.com/MarianArlt/kde-plasma-chili) ⭐ 226 | 🐛 6 | 🌐 QML | 📅 2019-07-23 - The hottest login theme around for KDE **Plasma 5**.
-* [Delicious](https://github.com/stuomas/delicious-sddm-theme) ⭐ 116 | 🐛 4 | 🌐 QML | 📅 2020-10-02 - A delicious SDDM theme for DE collectors/addicts.
+* [Delicious](https://github.com/stuomas/delicious-sddm-theme) ⭐ 117 | 🐛 4 | 🌐 QML | 📅 2020-10-02 - A delicious SDDM theme for DE collectors/addicts.
 * [Sugar Candy](https://framagit.org/MarianArlt/sddm-sugar-candy) - The sweetest login theme available for the SDDM display manager.
 
 ## Documentation and Resources
@@ -235,4 +235,4 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
