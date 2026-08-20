@@ -47,7 +47,7 @@
                 "last_commit": "2023-04-29T06:51:19Z",
                 "owner": "tildearrow",
                 "repo": "kwin-lowlatency",
-                "stars": 361
+                "stars": 360
               }
             },
             {
@@ -122,7 +122,7 @@
                     "last_commit": "2026-08-03T18:39:39Z",
                     "owner": "tsujan",
                     "repo": "Kvantum",
-                    "stars": 2016
+                    "stars": 2017
                   }
                 },
                 {
@@ -137,7 +137,7 @@
                     "last_commit": "2026-07-16T20:00:52Z",
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1089
+                    "stars": 1092
                   }
                 },
                 {
@@ -209,7 +209,7 @@
                     "archived": false,
                     "id": 1203582717,
                     "language": "C++",
-                    "last_commit": "2026-08-13T13:58:01Z",
+                    "last_commit": "2026-08-20T18:02:02Z",
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
                     "stars": 47
@@ -227,7 +227,7 @@
                     "last_commit": "2026-06-29T14:15:34Z",
                     "owner": "lubdhak7414",
                     "repo": "KDoit",
-                    "stars": 15
+                    "stars": 14
                   }
                 },
                 {
@@ -444,7 +444,7 @@
                     "last_commit": "2020-02-19T19:16:52Z",
                     "owner": "Rokin05",
                     "repo": "darkine-kde",
-                    "stars": 46
+                    "stars": 47
                   }
                 }
               ],
@@ -623,7 +623,7 @@
                     "last_commit": "2026-08-01T14:42:16Z",
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8024
+                    "stars": 8027
                   }
                 },
                 {
@@ -638,7 +638,7 @@
                     "last_commit": "2021-11-25T05:43:53Z",
                     "owner": "keeferrourke",
                     "repo": "la-capitaine-icon-theme",
-                    "stars": 1991
+                    "stars": 1992
                   }
                 },
                 {
@@ -668,7 +668,7 @@
                     "last_commit": "2026-03-06T23:36:09Z",
                     "owner": "EliverLara",
                     "repo": "candy-icons",
-                    "stars": 1313
+                    "stars": 1314
                   }
                 },
                 {
@@ -720,7 +720,7 @@
                     "last_commit": "2025-12-11T10:32:49Z",
                     "owner": "anametologin",
                     "repo": "krohnkite",
-                    "stars": 1236
+                    "stars": 1235
                   }
                 },
                 {
@@ -787,7 +787,7 @@
                     "last_commit": "2020-10-02T22:52:22Z",
                     "owner": "stuomas",
                     "repo": "delicious-sddm-theme",
-                    "stars": 117
+                    "stars": 118
                   }
                 }
               ],
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T23:40:53.583Z",
+    "last_updated": "2026-08-20T23:43:03.192Z",
     "original_repository": "francoism90/awesome-kde",
     "original_repository_id": 126171103,
     "original_repository_sha": "579f44b5998628785e7191f6755ed418c2e27e84",
