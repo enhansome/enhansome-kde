@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-09T22:06:28Z",
                 "owner": "rcspam",
                 "repo": "dictee",
-                "stars": 54
+                "stars": 55
               }
             }
           ],
@@ -137,7 +137,7 @@
                     "last_commit": "2026-07-16T20:00:52Z",
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1092
+                    "stars": 1094
                   }
                 },
                 {
@@ -209,7 +209,7 @@
                     "archived": false,
                     "id": 1203582717,
                     "language": "C++",
-                    "last_commit": "2026-08-20T18:02:02Z",
+                    "last_commit": "2026-08-21T06:48:23Z",
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
                     "stars": 47
@@ -623,7 +623,7 @@
                     "last_commit": "2026-08-01T14:42:16Z",
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8027
+                    "stars": 8030
                   }
                 },
                 {
@@ -653,7 +653,7 @@
                     "last_commit": "2026-08-10T08:17:34Z",
                     "owner": "vinceliuice",
                     "repo": "Tela-icon-theme",
-                    "stars": 1859
+                    "stars": 1860
                   }
                 },
                 {
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T23:43:03.192Z",
+    "last_updated": "2026-08-21T23:41:53.045Z",
     "original_repository": "francoism90/awesome-kde",
     "original_repository_id": 126171103,
     "original_repository_sha": "579f44b5998628785e7191f6755ed418c2e27e84",
