@@ -144,7 +144,7 @@
                     "last_commit": "2026-08-03T18:39:39Z",
                     "owner": "tsujan",
                     "repo": "Kvantum",
-                    "stars": 2017
+                    "stars": 2018
                   }
                 },
                 {
@@ -159,7 +159,7 @@
                     "last_commit": "2026-08-23T12:11:23Z",
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1097
+                    "stars": 1098
                   }
                 },
                 {
@@ -308,7 +308,7 @@
                     "last_commit": "2026-08-07T06:58:36Z",
                     "owner": "vinceliuice",
                     "repo": "WhiteSur-kde",
-                    "stars": 1250
+                    "stars": 1251
                   }
                 },
                 {
@@ -570,7 +570,7 @@
                     "last_commit": "2023-03-02T22:06:54Z",
                     "owner": "Akava-Design",
                     "repo": "Akava-Kv",
-                    "stars": 197
+                    "stars": 196
                   }
                 },
                 {
@@ -667,7 +667,7 @@
                     "last_commit": "2026-08-01T14:42:16Z",
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8033
+                    "stars": 8035
                   }
                 },
                 {
@@ -853,7 +853,7 @@
                     "last_commit": "2020-10-02T22:52:22Z",
                     "owner": "stuomas",
                     "repo": "delicious-sddm-theme",
-                    "stars": 118
+                    "stars": 117
                   }
                 }
               ],
@@ -871,7 +871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:15:44.310Z",
+    "last_updated": "2026-08-24T23:40:03.739Z",
     "original_repository": "francoism90/awesome-kde",
     "original_repository_id": 126171103,
     "original_repository_sha": "579f44b5998628785e7191f6755ed418c2e27e84",
