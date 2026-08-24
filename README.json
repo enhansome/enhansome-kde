@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "KCast",
+              "description": "A Plasma 6 widget to cast video files or YouTube URLs to a Chromecast device.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1000167744,
+                "language": "QML",
+                "last_commit": "2026-08-05T09:39:54Z",
+                "owner": "Agundur-KDE",
+                "repo": "KCast",
+                "stars": 54
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Multimedia"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Yin-Yang",
               "description": "Auto Night-mode for Linux.",
               "children": [],
@@ -254,6 +276,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "kded_rotation",
+                  "description": "A small, hacky KDED module for handling automatic screen rotation on tablets and hybrid laptops.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 69512250,
+                    "language": "Shell",
+                    "last_commit": "2023-03-01T11:34:01Z",
+                    "owner": "dos1",
+                    "repo": "kded_rotation",
+                    "stars": 64
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "KCM Modules and Systems"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "WhiteSur",
                   "description": "A MacOS Big Sur theme for KDE Plasma.",
                   "children": [],
@@ -339,7 +383,7 @@
                     "last_commit": "2025-10-18T12:51:29Z",
                     "owner": "vinceliuice",
                     "repo": "Orchis-kde",
-                    "stars": 328
+                    "stars": 329
                   }
                 },
                 {
@@ -369,7 +413,7 @@
                     "last_commit": "2025-11-10T10:00:11Z",
                     "owner": "vinceliuice",
                     "repo": "Fluent-kde",
-                    "stars": 237
+                    "stars": 238
                   }
                 },
                 {
@@ -623,7 +667,7 @@
                     "last_commit": "2026-08-01T14:42:16Z",
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8032
+                    "stars": 8033
                   }
                 },
                 {
@@ -698,13 +742,35 @@
                     "last_commit": "2022-03-18T04:37:26Z",
                     "owner": "cbrnix",
                     "repo": "Flatery",
-                    "stars": 323
+                    "stars": 324
                   }
                 }
               ],
               "description": null,
               "node_type": "group",
               "title": "Icons"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Capitaine",
+                  "description": "An x-cursor theme inspired by macOS and based on KDE Breeze.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 63390178,
+                    "language": "Python",
+                    "last_commit": "2022-06-05T13:11:37Z",
+                    "owner": "keeferrourke",
+                    "repo": "capitaine-cursors",
+                    "stars": 1229
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Cursors"
             },
             {
               "children": [
@@ -805,7 +871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:38:07.149Z",
+    "last_updated": "2026-08-24T14:15:44.310Z",
     "original_repository": "francoism90/awesome-kde",
     "original_repository_id": 126171103,
     "original_repository_sha": "579f44b5998628785e7191f6755ed418c2e27e84",
