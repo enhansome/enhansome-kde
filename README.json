@@ -99,7 +99,7 @@
                 "last_commit": "2026-06-07T08:38:03Z",
                 "owner": "terslang",
                 "repo": "LocalTranslate",
-                "stars": 63
+                "stars": 62
               }
             },
             {
@@ -141,10 +141,10 @@
                     "archived": false,
                     "id": 22761923,
                     "language": "C++",
-                    "last_commit": "2026-08-03T18:39:39Z",
+                    "last_commit": "2026-08-25T13:56:53Z",
                     "owner": "tsujan",
                     "repo": "Kvantum",
-                    "stars": 2018
+                    "stars": 2019
                   }
                 },
                 {
@@ -667,7 +667,7 @@
                     "last_commit": "2026-08-01T14:42:16Z",
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8035
+                    "stars": 8036
                   }
                 },
                 {
@@ -871,7 +871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:12:09.958Z",
+    "last_updated": "2026-08-25T23:41:03.379Z",
     "original_repository": "francoism90/awesome-kde",
     "original_repository_id": 126171103,
     "original_repository_sha": "579f44b5998628785e7191f6755ed418c2e27e84",
