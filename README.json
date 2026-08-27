@@ -84,7 +84,7 @@
                 "last_commit": "2023-07-30T21:36:30Z",
                 "owner": "tb2097",
                 "repo": "wacom-gui",
-                "stars": 145
+                "stars": 146
               }
             },
             {
@@ -144,7 +144,7 @@
                     "last_commit": "2026-08-25T13:56:53Z",
                     "owner": "tsujan",
                     "repo": "Kvantum",
-                    "stars": 2019
+                    "stars": 2020
                   }
                 },
                 {
@@ -159,7 +159,7 @@
                     "last_commit": "2026-08-23T12:11:23Z",
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1098
+                    "stars": 1102
                   }
                 },
                 {
@@ -189,7 +189,7 @@
                     "last_commit": "2026-06-11T20:39:48Z",
                     "owner": "zzag",
                     "repo": "plasma5-wallpapers-dynamic",
-                    "stars": 384
+                    "stars": 385
                   }
                 },
                 {
@@ -234,7 +234,7 @@
                     "last_commit": "2026-08-23T06:54:55Z",
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
-                    "stars": 50
+                    "stars": 51
                   }
                 },
                 {
@@ -308,7 +308,7 @@
                     "last_commit": "2026-08-07T06:58:36Z",
                     "owner": "vinceliuice",
                     "repo": "WhiteSur-kde",
-                    "stars": 1251
+                    "stars": 1252
                   }
                 },
                 {
@@ -323,7 +323,7 @@
                     "last_commit": "2025-12-17T13:56:06Z",
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "arc-kde",
-                    "stars": 941
+                    "stars": 942
                   }
                 },
                 {
@@ -413,7 +413,7 @@
                     "last_commit": "2025-11-10T10:00:11Z",
                     "owner": "vinceliuice",
                     "repo": "Fluent-kde",
-                    "stars": 238
+                    "stars": 239
                   }
                 },
                 {
@@ -667,7 +667,7 @@
                     "last_commit": "2026-08-01T14:42:16Z",
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8036
+                    "stars": 8039
                   }
                 },
                 {
@@ -682,7 +682,7 @@
                     "last_commit": "2021-11-25T05:43:53Z",
                     "owner": "keeferrourke",
                     "repo": "la-capitaine-icon-theme",
-                    "stars": 1993
+                    "stars": 1994
                   }
                 },
                 {
@@ -697,7 +697,7 @@
                     "last_commit": "2026-08-10T08:17:34Z",
                     "owner": "vinceliuice",
                     "repo": "Tela-icon-theme",
-                    "stars": 1860
+                    "stars": 1861
                   }
                 },
                 {
@@ -712,7 +712,7 @@
                     "last_commit": "2026-03-06T23:36:09Z",
                     "owner": "EliverLara",
                     "repo": "candy-icons",
-                    "stars": 1314
+                    "stars": 1313
                   }
                 },
                 {
@@ -742,7 +742,7 @@
                     "last_commit": "2022-03-18T04:37:26Z",
                     "owner": "cbrnix",
                     "repo": "Flatery",
-                    "stars": 324
+                    "stars": 323
                   }
                 }
               ],
@@ -871,7 +871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:41:03.379Z",
+    "last_updated": "2026-08-27T04:32:29.712Z",
     "original_repository": "francoism90/awesome-kde",
     "original_repository_id": 126171103,
     "original_repository_sha": "579f44b5998628785e7191f6755ed418c2e27e84",
