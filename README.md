@@ -179,7 +179,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Icons
 
-* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,039 | 🐛 582 | 🌐 Shell | 📅 2026-08-01 - Material icon theme, initially based on Paper.
+* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,040 | 🐛 582 | 🌐 Shell | 📅 2026-08-01 - Material icon theme, initially based on Paper.
 * [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) ⭐ 1,994 | 🐛 115 | 🌐 Shell | 📅 2021-11-25 - Icon pack with inspiration taken from the latest iterations of macOS and Google's Material Design.
 * [Tela](https://github.com/vinceliuice/Tela-icon-theme) ⭐ 1,861 | 🐛 104 | 🌐 Shell | 📅 2026-08-10 - A flat colorful Design icon theme.
 * [Candy](https://github.com/EliverLara/candy-icons) ⭐ 1,313 | 🐛 148 | 📅 2026-03-06 - Sweet gradient icons.

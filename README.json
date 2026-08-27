@@ -667,7 +667,7 @@
                     "last_commit": "2026-08-01T14:42:16Z",
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8039
+                    "stars": 8040
                   }
                 },
                 {
@@ -871,9 +871,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:32:29.712Z",
-    "original_repository": "francoism90/awesome-kde",
-    "original_repository_id": 126171103,
+    "last_updated": "2026-08-27T11:51:15.228Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 126171103,
+      "language": null,
+      "last_commit": "2026-07-23T08:53:09Z",
+      "owner": "francoism90",
+      "repo": "awesome-kde",
+      "stars": 837
+    },
     "original_repository_sha": "579f44b5998628785e7191f6755ed418c2e27e84",
     "enhanced_repository": "enhansome/enhansome-kde",
     "enhanced_repository_description": null,
