@@ -18,7 +18,8 @@
                 "owner": "Agundur-KDE",
                 "repo": "KCast",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T06:57:02.631Z"
             }
           ],
           "description": null,
@@ -39,8 +40,9 @@
                 "last_commit": "2026-03-26T15:31:47Z",
                 "owner": "oskarsh",
                 "repo": "Yin-Yang",
-                "stars": 705
-              }
+                "stars": 706
+              },
+              "first_seen": "2026-08-28T06:57:02.631Z"
             },
             {
               "node_type": "item",
@@ -55,7 +57,8 @@
                 "owner": "Maldela",
                 "repo": "fancontrol-gui",
                 "stars": 389
-              }
+              },
+              "first_seen": "2026-08-28T06:57:02.631Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "tildearrow",
                 "repo": "kwin-lowlatency",
                 "stars": 360
-              }
+              },
+              "first_seen": "2026-08-28T06:57:02.631Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "tb2097",
                 "repo": "wacom-gui",
                 "stars": 146
-              }
+              },
+              "first_seen": "2026-08-28T06:57:02.631Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "terslang",
                 "repo": "LocalTranslate",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T06:57:02.631Z"
             },
             {
               "node_type": "item",
@@ -114,8 +120,9 @@
                 "last_commit": "2026-08-22T15:45:41Z",
                 "owner": "rcspam",
                 "repo": "dictee",
-                "stars": 55
-              }
+                "stars": 56
+              },
+              "first_seen": "2026-08-28T06:57:02.631Z"
             }
           ],
           "description": null,
@@ -144,8 +151,9 @@
                     "last_commit": "2026-08-25T13:56:53Z",
                     "owner": "tsujan",
                     "repo": "Kvantum",
-                    "stars": 2020
-                  }
+                    "stars": 2021
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -160,7 +168,8 @@
                     "owner": "peterfajdiga",
                     "repo": "karousel",
                     "stars": 1102
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -175,7 +184,8 @@
                     "owner": "psifidotos",
                     "repo": "applet-window-appmenu",
                     "stars": 413
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -190,7 +200,8 @@
                     "owner": "zzag",
                     "repo": "plasma5-wallpapers-dynamic",
                     "stars": 385
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -205,7 +216,8 @@
                     "owner": "psifidotos",
                     "repo": "applet-window-title",
                     "stars": 246
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -220,7 +232,8 @@
                     "owner": "Fuchs",
                     "repo": "hoppla-sa",
                     "stars": 72
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -231,11 +244,12 @@
                     "archived": false,
                     "id": 1203582717,
                     "language": "C++",
-                    "last_commit": "2026-08-23T06:54:55Z",
+                    "last_commit": "2026-08-28T06:29:59Z",
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
-                    "stars": 51
-                  }
+                    "stars": 52
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -250,7 +264,8 @@
                     "owner": "lubdhak7414",
                     "repo": "KDoit",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -265,7 +280,8 @@
                     "owner": "dfaust",
                     "repo": "plasma-applet-places-widget",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 }
               ],
               "description": null,
@@ -287,7 +303,8 @@
                     "owner": "dos1",
                     "repo": "kded_rotation",
                     "stars": 64
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 }
               ],
               "description": null,
@@ -308,8 +325,9 @@
                     "last_commit": "2026-08-07T06:58:36Z",
                     "owner": "vinceliuice",
                     "repo": "WhiteSur-kde",
-                    "stars": 1252
-                  }
+                    "stars": 1253
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -324,7 +342,8 @@
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "arc-kde",
                     "stars": 942
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -339,7 +358,8 @@
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "materia-kde",
                     "stars": 670
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -354,7 +374,8 @@
                     "owner": "vinceliuice",
                     "repo": "Layan-kde",
                     "stars": 533
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -369,7 +390,8 @@
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "adapta-kde",
                     "stars": 459
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -384,7 +406,8 @@
                     "owner": "vinceliuice",
                     "repo": "Orchis-kde",
                     "stars": 329
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -399,7 +422,8 @@
                     "owner": "vinceliuice",
                     "repo": "McMojave-kde",
                     "stars": 261
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -414,7 +438,8 @@
                     "owner": "vinceliuice",
                     "repo": "Fluent-kde",
                     "stars": 239
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -429,7 +454,8 @@
                     "owner": "n4n0GH",
                     "repo": "hello",
                     "stars": 215
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -444,7 +470,8 @@
                     "owner": "vinceliuice",
                     "repo": "ChromeOS-kde",
                     "stars": 193
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -459,7 +486,8 @@
                     "owner": "vinceliuice",
                     "repo": "Qogir-kde",
                     "stars": 192
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -474,7 +502,8 @@
                     "owner": "vinceliuice",
                     "repo": "Canta-kde",
                     "stars": 78
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -489,7 +518,8 @@
                     "owner": "Rokin05",
                     "repo": "darkine-kde",
                     "stars": 47
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 }
               ],
               "description": null,
@@ -511,7 +541,8 @@
                     "owner": "ishovkun",
                     "repo": "SierraBreeze",
                     "stars": 355
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -526,7 +557,8 @@
                     "owner": "EliverLara",
                     "repo": "Sweet-kde",
                     "stars": 247
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -541,7 +573,8 @@
                     "owner": "tsujan",
                     "repo": "BreezeEnhanced",
                     "stars": 213
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -556,7 +589,8 @@
                     "owner": "alex47",
                     "repo": "BreezeBlurred",
                     "stars": 199
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -571,7 +605,8 @@
                     "owner": "Akava-Design",
                     "repo": "Akava-Kv",
                     "stars": 196
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -586,7 +621,8 @@
                     "owner": "alex47",
                     "repo": "KDE-Rounded-Corners",
                     "stars": 168
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -601,7 +637,8 @@
                     "owner": "fauzie811",
                     "repo": "Breeze10",
                     "stars": 122
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -616,7 +653,8 @@
                     "owner": "efskap",
                     "repo": "XBoomer",
                     "stars": 114
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -631,7 +669,8 @@
                     "owner": "KDE",
                     "repo": "breeze-gtk",
                     "stars": 87
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -646,7 +685,8 @@
                     "owner": "pdeljanov",
                     "repo": "Chrome-KDE5BreezeDark",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 }
               ],
               "description": null,
@@ -668,7 +708,8 @@
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
                     "stars": 8040
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -683,7 +724,8 @@
                     "owner": "keeferrourke",
                     "repo": "la-capitaine-icon-theme",
                     "stars": 1994
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -697,8 +739,9 @@
                     "last_commit": "2026-08-10T08:17:34Z",
                     "owner": "vinceliuice",
                     "repo": "Tela-icon-theme",
-                    "stars": 1861
-                  }
+                    "stars": 1860
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -713,7 +756,8 @@
                     "owner": "EliverLara",
                     "repo": "candy-icons",
                     "stars": 1313
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -728,7 +772,8 @@
                     "owner": "zayronxio",
                     "repo": "Zafiro-icons",
                     "stars": 463
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -743,7 +788,8 @@
                     "owner": "cbrnix",
                     "repo": "Flatery",
                     "stars": 323
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 }
               ],
               "description": null,
@@ -765,7 +811,8 @@
                     "owner": "keeferrourke",
                     "repo": "capitaine-cursors",
                     "stars": 1229
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 }
               ],
               "description": null,
@@ -787,7 +834,8 @@
                     "owner": "anametologin",
                     "repo": "krohnkite",
                     "stars": 1235
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -802,7 +850,8 @@
                     "owner": "kwin-scripts",
                     "repo": "kwin-tiling",
                     "stars": 1093
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -817,7 +866,8 @@
                     "owner": "lingtjien",
                     "repo": "Grid-Tiling-Kwin",
                     "stars": 913
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 }
               ],
               "description": null,
@@ -839,7 +889,8 @@
                     "owner": "MarianArlt",
                     "repo": "kde-plasma-chili",
                     "stars": 226
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 },
                 {
                   "node_type": "item",
@@ -854,7 +905,8 @@
                     "owner": "stuomas",
                     "repo": "delicious-sddm-theme",
                     "stars": 117
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
                 }
               ],
               "description": null,
@@ -871,7 +923,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:51:15.228Z",
+    "last_updated": "2026-08-28T06:57:02.631Z",
     "original_repository_info": {
       "archived": false,
       "id": 126171103,
@@ -879,7 +931,7 @@
       "last_commit": "2026-07-23T08:53:09Z",
       "owner": "francoism90",
       "repo": "awesome-kde",
-      "stars": 837
+      "stars": 839
     },
     "original_repository_sha": "579f44b5998628785e7191f6755ed418c2e27e84",
     "enhanced_repository": "enhansome/enhansome-kde",
