@@ -12,12 +12,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "KCast is a KDE Plasma 6 widget that lets you cast video files or youtube URLs to a Chromecast devices in your local network. It supports device discovery, local media playback via an embedded HTTP server, and drag-and-drop integration with browsers and file managers like Dolphin.",
+                "homepage": "https://www.agundur.de/projects/kde_cast_video-files_to_a_chromecast-device.html",
                 "id": 1000167744,
                 "language": "QML",
-                "last_commit": "2026-08-05T09:39:54Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-28T11:12:14Z",
+                "open_issues": 1,
                 "owner": "Agundur-KDE",
                 "repo": "KCast",
-                "stars": 54
+                "stars": 54,
+                "topics": [
+                  "chromecast",
+                  "kde",
+                  "kde-desktop",
+                  "kde-plasma",
+                  "kde-plasma-6",
+                  "plasma-desktop",
+                  "plasmoid",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-28T06:57:02.631Z"
             }
@@ -35,12 +49,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Auto Nightmode for KDE, Gnome, Budgie, VSCode, Atom and more",
+                "homepage": null,
                 "id": 162924116,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-26T15:31:47Z",
+                "open_issues": 43,
                 "owner": "oskarsh",
                 "repo": "Yin-Yang",
-                "stars": 706
+                "stars": 706,
+                "topics": [
+                  "budgie",
+                  "gnome",
+                  "kde",
+                  "kde-plasma-5",
+                  "linux",
+                  "night-mode",
+                  "nightmode",
+                  "themes",
+                  "yin-yang"
+                ]
               },
               "first_seen": "2026-08-28T06:57:02.631Z"
             },
@@ -51,12 +80,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GUI for Fancontrol. It uses the KAuth module of the KDE Frameworks 5 to write the generated config file. Furthermore it communicates with systemd via dbus to control the fancontrol service. If you want to compile without systemd support set the -DNO_SYSTEMD option.",
+                "homepage": null,
                 "id": 34640292,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2025-05-13T14:44:51Z",
+                "open_issues": 41,
                 "owner": "Maldela",
                 "repo": "fancontrol-gui",
-                "stars": 389
+                "stars": 389,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:02.631Z"
             },
@@ -67,12 +101,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "archived - X11 full-screen unredirection and lots'a settings for KWin",
+                "homepage": null,
                 "id": 177870308,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2023-04-29T06:51:19Z",
+                "open_issues": 19,
                 "owner": "tildearrow",
                 "repo": "kwin-lowlatency",
-                "stars": 360
+                "stars": 360,
+                "topics": [
+                  "kde",
+                  "kwin"
+                ]
               },
               "first_seen": "2026-08-28T06:57:02.631Z"
             },
@@ -83,12 +125,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python/PyQt Wacom GUI for KDE",
+                "homepage": null,
                 "id": 22668892,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-07-30T21:36:30Z",
+                "open_issues": 39,
                 "owner": "tb2097",
                 "repo": "wacom-gui",
-                "stars": 146
+                "stars": 146,
+                "topics": [
+                  "centos",
+                  "libwacom",
+                  "mate",
+                  "python",
+                  "rpm",
+                  "wacom",
+                  "wacom-gui",
+                  "xfce",
+                  "xsetwacom"
+                ]
               },
               "first_seen": "2026-08-28T06:57:02.631Z"
             },
@@ -99,12 +156,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Translate offline using Firefox Translation Models",
+                "homepage": "https://terslang.github.io/LocalTranslate/",
                 "id": 936438260,
                 "language": "QML",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-07T08:38:03Z",
+                "open_issues": 14,
                 "owner": "terslang",
                 "repo": "LocalTranslate",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:02.631Z"
             },
@@ -115,12 +177,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Push-to-talk voice dictation for Linux. 100% local, multilingual (25+ languages), with speaker diarization. Qt frontend, Rust backend on NVIDIA Parakeet via ONNX Runtime. KDE Plasmoid integrated.",
+                "homepage": "https://github.com/rcspam/dictee/releases",
                 "id": 1173383779,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-22T15:45:41Z",
+                "open_issues": 3,
                 "owner": "rcspam",
                 "repo": "dictee",
-                "stars": 56
+                "stars": 57,
+                "topics": [
+                  "asr",
+                  "dictation-tool",
+                  "linux",
+                  "nvidia",
+                  "parakeet",
+                  "parakeet-tdt-0-6b-v3",
+                  "plasma-6",
+                  "plasmoids",
+                  "push-to-talk",
+                  "rust",
+                  "speech-to-text",
+                  "stt",
+                  "translate",
+                  "voice-dictation",
+                  "voice-input",
+                  "voice-recognition",
+                  "whisper",
+                  "whisper-asr"
+                ]
               },
               "first_seen": "2026-08-28T06:57:02.631Z"
             }
@@ -146,12 +232,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Linux SVG-based theme engine for Qt",
+                    "homepage": null,
                     "id": 22761923,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2026-08-25T13:56:53Z",
+                    "open_issues": 1,
                     "owner": "tsujan",
                     "repo": "Kvantum",
-                    "stars": 2021
+                    "stars": 2023,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -162,12 +253,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Scrollable tiling Kwin script",
+                    "homepage": null,
                     "id": 586101119,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-23T12:11:23Z",
+                    "open_issues": 71,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1102
+                    "stars": 1105,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -178,12 +274,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Plasma 5 applet in order to show the window appmenu",
+                    "homepage": null,
                     "id": 157759450,
                     "language": "C++",
+                    "license": "GPL-2.0",
                     "last_commit": "2024-07-11T12:51:31Z",
+                    "open_issues": 26,
                     "owner": "psifidotos",
                     "repo": "applet-window-appmenu",
-                    "stars": 413
+                    "stars": 413,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -194,12 +295,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dynamic wallpaper plugin for KDE Plasma",
+                    "homepage": null,
                     "id": 143762860,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2026-06-11T20:39:48Z",
+                    "open_issues": 22,
                     "owner": "zzag",
                     "repo": "plasma5-wallpapers-dynamic",
-                    "stars": 385
+                    "stars": 384,
+                    "topics": [
+                      "dynamic",
+                      "plasma",
+                      "wallpaper"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -210,12 +320,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Plasma 5 applet that shows the application title and icon for active window",
+                    "homepage": null,
                     "id": 157077273,
                     "language": "QML",
+                    "license": "GPL-2.0",
                     "last_commit": "2024-07-11T12:50:25Z",
+                    "open_issues": 26,
                     "owner": "psifidotos",
                     "repo": "applet-window-title",
-                    "stars": 246
+                    "stars": 246,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -226,12 +341,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Linux / KDE Plasma desktop widget to control Philips Hue lights. Controls lights, groups and customizable actions.",
+                    "homepage": "https://store.kde.org/p/1168067/",
                     "id": 76859602,
                     "language": "QML",
+                    "license": "LGPL-2.1",
                     "last_commit": "2025-02-24T20:50:17Z",
+                    "open_issues": 8,
                     "owner": "Fuchs",
                     "repo": "hoppla-sa",
-                    "stars": 72
+                    "stars": 72,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -242,12 +362,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Latte Dock NG is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets. It animates its contents using a parabolic zoom effect and stays out of the way when not needed.",
+                    "homepage": null,
                     "id": 1203582717,
                     "language": "C++",
-                    "last_commit": "2026-08-28T06:29:59Z",
+                    "license": null,
+                    "last_commit": "2026-08-29T02:33:13Z",
+                    "open_issues": 4,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
-                    "stars": 52
+                    "stars": 53,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -258,12 +383,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Lightweight QML to do widget for KDE Plasma 6. Obsidian export, Syncthing sync.",
+                    "homepage": "https://www.opendesktop.org/p/2364121/",
                     "id": 1279544054,
                     "language": "QML",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-06-29T14:15:34Z",
+                    "open_issues": 0,
                     "owner": "lubdhak7414",
                     "repo": "KDoit",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": [
+                      "kde-plasma",
+                      "markdown",
+                      "obsidian",
+                      "plasma-6",
+                      "plasmoid",
+                      "qml",
+                      "todo"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -274,12 +412,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Plasma 5 widget that gives access to user places",
+                    "homepage": null,
                     "id": 50182426,
                     "language": "QML",
+                    "license": "GPL-2.0",
                     "last_commit": "2024-02-21T20:41:16Z",
+                    "open_issues": 11,
                     "owner": "dfaust",
                     "repo": "plasma-applet-places-widget",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": [
+                      "plasma-applet",
+                      "plasmoid"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 }
@@ -297,12 +443,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A small, hacky KDED module for handling automatic screen rotation on tablets and hybrid laptops.",
+                    "homepage": null,
                     "id": 69512250,
                     "language": "Shell",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-03-01T11:34:01Z",
+                    "open_issues": 15,
                     "owner": "dos1",
                     "repo": "kded_rotation",
-                    "stars": 64
+                    "stars": 64,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 }
@@ -320,12 +471,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MacOS big sur theme for kde plasma",
+                    "homepage": null,
                     "id": 276302007,
                     "language": "QML",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-07T06:58:36Z",
+                    "open_issues": 74,
                     "owner": "vinceliuice",
                     "repo": "WhiteSur-kde",
-                    "stars": 1253
+                    "stars": 1255,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -336,12 +492,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Arc KDE customization",
+                    "homepage": "https://git.io/arc-kde",
                     "id": 74888257,
                     "language": "QML",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-12-17T13:56:06Z",
+                    "open_issues": 31,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "arc-kde",
-                    "stars": 942
+                    "stars": 942,
+                    "topics": [
+                      "arc",
+                      "arc-dark",
+                      "arc-kde",
+                      "arc-theme",
+                      "color-scheme",
+                      "desktop-environment",
+                      "konsole",
+                      "linux",
+                      "papirus",
+                      "plasma-desktop",
+                      "theme"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -352,12 +525,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Materia KDE customization",
+                    "homepage": "https://git.io/materia-kde",
                     "id": 129393099,
                     "language": "QML",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-03-19T07:19:56Z",
+                    "open_issues": 15,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "materia-kde",
-                    "stars": 670
+                    "stars": 670,
+                    "topics": [
+                      "desktop-environment",
+                      "kde-desktop",
+                      "linux",
+                      "materia",
+                      "papirus",
+                      "papirus-icons",
+                      "plasma-theme",
+                      "theme"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -368,12 +555,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Layan kde theme",
+                    "homepage": null,
                     "id": 208568305,
                     "language": "QML",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-11-27T13:56:14Z",
+                    "open_issues": 40,
                     "owner": "vinceliuice",
                     "repo": "Layan-kde",
-                    "stars": 533
+                    "stars": 533,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -384,12 +576,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Adapta KDE customization",
+                    "homepage": "https://git.io/adapta-kde",
                     "id": 103366528,
                     "language": "Shell",
+                    "license": "GPL-3.0",
                     "last_commit": "2019-06-12T05:01:24Z",
+                    "open_issues": 16,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "adapta-kde",
-                    "stars": 459
+                    "stars": 459,
+                    "topics": [
+                      "adapta",
+                      "adapta-kde",
+                      "adapta-theme",
+                      "desktop-environment",
+                      "konsole",
+                      "linux",
+                      "papirus",
+                      "plasma-desktop",
+                      "theme"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -400,12 +607,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " Orchis themes for kde plasma",
+                    "homepage": null,
                     "id": 320842992,
                     "language": "QML",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-10-18T12:51:29Z",
+                    "open_issues": 23,
                     "owner": "vinceliuice",
                     "repo": "Orchis-kde",
-                    "stars": 329
+                    "stars": 329,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -416,12 +628,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MacOSX Mojave like theme for KDE Plasma",
+                    "homepage": null,
                     "id": 186126756,
                     "language": "QML",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-10-20T07:26:02Z",
+                    "open_issues": 33,
                     "owner": "vinceliuice",
                     "repo": "McMojave-kde",
-                    "stars": 261
+                    "stars": 261,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -432,12 +649,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fluent design theme for kde plasma",
+                    "homepage": null,
                     "id": 353390915,
                     "language": "QML",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-11-10T10:00:11Z",
+                    "open_issues": 34,
                     "owner": "vinceliuice",
                     "repo": "Fluent-kde",
-                    "stars": 239
+                    "stars": 239,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -448,12 +670,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "the complete KDE theme",
+                    "homepage": null,
                     "id": 221643063,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2021-08-02T02:18:15Z",
+                    "open_issues": 8,
                     "owner": "n4n0GH",
                     "repo": "hello",
-                    "stars": 215
+                    "stars": 215,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -464,12 +691,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ChromeOS theme for kde plasma",
+                    "homepage": null,
                     "id": 235731518,
                     "language": "QML",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-10-25T18:03:15Z",
+                    "open_issues": 24,
                     "owner": "vinceliuice",
                     "repo": "ChromeOS-kde",
-                    "stars": 193
+                    "stars": 193,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -480,12 +712,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Qogir theme for kde plasma desktop",
+                    "homepage": null,
                     "id": 179273262,
                     "language": "QML",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-12-20T16:37:44Z",
+                    "open_issues": 29,
                     "owner": "vinceliuice",
                     "repo": "Qogir-kde",
-                    "stars": 192
+                    "stars": 192,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -496,12 +733,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Canta theme for kde plasma desktop",
+                    "homepage": null,
                     "id": 187814463,
                     "language": "QML",
+                    "license": "GPL-3.0",
                     "last_commit": "2022-05-17T15:26:52Z",
+                    "open_issues": 7,
                     "owner": "vinceliuice",
                     "repo": "Canta-kde",
-                    "stars": 78
+                    "stars": 78,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -512,12 +754,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Darkine KDE - Theme for KDE Plasma 5 desktop > Mirror of https://git.rokin.in/Rokin/darkine-kde",
+                    "homepage": "https://git.rokin.in/Rokin/darkine-kde",
                     "id": 127411335,
                     "language": "CSS",
+                    "license": "GPL-3.0",
                     "last_commit": "2020-02-19T19:16:52Z",
+                    "open_issues": 1,
                     "owner": "Rokin05",
                     "repo": "darkine-kde",
-                    "stars": 47
+                    "stars": 47,
+                    "topics": [
+                      "aurorae",
+                      "aurorae-themes",
+                      "darkine",
+                      "darkine-kde",
+                      "darkine-theme",
+                      "desktop-environment",
+                      "icons",
+                      "kde",
+                      "kde-plasma-5",
+                      "kvantum-engine",
+                      "linux",
+                      "look-and-feel",
+                      "plasma",
+                      "plasma-desktop",
+                      "sddm-theme",
+                      "theme"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 }
@@ -535,12 +799,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OSX-like window decoration for KDE Plasma written in C++",
+                    "homepage": null,
                     "id": 113704381,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2021-11-12T00:32:25Z",
+                    "open_issues": 35,
                     "owner": "ishovkun",
                     "repo": "SierraBreeze",
-                    "stars": 355
+                    "stars": 355,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -551,12 +820,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Plasma desktop theme port of my Gtk theme",
+                    "homepage": null,
                     "id": 175077138,
                     "language": null,
+                    "license": null,
                     "last_commit": "2025-04-25T17:35:46Z",
+                    "open_issues": 30,
                     "owner": "EliverLara",
                     "repo": "Sweet-kde",
-                    "stars": 247
+                    "stars": 248,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -567,12 +841,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A fork of KDE Breeze decoration with additional options",
+                    "homepage": null,
                     "id": 151511847,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-04-19T18:23:40Z",
+                    "open_issues": 0,
                     "owner": "tsujan",
                     "repo": "BreezeEnhanced",
-                    "stars": 213
+                    "stars": 214,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -583,12 +862,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "BreezeBlurred is a fork of KDE Breeze window decoration written in Qt C++",
+                    "homepage": null,
                     "id": 124701524,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-03-15T02:34:19Z",
+                    "open_issues": 12,
                     "owner": "alex47",
                     "repo": "BreezeBlurred",
-                    "stars": 199
+                    "stars": 199,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -599,12 +883,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "User oriented Kvantum theme for KDE ",
+                    "homepage": "https://akava-design.github.io/",
                     "id": 156449392,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2023-03-02T22:06:54Z",
+                    "open_issues": 7,
                     "owner": "Akava-Design",
                     "repo": "Akava-Kv",
-                    "stars": 196
+                    "stars": 196,
+                    "topics": [
+                      "kde",
+                      "kvantum",
+                      "plasma"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -615,12 +908,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Rounds the corners of your windows",
+                    "homepage": null,
                     "id": 149976843,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-10-23T07:14:40Z",
+                    "open_issues": 16,
                     "owner": "alex47",
                     "repo": "KDE-Rounded-Corners",
-                    "stars": 168
+                    "stars": 168,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -631,12 +929,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Windows 10 style windows decoration for KDE Plasma",
+                    "homepage": null,
                     "id": 197943072,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-11-29T08:24:14Z",
+                    "open_issues": 8,
                     "owner": "fauzie811",
                     "repo": "Breeze10",
-                    "stars": 122
+                    "stars": 122,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -647,12 +950,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🌄 Windows XP window decorations for KDE Plasma",
+                    "homepage": null,
                     "id": 223614906,
                     "language": null,
+                    "license": null,
                     "last_commit": "2019-11-23T16:07:04Z",
+                    "open_issues": 0,
                     "owner": "efskap",
                     "repo": "XBoomer",
-                    "stars": 114
+                    "stars": 114,
+                    "topics": [
+                      "aurorae-theme",
+                      "boomer",
+                      "kde-plasma-5",
+                      "windows-xp"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -663,12 +976,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Breeze widget theme for GTK 2 and 3",
+                    "homepage": "https://invent.kde.org/plasma/breeze-gtk",
                     "id": 44812667,
                     "language": "SCSS",
+                    "license": null,
                     "last_commit": "2026-08-18T13:50:23Z",
+                    "open_issues": 0,
                     "owner": "KDE",
                     "repo": "breeze-gtk",
-                    "stars": 87
+                    "stars": 87,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -679,12 +997,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A theme for Chrome/Chromium on KDE5 when using Breeze Dark window decorations.",
+                    "homepage": null,
                     "id": 175886336,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-09-05T03:27:16Z",
+                    "open_issues": 0,
                     "owner": "pdeljanov",
                     "repo": "Chrome-KDE5BreezeDark",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": [
+                      "chrome",
+                      "chrome-extension",
+                      "chromium",
+                      "chromium-extension",
+                      "kde",
+                      "kde-plasma-5"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 }
@@ -702,12 +1032,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pixel perfect icon theme for Linux",
+                    "homepage": "https://git.io/papirus-icon-theme",
                     "id": 60187911,
                     "language": "Shell",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-01T14:42:16Z",
+                    "open_issues": 582,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8040
+                    "stars": 8042,
+                    "topics": [
+                      "icon-theme",
+                      "icons",
+                      "linux",
+                      "papirus",
+                      "papirus-icon-theme",
+                      "papirus-theme",
+                      "theme"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -718,12 +1061,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "La Capitaine is an icon pack designed to integrate with most desktop environments. The set of icons takes inspiration from the latest iterations of macOS and Google's Material Design.",
+                    "homepage": "https://krourke.org/projects/art/la-capitaine-icon-theme",
                     "id": 59041972,
                     "language": "Shell",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-11-25T05:43:53Z",
+                    "open_issues": 115,
                     "owner": "keeferrourke",
                     "repo": "la-capitaine-icon-theme",
-                    "stars": 1994
+                    "stars": 1994,
+                    "topics": [
+                      "breeze",
+                      "desktop-environment",
+                      "gnome",
+                      "gnome-theme-icons",
+                      "gnu-linux",
+                      "google-material",
+                      "gplv3",
+                      "human-interface",
+                      "icon-pack",
+                      "icon-theme",
+                      "icons",
+                      "kde",
+                      "la-capitaine",
+                      "linux",
+                      "macos",
+                      "material",
+                      "mit-license",
+                      "theme"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -734,12 +1101,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A flat colorful Design icon theme",
+                    "homepage": "https://www.pling.com/p/1279924/",
                     "id": 161761762,
                     "language": "Shell",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-10T08:17:34Z",
+                    "open_issues": 104,
                     "owner": "vinceliuice",
                     "repo": "Tela-icon-theme",
-                    "stars": 1860
+                    "stars": 1861,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -750,12 +1122,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":lollipop: Sweet gradient icons",
+                    "homepage": "https://www.opendesktop.org/p/1305251/",
                     "id": 171178504,
                     "language": null,
+                    "license": "GPL-3.0",
                     "last_commit": "2026-03-06T23:36:09Z",
+                    "open_issues": 148,
                     "owner": "EliverLara",
                     "repo": "candy-icons",
-                    "stars": 1313
+                    "stars": 1313,
+                    "topics": [
+                      "hacktoberfest",
+                      "icons",
+                      "theme"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -766,12 +1147,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "icon pack flat with light colors",
+                    "homepage": null,
                     "id": 109065735,
                     "language": "Shell",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-11-05T16:20:36Z",
+                    "open_issues": 21,
                     "owner": "zayronxio",
                     "repo": "Zafiro-icons",
-                    "stars": 463
+                    "stars": 463,
+                    "topics": [
+                      "artwork",
+                      "flat-ui",
+                      "lxde",
+                      "lxqt",
+                      "xfce4"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -782,12 +1174,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Flatery is icon theme for linux in flat style licensed under the CC BY-NC-SA 3.0 ",
+                    "homepage": null,
                     "id": 217010821,
                     "language": "Shell",
+                    "license": null,
                     "last_commit": "2022-03-18T04:37:26Z",
+                    "open_issues": 6,
                     "owner": "cbrnix",
                     "repo": "Flatery",
-                    "stars": 323
+                    "stars": 324,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 }
@@ -805,12 +1202,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to pair well with my icon pack, La Capitaine.",
+                    "homepage": null,
                     "id": 63390178,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-06-05T13:11:37Z",
+                    "open_issues": 16,
                     "owner": "keeferrourke",
                     "repo": "capitaine-cursors",
-                    "stars": 1229
+                    "stars": 1229,
+                    "topics": [
+                      "breeze",
+                      "capitaine-cursors",
+                      "cursor-theme",
+                      "desktop-environment",
+                      "gnu-linux",
+                      "gnu-linux-theme",
+                      "kde",
+                      "kde-breeze",
+                      "rice",
+                      "svg-icons",
+                      "theme",
+                      "xcursor"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 }
@@ -828,12 +1243,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A dynamic tiling extension for KWin",
+                    "homepage": null,
                     "id": 778641041,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2025-12-11T10:32:49Z",
+                    "open_issues": 24,
                     "owner": "anametologin",
                     "repo": "krohnkite",
-                    "stars": 1235
+                    "stars": 1235,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -844,12 +1264,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Tiling script for kwin",
+                    "homepage": null,
                     "id": 11960929,
                     "language": "JavaScript",
+                    "license": "GPL-2.0",
                     "last_commit": "2022-11-08T21:32:22Z",
+                    "open_issues": 16,
                     "owner": "kwin-scripts",
                     "repo": "kwin-tiling",
-                    "stars": 1093
+                    "stars": 1093,
+                    "topics": [
+                      "javascript",
+                      "kwin"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -860,12 +1288,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A kwin script that automatically tiles windows",
+                    "homepage": null,
                     "id": 110171488,
                     "language": "JavaScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-22T17:24:21Z",
+                    "open_issues": 2,
                     "owner": "lingtjien",
                     "repo": "Grid-Tiling-Kwin",
-                    "stars": 913
+                    "stars": 913,
+                    "topics": [
+                      "javascript",
+                      "kde",
+                      "kwin",
+                      "kwin-script",
+                      "plasma",
+                      "qml"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 }
@@ -883,12 +1323,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The hottest login theme around for KDE Plasma 5",
+                    "homepage": "https://www.opendesktop.org/p/1214121",
                     "id": 129311303,
                     "language": "QML",
+                    "license": "GPL-3.0",
                     "last_commit": "2019-07-23T20:32:59Z",
+                    "open_issues": 6,
                     "owner": "MarianArlt",
                     "repo": "kde-plasma-chili",
-                    "stars": 226
+                    "stars": 226,
+                    "topics": [
+                      "blurred-background",
+                      "customizable",
+                      "kde-plasma",
+                      "linux",
+                      "qml",
+                      "sddm",
+                      "sddm-theme",
+                      "theme"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 },
@@ -899,12 +1353,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A delicious SDDM theme for DE collectors/addicts",
+                    "homepage": null,
                     "id": 172219706,
                     "language": "QML",
+                    "license": null,
                     "last_commit": "2020-10-02T22:52:22Z",
+                    "open_issues": 4,
                     "owner": "stuomas",
                     "repo": "delicious-sddm-theme",
-                    "stars": 117
+                    "stars": 117,
+                    "topics": [
+                      "kde",
+                      "kde-plasma",
+                      "sddm",
+                      "sddm-theme"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
                 }
@@ -923,15 +1387,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:57:02.631Z",
+    "last_updated": "2026-08-29T04:12:26.699Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
+      "homepage": null,
       "id": 126171103,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-07-23T08:53:09Z",
+      "open_issues": 3,
       "owner": "francoism90",
       "repo": "awesome-kde",
-      "stars": 839
+      "stars": 840,
+      "topics": [
+        "applications",
+        "awesome",
+        "awesome-list",
+        "kde",
+        "kde-desktop",
+        "linux",
+        "plasma",
+        "qt",
+        "qt5"
+      ]
     },
     "original_repository_sha": "579f44b5998628785e7191f6755ed418c2e27e84",
     "enhanced_repository": "enhansome/enhansome-kde",
