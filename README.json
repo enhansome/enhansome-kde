@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "Agundur-KDE",
                 "repo": "KCast",
-                "stars": 55,
+                "stars": 56,
                 "topics": [
                   "chromecast",
                   "kde",
@@ -39,6 +39,53 @@
           "description": null,
           "node_type": "group",
           "title": "Multimedia"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Blitztext Linux",
+              "description": "Hotkey-driven voice dictation tray app for KDE Plasma/Wayland: hold a key, speak, and the local Whisper transcript is pasted into the active app. Optional LLM text workflows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Standalone Linux port of Blitztext for speech-to-text workflows, AI-assisted rewriting, global hotkeys, tray usage, and clipboard/auto-paste integration.",
+                "homepage": "https://timintech.github.io/blitztextweb/",
+                "id": 1271668766,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-08-31T23:11:20Z",
+                "open_issues": 0,
+                "owner": "TimInTech",
+                "repo": "blitztext-linux",
+                "stars": 10,
+                "topics": [
+                  "blitztext",
+                  "desktop-app",
+                  "dictation",
+                  "flatpak",
+                  "global-hotkeys",
+                  "kde-plasma",
+                  "linux",
+                  "openai-whisper",
+                  "productivity",
+                  "pyqt6",
+                  "speech-recognition",
+                  "speech-to-text",
+                  "system-tray",
+                  "transcription",
+                  "voice-assistant",
+                  "voice-typing",
+                  "wayland",
+                  "whisper"
+                ]
+              },
+              "first_seen": "2026-09-02T01:03:19.557Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Accessibility"
         },
         {
           "children": [
@@ -162,7 +209,7 @@
                 "language": "QML",
                 "license": "GPL-3.0",
                 "last_commit": "2026-06-07T08:38:03Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "terslang",
                 "repo": "LocalTranslate",
                 "stars": 62,
@@ -241,7 +288,7 @@
                     "open_issues": 0,
                     "owner": "tsujan",
                     "repo": "Kvantum",
-                    "stars": 2024,
+                    "stars": 2023,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -262,7 +309,7 @@
                     "open_issues": 70,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1111,
+                    "stars": 1113,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -283,7 +330,7 @@
                     "open_issues": 26,
                     "owner": "psifidotos",
                     "repo": "applet-window-appmenu",
-                    "stars": 413,
+                    "stars": 414,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -428,6 +475,168 @@
                     ]
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "kfritz",
+                  "description": "A Plasma 6 callmonitor widget for the AVM FRITZ!Box.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A KDE Plasma 6 callmonitor plasmoid for the AVM FRITZ!Box on your Desktop",
+                    "homepage": "https://github.com/Agundur-KDE/kfritz",
+                    "id": 1011665035,
+                    "language": "C++",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-08-31T11:31:52Z",
+                    "open_issues": 2,
+                    "owner": "Agundur-KDE",
+                    "repo": "kfritz",
+                    "stars": 6,
+                    "topics": [
+                      "avm-fritz",
+                      "desktop",
+                      "fritz-box",
+                      "fritzbox",
+                      "kde",
+                      "linux",
+                      "monitoring",
+                      "plasma-desktop",
+                      "plasma6",
+                      "plasmoid",
+                      "qml",
+                      "qt6",
+                      "telephony",
+                      "widget"
+                    ]
+                  },
+                  "first_seen": "2026-09-02T01:03:19.557Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "EZMonitor",
+                  "description": "A Plasma 6 widget that shows the live power output of an APsystems EZ1 microinverter.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "EZMonitor is a KDE Plasma6 Plasmoid to connect to a apsystems EZ1 Microinverter and show the power each solar panel is producing.",
+                    "homepage": "https://github.com/Agundur-KDE/EZMonitor",
+                    "id": 1000173794,
+                    "language": "QML",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-07-30T11:29:38Z",
+                    "open_issues": 0,
+                    "owner": "Agundur-KDE",
+                    "repo": "EZMonitor",
+                    "stars": 5,
+                    "topics": [
+                      "ez1",
+                      "inverter",
+                      "kde",
+                      "kde-desktop",
+                      "kde-plasma",
+                      "kde-plasma-6",
+                      "microinverter",
+                      "solar",
+                      "solar-energy",
+                      "solar-system"
+                    ]
+                  },
+                  "first_seen": "2026-09-02T01:03:19.557Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "KPictureFrame",
+                  "description": "A Plasma 6 widget that turns your desktop into a picture frame.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A KDE Plasma 6 picture frame for your desktop",
+                    "homepage": "https://github.com/Agundur-KDE/KPictureFrame",
+                    "id": 1009642942,
+                    "language": "QML",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-08-02T11:04:39Z",
+                    "open_issues": 0,
+                    "owner": "Agundur-KDE",
+                    "repo": "KPictureFrame",
+                    "stars": 5,
+                    "topics": [
+                      "kde",
+                      "kde-desktop",
+                      "kde-plasma",
+                      "kde-plasma-6",
+                      "picture-viewer",
+                      "qml",
+                      "utility"
+                    ]
+                  },
+                  "first_seen": "2026-09-02T01:03:19.557Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "KClaude",
+                  "description": "A Plasma 6 widget to remember Claude Code sessions and resume them in the right directory with one click.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "KDE Plasma 6 Plasmoid: Claude Code Sessions merken und mit einem Klick im richtigen Verzeichnis fortsetzen",
+                    "homepage": null,
+                    "id": 1291081304,
+                    "language": "QML",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-07-30T11:29:33Z",
+                    "open_issues": 0,
+                    "owner": "Agundur-KDE",
+                    "repo": "KClaude",
+                    "stars": 2,
+                    "topics": [
+                      "ai-coding-assistant",
+                      "claude-ai",
+                      "claude-code",
+                      "kde",
+                      "kde-desktop",
+                      "kde-plasma",
+                      "kde-plasma-6",
+                      "plasma6",
+                      "plasmoid",
+                      "productivity",
+                      "qml",
+                      "session-manager"
+                    ]
+                  },
+                  "first_seen": "2026-09-02T01:03:19.557Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "OSBMonitor",
+                  "description": "A Plasma 6 widget that monitors the build status of your Open Build Service projects and packages.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "OSBMonitor is a lightweight KDE Plasma 6 widget (Plasmoid) that monitors the build status of your [Open Build Service (OBS)](https://build.opensuse.org/) projects and packages. It provides at-a-glance visual feedback about the health of your builds, directly in your Plasma desktop panel.",
+                    "homepage": "https://github.com/Agundur-KDE/KCast",
+                    "id": 1003519906,
+                    "language": "QML",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-06T05:16:47Z",
+                    "open_issues": 0,
+                    "owner": "Agundur-KDE",
+                    "repo": "OSBMonitor",
+                    "stars": 2,
+                    "topics": [
+                      "builservice",
+                      "kde",
+                      "monitoring",
+                      "monitoring-tool",
+                      "osb",
+                      "plasma",
+                      "plasma6",
+                      "plasmoid",
+                      "suse"
+                    ]
+                  },
+                  "first_seen": "2026-09-02T01:03:19.557Z"
                 }
               ],
               "description": null,
@@ -501,7 +710,7 @@
                     "open_issues": 31,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "arc-kde",
-                    "stars": 942,
+                    "stars": 941,
                     "topics": [
                       "arc",
                       "arc-dark",
@@ -1041,7 +1250,7 @@
                     "open_issues": 584,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8049,
+                    "stars": 8047,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1183,7 +1392,7 @@
                     "open_issues": 6,
                     "owner": "cbrnix",
                     "repo": "Flatery",
-                    "stars": 324,
+                    "stars": 325,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1387,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T01:50:59.601Z",
+    "last_updated": "2026-09-02T01:03:19.557Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
@@ -1395,11 +1604,11 @@
       "id": 126171103,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-07-23T08:53:09Z",
-      "open_issues": 3,
+      "last_commit": "2026-09-01T07:23:36Z",
+      "open_issues": 1,
       "owner": "francoism90",
       "repo": "awesome-kde",
-      "stars": 843,
+      "stars": 844,
       "topics": [
         "applications",
         "awesome",
@@ -1412,7 +1621,7 @@
         "qt5"
       ]
     },
-    "original_repository_sha": "579f44b5998628785e7191f6755ed418c2e27e84",
+    "original_repository_sha": "ee85f08c664ec5abab292f2679ec6dd391a1fcf0",
     "enhanced_repository": "enhansome/enhansome-kde",
     "enhanced_repository_description": null,
     "title": "Awesome KDE with stars"
