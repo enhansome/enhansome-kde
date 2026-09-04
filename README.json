@@ -288,7 +288,7 @@
                     "open_issues": 0,
                     "owner": "tsujan",
                     "repo": "Kvantum",
-                    "stars": 2024,
+                    "stars": 2026,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -330,7 +330,7 @@
                     "open_issues": 26,
                     "owner": "psifidotos",
                     "repo": "applet-window-appmenu",
-                    "stars": 414,
+                    "stars": 415,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -414,7 +414,7 @@
                     "id": 1203582717,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-08-31T14:42:34Z",
+                    "last_commit": "2026-09-03T16:04:54Z",
                     "open_issues": 5,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
@@ -773,7 +773,7 @@
                     "open_issues": 40,
                     "owner": "vinceliuice",
                     "repo": "Layan-kde",
-                    "stars": 533,
+                    "stars": 534,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -825,7 +825,7 @@
                     "open_issues": 23,
                     "owner": "vinceliuice",
                     "repo": "Orchis-kde",
-                    "stars": 332,
+                    "stars": 331,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1250,7 +1250,7 @@
                     "open_issues": 584,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8051,
+                    "stars": 8052,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1541,7 +1541,7 @@
                     "open_issues": 6,
                     "owner": "MarianArlt",
                     "repo": "kde-plasma-chili",
-                    "stars": 226,
+                    "stars": 227,
                     "topics": [
                       "blurred-background",
                       "customizable",
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T01:08:25.215Z",
+    "last_updated": "2026-09-04T01:01:38.371Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
@@ -1608,7 +1608,7 @@
       "open_issues": 1,
       "owner": "francoism90",
       "repo": "awesome-kde",
-      "stars": 844,
+      "stars": 845,
       "topics": [
         "applications",
         "awesome",
