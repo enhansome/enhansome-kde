@@ -288,7 +288,7 @@
                     "open_issues": 0,
                     "owner": "tsujan",
                     "repo": "Kvantum",
-                    "stars": 2028,
+                    "stars": 2027,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -309,7 +309,7 @@
                     "open_issues": 70,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1121,
+                    "stars": 1122,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -439,7 +439,7 @@
                     "open_issues": 0,
                     "owner": "lubdhak7414",
                     "repo": "KDoit",
-                    "stars": 14,
+                    "stars": 15,
                     "topics": [
                       "kde-plasma",
                       "markdown",
@@ -689,7 +689,7 @@
                     "open_issues": 75,
                     "owner": "vinceliuice",
                     "repo": "WhiteSur-kde",
-                    "stars": 1264,
+                    "stars": 1265,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -972,7 +972,7 @@
                     "open_issues": 1,
                     "owner": "Rokin05",
                     "repo": "darkine-kde",
-                    "stars": 47,
+                    "stars": 48,
                     "topics": [
                       "aurorae",
                       "aurorae-themes",
@@ -1250,7 +1250,7 @@
                     "open_issues": 586,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8058,
+                    "stars": 8063,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1319,7 +1319,7 @@
                     "open_issues": 104,
                     "owner": "vinceliuice",
                     "repo": "Tela-icon-theme",
-                    "stars": 1868,
+                    "stars": 1870,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1340,7 +1340,7 @@
                     "open_issues": 148,
                     "owner": "EliverLara",
                     "repo": "candy-icons",
-                    "stars": 1312,
+                    "stars": 1314,
                     "topics": [
                       "hacktoberfest",
                       "icons",
@@ -1420,7 +1420,7 @@
                     "open_issues": 16,
                     "owner": "keeferrourke",
                     "repo": "capitaine-cursors",
-                    "stars": 1230,
+                    "stars": 1231,
                     "topics": [
                       "breeze",
                       "capitaine-cursors",
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T01:02:24.974Z",
+    "last_updated": "2026-09-07T01:03:54.152Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
@@ -1608,7 +1608,7 @@
       "open_issues": 1,
       "owner": "francoism90",
       "repo": "awesome-kde",
-      "stars": 845,
+      "stars": 847,
       "topics": [
         "applications",
         "awesome",
