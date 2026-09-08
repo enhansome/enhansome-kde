@@ -17,11 +17,11 @@
                 "id": 1000167744,
                 "language": "QML",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-31T09:02:07Z",
+                "last_commit": "2026-09-07T09:53:41Z",
                 "open_issues": 1,
                 "owner": "Agundur-KDE",
                 "repo": "KCast",
-                "stars": 56,
+                "stars": 57,
                 "topics": [
                   "chromecast",
                   "kde",
@@ -233,7 +233,7 @@
                 "open_issues": 3,
                 "owner": "rcspam",
                 "repo": "dictee",
-                "stars": 57,
+                "stars": 58,
                 "topics": [
                   "asr",
                   "dictation-tool",
@@ -288,7 +288,7 @@
                     "open_issues": 0,
                     "owner": "tsujan",
                     "repo": "Kvantum",
-                    "stars": 2027,
+                    "stars": 2028,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -309,7 +309,7 @@
                     "open_issues": 70,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1122,
+                    "stars": 1127,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -418,7 +418,7 @@
                     "open_issues": 6,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
-                    "stars": 55,
+                    "stars": 56,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -686,10 +686,10 @@
                     "language": "QML",
                     "license": "GPL-3.0",
                     "last_commit": "2026-08-07T06:58:36Z",
-                    "open_issues": 75,
+                    "open_issues": 76,
                     "owner": "vinceliuice",
                     "repo": "WhiteSur-kde",
-                    "stars": 1265,
+                    "stars": 1266,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -710,7 +710,7 @@
                     "open_issues": 31,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "arc-kde",
-                    "stars": 941,
+                    "stars": 942,
                     "topics": [
                       "arc",
                       "arc-dark",
@@ -773,7 +773,7 @@
                     "open_issues": 40,
                     "owner": "vinceliuice",
                     "repo": "Layan-kde",
-                    "stars": 534,
+                    "stars": 535,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -909,7 +909,7 @@
                     "open_issues": 24,
                     "owner": "vinceliuice",
                     "repo": "ChromeOS-kde",
-                    "stars": 194,
+                    "stars": 195,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -930,7 +930,7 @@
                     "open_issues": 29,
                     "owner": "vinceliuice",
                     "repo": "Qogir-kde",
-                    "stars": 191,
+                    "stars": 192,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1250,7 +1250,7 @@
                     "open_issues": 586,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8063,
+                    "stars": 8065,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1319,7 +1319,7 @@
                     "open_issues": 104,
                     "owner": "vinceliuice",
                     "repo": "Tela-icon-theme",
-                    "stars": 1870,
+                    "stars": 1871,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1340,7 +1340,7 @@
                     "open_issues": 148,
                     "owner": "EliverLara",
                     "repo": "candy-icons",
-                    "stars": 1314,
+                    "stars": 1315,
                     "topics": [
                       "hacktoberfest",
                       "icons",
@@ -1392,7 +1392,7 @@
                     "open_issues": 6,
                     "owner": "cbrnix",
                     "repo": "Flatery",
-                    "stars": 326,
+                    "stars": 327,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1420,7 +1420,7 @@
                     "open_issues": 16,
                     "owner": "keeferrourke",
                     "repo": "capitaine-cursors",
-                    "stars": 1231,
+                    "stars": 1232,
                     "topics": [
                       "breeze",
                       "capitaine-cursors",
@@ -1461,7 +1461,7 @@
                     "open_issues": 24,
                     "owner": "anametologin",
                     "repo": "krohnkite",
-                    "stars": 1234,
+                    "stars": 1233,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T01:03:54.152Z",
+    "last_updated": "2026-09-08T01:14:10.086Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
@@ -1608,7 +1608,7 @@
       "open_issues": 1,
       "owner": "francoism90",
       "repo": "awesome-kde",
-      "stars": 847,
+      "stars": 848,
       "topics": [
         "applications",
         "awesome",
