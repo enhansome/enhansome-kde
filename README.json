@@ -306,10 +306,10 @@
                     "language": "TypeScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-08-23T12:11:23Z",
-                    "open_issues": 70,
+                    "open_issues": 71,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1127,
+                    "stars": 1133,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -415,7 +415,7 @@
                     "language": "C++",
                     "license": null,
                     "last_commit": "2026-09-04T13:35:10Z",
-                    "open_issues": 6,
+                    "open_issues": 7,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
                     "stars": 56,
@@ -773,7 +773,7 @@
                     "open_issues": 40,
                     "owner": "vinceliuice",
                     "repo": "Layan-kde",
-                    "stars": 535,
+                    "stars": 536,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -825,7 +825,7 @@
                     "open_issues": 23,
                     "owner": "vinceliuice",
                     "repo": "Orchis-kde",
-                    "stars": 332,
+                    "stars": 333,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1190,7 +1190,7 @@
                     "id": 44812667,
                     "language": "SCSS",
                     "license": null,
-                    "last_commit": "2026-08-18T13:50:23Z",
+                    "last_commit": "2026-09-08T11:28:40Z",
                     "open_issues": 0,
                     "owner": "KDE",
                     "repo": "breeze-gtk",
@@ -1319,7 +1319,7 @@
                     "open_issues": 104,
                     "owner": "vinceliuice",
                     "repo": "Tela-icon-theme",
-                    "stars": 1871,
+                    "stars": 1873,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T01:14:10.086Z",
+    "last_updated": "2026-09-09T01:16:17.913Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
