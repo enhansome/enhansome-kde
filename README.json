@@ -136,7 +136,7 @@
                 "open_issues": 41,
                 "owner": "Maldela",
                 "repo": "fancontrol-gui",
-                "stars": 390,
+                "stars": 389,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:02.631Z"
@@ -230,10 +230,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-31T14:39:25Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "rcspam",
                 "repo": "dictee",
-                "stars": 58,
+                "stars": 59,
                 "topics": [
                   "asr",
                   "dictation-tool",
@@ -309,7 +309,7 @@
                     "open_issues": 72,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1134,
+                    "stars": 1135,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -557,7 +557,7 @@
                     "language": "QML",
                     "license": "GPL-3.0",
                     "last_commit": "2026-08-02T11:04:39Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "Agundur-KDE",
                     "repo": "KPictureFrame",
                     "stars": 5,
@@ -1190,7 +1190,7 @@
                     "id": 44812667,
                     "language": "SCSS",
                     "license": null,
-                    "last_commit": "2026-09-08T11:28:40Z",
+                    "last_commit": "2026-09-10T14:29:54Z",
                     "open_issues": 0,
                     "owner": "KDE",
                     "repo": "breeze-gtk",
@@ -1250,7 +1250,7 @@
                     "open_issues": 586,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8072,
+                    "stars": 8073,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1279,7 +1279,7 @@
                     "open_issues": 115,
                     "owner": "keeferrourke",
                     "repo": "la-capitaine-icon-theme",
-                    "stars": 1994,
+                    "stars": 1995,
                     "topics": [
                       "breeze",
                       "desktop-environment",
@@ -1319,7 +1319,7 @@
                     "open_issues": 104,
                     "owner": "vinceliuice",
                     "repo": "Tela-icon-theme",
-                    "stars": 1874,
+                    "stars": 1873,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1340,7 +1340,7 @@
                     "open_issues": 148,
                     "owner": "EliverLara",
                     "repo": "candy-icons",
-                    "stars": 1315,
+                    "stars": 1314,
                     "topics": [
                       "hacktoberfest",
                       "icons",
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T01:07:16.887Z",
+    "last_updated": "2026-09-11T01:09:01.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
@@ -1608,7 +1608,7 @@
       "open_issues": 1,
       "owner": "francoism90",
       "repo": "awesome-kde",
-      "stars": 849,
+      "stars": 851,
       "topics": [
         "applications",
         "awesome",
