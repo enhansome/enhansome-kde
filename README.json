@@ -136,7 +136,7 @@
                 "open_issues": 41,
                 "owner": "Maldela",
                 "repo": "fancontrol-gui",
-                "stars": 389,
+                "stars": 390,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:02.631Z"
@@ -230,7 +230,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-31T14:39:25Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "rcspam",
                 "repo": "dictee",
                 "stars": 59,
@@ -288,7 +288,7 @@
                     "open_issues": 0,
                     "owner": "tsujan",
                     "repo": "Kvantum",
-                    "stars": 2028,
+                    "stars": 2029,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -418,7 +418,7 @@
                     "open_issues": 7,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
-                    "stars": 56,
+                    "stars": 57,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -556,8 +556,8 @@
                     "id": 1009642942,
                     "language": "QML",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-02T11:04:39Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-09-11T07:27:19Z",
+                    "open_issues": 0,
                     "owner": "Agundur-KDE",
                     "repo": "KPictureFrame",
                     "stars": 5,
@@ -1247,10 +1247,10 @@
                     "language": "Shell",
                     "license": "GPL-3.0",
                     "last_commit": "2026-08-01T14:42:16Z",
-                    "open_issues": 586,
+                    "open_issues": 587,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8073,
+                    "stars": 8075,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1319,7 +1319,7 @@
                     "open_issues": 104,
                     "owner": "vinceliuice",
                     "repo": "Tela-icon-theme",
-                    "stars": 1873,
+                    "stars": 1874,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T01:09:01.117Z",
+    "last_updated": "2026-09-12T01:10:44.848Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
@@ -1608,7 +1608,7 @@
       "open_issues": 1,
       "owner": "francoism90",
       "repo": "awesome-kde",
-      "stars": 851,
+      "stars": 850,
       "topics": [
         "applications",
         "awesome",
