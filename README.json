@@ -212,7 +212,7 @@
                 "open_issues": 15,
                 "owner": "terslang",
                 "repo": "LocalTranslate",
-                "stars": 64,
+                "stars": 65,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:02.631Z"
@@ -309,7 +309,7 @@
                     "open_issues": 72,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1136,
+                    "stars": 1135,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -414,11 +414,11 @@
                     "id": 1203582717,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-09-04T13:35:10Z",
+                    "last_commit": "2026-09-13T10:08:31Z",
                     "open_issues": 6,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
-                    "stars": 57,
+                    "stars": 58,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -689,7 +689,7 @@
                     "open_issues": 76,
                     "owner": "vinceliuice",
                     "repo": "WhiteSur-kde",
-                    "stars": 1270,
+                    "stars": 1272,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -825,7 +825,7 @@
                     "open_issues": 23,
                     "owner": "vinceliuice",
                     "repo": "Orchis-kde",
-                    "stars": 336,
+                    "stars": 337,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1101,7 +1101,7 @@
                     "open_issues": 7,
                     "owner": "Akava-Design",
                     "repo": "Akava-Kv",
-                    "stars": 193,
+                    "stars": 192,
                     "topics": [
                       "kde",
                       "kvantum",
@@ -1319,7 +1319,7 @@
                     "open_issues": 104,
                     "owner": "vinceliuice",
                     "repo": "Tela-icon-theme",
-                    "stars": 1874,
+                    "stars": 1875,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1337,10 +1337,10 @@
                     "language": null,
                     "license": "GPL-3.0",
                     "last_commit": "2026-03-06T23:36:09Z",
-                    "open_issues": 148,
+                    "open_issues": 151,
                     "owner": "EliverLara",
                     "repo": "candy-icons",
-                    "stars": 1314,
+                    "stars": 1315,
                     "topics": [
                       "hacktoberfest",
                       "icons",
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T01:04:05.227Z",
+    "last_updated": "2026-09-14T01:10:25.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
@@ -1608,7 +1608,7 @@
       "open_issues": 1,
       "owner": "francoism90",
       "repo": "awesome-kde",
-      "stars": 850,
+      "stars": 851,
       "topics": [
         "applications",
         "awesome",
