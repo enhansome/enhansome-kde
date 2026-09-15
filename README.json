@@ -17,7 +17,7 @@
                 "id": 1000167744,
                 "language": "QML",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-07T09:53:41Z",
+                "last_commit": "2026-09-14T08:03:42Z",
                 "open_issues": 1,
                 "owner": "Agundur-KDE",
                 "repo": "KCast",
@@ -136,7 +136,7 @@
                 "open_issues": 41,
                 "owner": "Maldela",
                 "repo": "fancontrol-gui",
-                "stars": 390,
+                "stars": 391,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:02.631Z"
@@ -288,7 +288,7 @@
                     "open_issues": 0,
                     "owner": "tsujan",
                     "repo": "Kvantum",
-                    "stars": 2029,
+                    "stars": 2030,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -414,7 +414,7 @@
                     "id": 1203582717,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-09-13T10:08:31Z",
+                    "last_commit": "2026-09-15T00:25:21Z",
                     "open_issues": 6,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
@@ -488,11 +488,11 @@
                     "id": 1011665035,
                     "language": "C++",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-31T11:31:52Z",
+                    "last_commit": "2026-09-14T08:03:43Z",
                     "open_issues": 2,
                     "owner": "Agundur-KDE",
                     "repo": "kfritz",
-                    "stars": 6,
+                    "stars": 7,
                     "topics": [
                       "avm-fritz",
                       "desktop",
@@ -556,7 +556,7 @@
                     "id": 1009642942,
                     "language": "QML",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-11T07:27:19Z",
+                    "last_commit": "2026-09-14T08:03:45Z",
                     "open_issues": 0,
                     "owner": "Agundur-KDE",
                     "repo": "KPictureFrame",
@@ -689,7 +689,7 @@
                     "open_issues": 76,
                     "owner": "vinceliuice",
                     "repo": "WhiteSur-kde",
-                    "stars": 1272,
+                    "stars": 1271,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1190,7 +1190,7 @@
                     "id": 44812667,
                     "language": "SCSS",
                     "license": null,
-                    "last_commit": "2026-09-10T14:29:54Z",
+                    "last_commit": "2026-09-14T12:24:34Z",
                     "open_issues": 0,
                     "owner": "KDE",
                     "repo": "breeze-gtk",
@@ -1250,7 +1250,7 @@
                     "open_issues": 587,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8078,
+                    "stars": 8081,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1337,7 +1337,7 @@
                     "language": null,
                     "license": "GPL-3.0",
                     "last_commit": "2026-03-06T23:36:09Z",
-                    "open_issues": 151,
+                    "open_issues": 152,
                     "owner": "EliverLara",
                     "repo": "candy-icons",
                     "stars": 1315,
@@ -1420,7 +1420,7 @@
                     "open_issues": 16,
                     "owner": "keeferrourke",
                     "repo": "capitaine-cursors",
-                    "stars": 1232,
+                    "stars": 1235,
                     "topics": [
                       "breeze",
                       "capitaine-cursors",
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T01:10:25.877Z",
+    "last_updated": "2026-09-15T01:31:49.222Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
@@ -1608,7 +1608,7 @@
       "open_issues": 1,
       "owner": "francoism90",
       "repo": "awesome-kde",
-      "stars": 851,
+      "stars": 852,
       "topics": [
         "applications",
         "awesome",
