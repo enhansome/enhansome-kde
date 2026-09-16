@@ -54,8 +54,8 @@
                 "id": 1271668766,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-02T04:28:26Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-15T03:00:44Z",
+                "open_issues": 1,
                 "owner": "TimInTech",
                 "repo": "blitztext-linux",
                 "stars": 10,
@@ -288,7 +288,7 @@
                     "open_issues": 0,
                     "owner": "tsujan",
                     "repo": "Kvantum",
-                    "stars": 2030,
+                    "stars": 2029,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -309,7 +309,7 @@
                     "open_issues": 72,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1135,
+                    "stars": 1136,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -414,11 +414,11 @@
                     "id": 1203582717,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-09-15T00:25:21Z",
+                    "last_commit": "2026-09-15T15:29:45Z",
                     "open_issues": 6,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
-                    "stars": 58,
+                    "stars": 59,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1340,7 +1340,7 @@
                     "open_issues": 152,
                     "owner": "EliverLara",
                     "repo": "candy-icons",
-                    "stars": 1315,
+                    "stars": 1316,
                     "topics": [
                       "hacktoberfest",
                       "icons",
@@ -1365,7 +1365,7 @@
                     "open_issues": 21,
                     "owner": "zayronxio",
                     "repo": "Zafiro-icons",
-                    "stars": 463,
+                    "stars": 464,
                     "topics": [
                       "artwork",
                       "flat-ui",
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T01:31:49.222Z",
+    "last_updated": "2026-09-16T01:28:00.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
