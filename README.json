@@ -54,8 +54,8 @@
                 "id": 1271668766,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-15T03:00:44Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-16T03:43:06Z",
+                "open_issues": 0,
                 "owner": "TimInTech",
                 "repo": "blitztext-linux",
                 "stars": 10,
@@ -133,10 +133,10 @@
                 "language": "C++",
                 "license": "GPL-2.0",
                 "last_commit": "2025-05-13T14:44:51Z",
-                "open_issues": 41,
+                "open_issues": 43,
                 "owner": "Maldela",
                 "repo": "fancontrol-gui",
-                "stars": 391,
+                "stars": 392,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:02.631Z"
@@ -233,7 +233,7 @@
                 "open_issues": 5,
                 "owner": "rcspam",
                 "repo": "dictee",
-                "stars": 59,
+                "stars": 61,
                 "topics": [
                   "asr",
                   "dictation-tool",
@@ -285,7 +285,7 @@
                     "language": "C++",
                     "license": null,
                     "last_commit": "2026-08-25T13:56:53Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "tsujan",
                     "repo": "Kvantum",
                     "stars": 2029,
@@ -309,7 +309,7 @@
                     "open_issues": 72,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1136,
+                    "stars": 1140,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -414,7 +414,7 @@
                     "id": 1203582717,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-09-15T15:29:45Z",
+                    "last_commit": "2026-09-16T14:29:10Z",
                     "open_issues": 6,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
@@ -930,7 +930,7 @@
                     "open_issues": 29,
                     "owner": "vinceliuice",
                     "repo": "Qogir-kde",
-                    "stars": 192,
+                    "stars": 191,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1247,10 +1247,10 @@
                     "language": "Shell",
                     "license": "GPL-3.0",
                     "last_commit": "2026-08-01T14:42:16Z",
-                    "open_issues": 587,
+                    "open_issues": 588,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8081,
+                    "stars": 8087,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T01:28:00.820Z",
+    "last_updated": "2026-09-17T01:28:50.360Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
