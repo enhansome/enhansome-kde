@@ -54,7 +54,7 @@
                 "id": 1271668766,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-16T03:43:06Z",
+                "last_commit": "2026-09-18T23:22:27Z",
                 "open_issues": 0,
                 "owner": "TimInTech",
                 "repo": "blitztext-linux",
@@ -230,7 +230,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-31T14:39:25Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "rcspam",
                 "repo": "dictee",
                 "stars": 61,
@@ -288,7 +288,7 @@
                     "open_issues": 1,
                     "owner": "tsujan",
                     "repo": "Kvantum",
-                    "stars": 2029,
+                    "stars": 2031,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -351,7 +351,7 @@
                     "open_issues": 22,
                     "owner": "zzag",
                     "repo": "plasma5-wallpapers-dynamic",
-                    "stars": 384,
+                    "stars": 383,
                     "topics": [
                       "dynamic",
                       "plasma",
@@ -414,8 +414,8 @@
                     "id": 1203582717,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-09-18T00:59:33Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-09-18T13:42:21Z",
+                    "open_issues": 5,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
                     "stars": 59,
@@ -439,7 +439,7 @@
                     "open_issues": 0,
                     "owner": "lubdhak7414",
                     "repo": "KDoit",
-                    "stars": 15,
+                    "stars": 16,
                     "topics": [
                       "kde-plasma",
                       "markdown",
@@ -773,7 +773,7 @@
                     "open_issues": 40,
                     "owner": "vinceliuice",
                     "repo": "Layan-kde",
-                    "stars": 536,
+                    "stars": 537,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1250,7 +1250,7 @@
                     "open_issues": 588,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8089,
+                    "stars": 8094,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1420,7 +1420,7 @@
                     "open_issues": 16,
                     "owner": "keeferrourke",
                     "repo": "capitaine-cursors",
-                    "stars": 1237,
+                    "stars": 1238,
                     "topics": [
                       "breeze",
                       "capitaine-cursors",
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T01:18:30.563Z",
+    "last_updated": "2026-09-19T01:13:37.106Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
