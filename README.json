@@ -17,7 +17,7 @@
                 "id": 1000167744,
                 "language": "QML",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-14T08:03:42Z",
+                "last_commit": "2026-09-21T15:27:48Z",
                 "open_issues": 1,
                 "owner": "Agundur-KDE",
                 "repo": "KCast",
@@ -229,11 +229,11 @@
                 "id": 1173383779,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-20T15:02:37Z",
+                "last_commit": "2026-09-21T15:43:59Z",
                 "open_issues": 3,
                 "owner": "rcspam",
                 "repo": "dictee",
-                "stars": 62,
+                "stars": 63,
                 "topics": [
                   "asr",
                   "dictation-tool",
@@ -414,8 +414,8 @@
                     "id": 1203582717,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-09-19T16:16:13Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-09-21T16:36:18Z",
+                    "open_issues": 4,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
                     "stars": 61,
@@ -689,7 +689,7 @@
                     "open_issues": 76,
                     "owner": "vinceliuice",
                     "repo": "WhiteSur-kde",
-                    "stars": 1273,
+                    "stars": 1276,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1038,7 +1038,7 @@
                     "open_issues": 30,
                     "owner": "EliverLara",
                     "repo": "Sweet-kde",
-                    "stars": 248,
+                    "stars": 249,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1246,11 +1246,11 @@
                     "id": 60187911,
                     "language": "Shell",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-01T14:42:16Z",
-                    "open_issues": 590,
+                    "last_commit": "2026-09-21T12:46:33Z",
+                    "open_issues": 589,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8095,
+                    "stars": 8098,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1279,7 +1279,7 @@
                     "open_issues": 112,
                     "owner": "keeferrourke",
                     "repo": "la-capitaine-icon-theme",
-                    "stars": 1996,
+                    "stars": 1997,
                     "topics": [
                       "breeze",
                       "desktop-environment",
@@ -1319,7 +1319,7 @@
                     "open_issues": 104,
                     "owner": "vinceliuice",
                     "repo": "Tela-icon-theme",
-                    "stars": 1879,
+                    "stars": 1880,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1420,7 +1420,7 @@
                     "open_issues": 16,
                     "owner": "keeferrourke",
                     "repo": "capitaine-cursors",
-                    "stars": 1238,
+                    "stars": 1239,
                     "topics": [
                       "breeze",
                       "capitaine-cursors",
@@ -1461,7 +1461,7 @@
                     "open_issues": 24,
                     "owner": "anametologin",
                     "repo": "krohnkite",
-                    "stars": 1234,
+                    "stars": 1233,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T01:10:02.470Z",
+    "last_updated": "2026-09-22T01:37:35.345Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
@@ -1608,7 +1608,7 @@
       "open_issues": 1,
       "owner": "francoism90",
       "repo": "awesome-kde",
-      "stars": 852,
+      "stars": 853,
       "topics": [
         "applications",
         "awesome",
