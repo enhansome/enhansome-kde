@@ -133,7 +133,7 @@
                 "language": "C++",
                 "license": "GPL-2.0",
                 "last_commit": "2025-05-13T14:44:51Z",
-                "open_issues": 43,
+                "open_issues": 45,
                 "owner": "Maldela",
                 "repo": "fancontrol-gui",
                 "stars": 391,
@@ -178,7 +178,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2023-07-30T21:36:30Z",
-                "open_issues": 39,
+                "open_issues": 40,
                 "owner": "tb2097",
                 "repo": "wacom-gui",
                 "stars": 146,
@@ -212,7 +212,7 @@
                 "open_issues": 15,
                 "owner": "terslang",
                 "repo": "LocalTranslate",
-                "stars": 66,
+                "stars": 67,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:02.631Z"
@@ -288,7 +288,7 @@
                     "open_issues": 1,
                     "owner": "tsujan",
                     "repo": "Kvantum",
-                    "stars": 2033,
+                    "stars": 2032,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -309,7 +309,7 @@
                     "open_issues": 72,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1145,
+                    "stars": 1147,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -418,7 +418,7 @@
                     "open_issues": 4,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
-                    "stars": 64,
+                    "stars": 65,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -689,7 +689,7 @@
                     "open_issues": 78,
                     "owner": "vinceliuice",
                     "repo": "WhiteSur-kde",
-                    "stars": 1278,
+                    "stars": 1280,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1250,7 +1250,7 @@
                     "open_issues": 589,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8104,
+                    "stars": 8106,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1319,7 +1319,7 @@
                     "open_issues": 104,
                     "owner": "vinceliuice",
                     "repo": "Tela-icon-theme",
-                    "stars": 1882,
+                    "stars": 1883,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1337,7 +1337,7 @@
                     "language": null,
                     "license": "GPL-3.0",
                     "last_commit": "2026-03-06T23:36:09Z",
-                    "open_issues": 154,
+                    "open_issues": 155,
                     "owner": "EliverLara",
                     "repo": "candy-icons",
                     "stars": 1317,
@@ -1420,7 +1420,7 @@
                     "open_issues": 16,
                     "owner": "keeferrourke",
                     "repo": "capitaine-cursors",
-                    "stars": 1237,
+                    "stars": 1238,
                     "topics": [
                       "breeze",
                       "capitaine-cursors",
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T01:34:18.524Z",
+    "last_updated": "2026-09-26T01:37:33.094Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
