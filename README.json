@@ -309,7 +309,7 @@
                     "open_issues": 72,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1147,
+                    "stars": 1148,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -418,7 +418,7 @@
                     "open_issues": 4,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
-                    "stars": 65,
+                    "stars": 66,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -689,7 +689,7 @@
                     "open_issues": 78,
                     "owner": "vinceliuice",
                     "repo": "WhiteSur-kde",
-                    "stars": 1280,
+                    "stars": 1281,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -867,7 +867,7 @@
                     "open_issues": 35,
                     "owner": "vinceliuice",
                     "repo": "Fluent-kde",
-                    "stars": 239,
+                    "stars": 240,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1038,7 +1038,7 @@
                     "open_issues": 30,
                     "owner": "EliverLara",
                     "repo": "Sweet-kde",
-                    "stars": 249,
+                    "stars": 250,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1247,10 +1247,10 @@
                     "language": "Shell",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-21T12:46:33Z",
-                    "open_issues": 589,
+                    "open_issues": 590,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8106,
+                    "stars": 8107,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1420,7 +1420,7 @@
                     "open_issues": 16,
                     "owner": "keeferrourke",
                     "repo": "capitaine-cursors",
-                    "stars": 1238,
+                    "stars": 1239,
                     "topics": [
                       "breeze",
                       "capitaine-cursors",
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T01:37:33.094Z",
+    "last_updated": "2026-09-27T01:31:14.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
@@ -1608,7 +1608,7 @@
       "open_issues": 1,
       "owner": "francoism90",
       "repo": "awesome-kde",
-      "stars": 852,
+      "stars": 853,
       "topics": [
         "applications",
         "awesome",
