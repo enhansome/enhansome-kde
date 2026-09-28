@@ -212,7 +212,7 @@
                 "open_issues": 15,
                 "owner": "terslang",
                 "repo": "LocalTranslate",
-                "stars": 67,
+                "stars": 66,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:02.631Z"
@@ -233,7 +233,7 @@
                 "open_issues": 3,
                 "owner": "rcspam",
                 "repo": "dictee",
-                "stars": 64,
+                "stars": 65,
                 "topics": [
                   "asr",
                   "dictation-tool",
@@ -309,7 +309,7 @@
                     "open_issues": 72,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1148,
+                    "stars": 1151,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1250,7 +1250,7 @@
                     "open_issues": 590,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8107,
+                    "stars": 8109,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1340,7 +1340,7 @@
                     "open_issues": 155,
                     "owner": "EliverLara",
                     "repo": "candy-icons",
-                    "stars": 1317,
+                    "stars": 1318,
                     "topics": [
                       "hacktoberfest",
                       "icons",
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T01:31:14.323Z",
+    "last_updated": "2026-09-28T01:42:32.151Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
@@ -1608,7 +1608,7 @@
       "open_issues": 1,
       "owner": "francoism90",
       "repo": "awesome-kde",
-      "stars": 853,
+      "stars": 854,
       "topics": [
         "applications",
         "awesome",
