@@ -133,8 +133,8 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Extensions
 
-* [Kvantum](https://github.com/tsujan/Kvantum) ⭐ 2,032 | 🐛 1 | 🌐 C++ | 📅 2026-08-25 - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
-* [Karousel](https://github.com/peterfajdiga/karousel) ⭐ 1,151 | 🐛 72 | 🌐 TypeScript | 📅 2026-08-23 - KWin tiling script with scrolling. Works especially well with ultrawide screens.
+* [Kvantum](https://github.com/tsujan/Kvantum) ⭐ 2,034 | 🐛 1 | 🌐 C++ | 📅 2026-08-25 - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
+* [Karousel](https://github.com/peterfajdiga/karousel) ⭐ 1,150 | 🐛 72 | 🌐 TypeScript | 📅 2026-08-23 - KWin tiling script with scrolling. Works especially well with ultrawide screens.
 * [Window AppMenu Applet](https://github.com/psifidotos/applet-window-appmenu) ⭐ 415 | 🐛 26 | 🌐 C++ | 📅 2024-07-11 - **Plasma 5** applet in order to show the window appmenu.
 * [Dynamic Wallpaper Engine](https://github.com/zzag/plasma5-wallpapers-dynamic) ⭐ 384 | 🐛 22 | 🌐 C++ | 📅 2026-08-31 - A wallpaper plugin that continuously updates the desktop background based on the current time in your location.
 * [Window Title Applet](https://github.com/psifidotos/applet-window-title/) ⭐ 246 | 🐛 26 | 🌐 QML | 📅 2024-07-11 - **Plasma 5** applet that shows the current window title and icon in your panels.
@@ -158,16 +158,16 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 #### Themes
 
 * [WhiteSur](https://github.com/vinceliuice/WhiteSur-kde) ⭐ 1,281 | 🐛 78 | 🌐 QML | 📅 2026-08-07 - A MacOS Big Sur theme for KDE Plasma.
-* [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde) ⭐ 942 | 🐛 31 | 🌐 QML | 📅 2025-12-17 - A port of the popular GTK theme Arc for **Plasma 5** desktop with a few additions and extras.
+* [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde) ⭐ 943 | 🐛 31 | 🌐 QML | 📅 2025-12-17 - A port of the popular GTK theme Arc for **Plasma 5** desktop with a few additions and extras.
 * [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) ⭐ 671 | 🐛 15 | 🌐 QML | 📅 2024-03-19 - A port of the popular GTK theme Materia for **Plasma 5** desktop with a few additions and extras.
-* [Layan](https://github.com/vinceliuice/Layan-kde) ⭐ 538 | 🐛 40 | 🌐 QML | 📅 2025-11-27 - A flat design theme for KDE Plasma desktop.
+* [Layan](https://github.com/vinceliuice/Layan-kde) ⭐ 539 | 🐛 40 | 🌐 QML | 📅 2025-11-27 - A flat design theme for KDE Plasma desktop.
 * [Adapta KDE](https://github.com/PapirusDevelopmentTeam/adapta-kde) ⚠️ Archived - A port of the popular GTK theme Adapta for **Plasma 5** desktop with a few additions and extras.
-* [Orchis](https://github.com/vinceliuice/Orchis-kde) ⭐ 337 | 🐛 23 | 🌐 QML | 📅 2025-10-18 - A materia Design theme for KDE Plasma desktop.
-* [McMojave](https://github.com/vinceliuice/McMojave-kde) ⭐ 261 | 🐛 33 | 🌐 QML | 📅 2024-10-20 - A MacOSX Mojave like theme for KDE Plasma desktop.
-* [Fluent](https://github.com/vinceliuice/Fluent-kde) ⭐ 240 | 🐛 35 | 🌐 QML | 📅 2025-11-10 - A Microsoft inspired fluent Design theme for the KDE Plasma desktop.
+* [Orchis](https://github.com/vinceliuice/Orchis-kde) ⭐ 339 | 🐛 23 | 🌐 QML | 📅 2025-10-18 - A materia Design theme for KDE Plasma desktop.
+* [McMojave](https://github.com/vinceliuice/McMojave-kde) ⭐ 262 | 🐛 33 | 🌐 QML | 📅 2024-10-20 - A MacOSX Mojave like theme for KDE Plasma desktop.
+* [Fluent](https://github.com/vinceliuice/Fluent-kde) ⭐ 241 | 🐛 35 | 🌐 QML | 📅 2025-11-10 - A Microsoft inspired fluent Design theme for the KDE Plasma desktop.
 * [Hello](https://github.com/n4n0GH/hello) ⚠️ Archived - A compilation of various color-schemes, themes, icons and more for the KDE Plasma desktop. It is unopinionated, putting you in charge.
 * [ChromeOS](https://github.com/vinceliuice/ChromeOS-kde) ⭐ 195 | 🐛 24 | 🌐 QML | 📅 2025-10-25 - A materia Design theme for KDE Plasma desktop.
-* [Qogir](https://github.com/vinceliuice/Qogir-kde) ⭐ 191 | 🐛 29 | 🌐 QML | 📅 2024-12-20 - A flat design theme for KDE Plasma desktop.
+* [Qogir](https://github.com/vinceliuice/Qogir-kde) ⭐ 190 | 🐛 29 | 🌐 QML | 📅 2024-12-20 - A flat design theme for KDE Plasma desktop.
 * [Canta](https://github.com/vinceliuice/Canta-kde) ⭐ 78 | 🐛 7 | 🌐 QML | 📅 2022-05-17 - A flat design theme for KDE Plasma desktop.
 * [Darkine KDE](https://github.com/Rokin05/darkine-kde) ⭐ 48 | 🐛 1 | 🌐 CSS | 📅 2020-02-19 - Theme for KDE **Plasma 5** desktop, SDDM and more.
 * [Breath](https://gitlab.manjaro.org/artwork/themes/breath) - Breath Theme for Manjaro Linux (**Plasma 5**).
@@ -188,7 +188,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Icons
 
-* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,109 | 🐛 590 | 🌐 Shell | 📅 2026-09-21 - Material icon theme, initially based on Paper.
+* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,114 | 🐛 590 | 🌐 Shell | 📅 2026-09-21 - Material icon theme, initially based on Paper.
 * [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) ⭐ 1,997 | 🐛 112 | 🌐 Shell | 📅 2021-11-25 - Icon pack with inspiration taken from the latest iterations of macOS and Google's Material Design.
 * [Tela](https://github.com/vinceliuice/Tela-icon-theme) ⭐ 1,883 | 🐛 104 | 🌐 Shell | 📅 2026-08-10 - A flat colorful Design icon theme.
 * [Candy](https://github.com/EliverLara/candy-icons) ⭐ 1,318 | 🐛 155 | 📅 2026-03-06 - Sweet gradient icons.
@@ -221,7 +221,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 * [KDE Bugtracker](https://bugs.kde.org/) - KDE's official Bugtracker 📌.
 * [ArchWiki](https://wiki.archlinux.org/index.php/KDE) - Arch Linux KDE Wiki.
 * [Gentoo Wiki](https://wiki.gentoo.org/wiki/KDE) - Gentoo KDE Wiki.
-* [KDE Configs](https://github.com/shalva97/kde-configuration-files) ⭐ 1,065 | 🐛 0 | 🌐 Shell | 📅 2025-02-27 - List of KDE configuration files and more.
+* [KDE Configs](https://github.com/shalva97/kde-configuration-files) ⭐ 1,066 | 🐛 0 | 🌐 Shell | 📅 2025-02-27 - List of KDE configuration files and more.
 
 ## Articles
 
@@ -244,4 +244,4 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._

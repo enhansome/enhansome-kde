@@ -288,7 +288,7 @@
                     "open_issues": 1,
                     "owner": "tsujan",
                     "repo": "Kvantum",
-                    "stars": 2032,
+                    "stars": 2034,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -309,7 +309,7 @@
                     "open_issues": 72,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1151,
+                    "stars": 1150,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -710,7 +710,7 @@
                     "open_issues": 31,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "arc-kde",
-                    "stars": 942,
+                    "stars": 943,
                     "topics": [
                       "arc",
                       "arc-dark",
@@ -773,7 +773,7 @@
                     "open_issues": 40,
                     "owner": "vinceliuice",
                     "repo": "Layan-kde",
-                    "stars": 538,
+                    "stars": 539,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -825,7 +825,7 @@
                     "open_issues": 23,
                     "owner": "vinceliuice",
                     "repo": "Orchis-kde",
-                    "stars": 337,
+                    "stars": 339,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -846,7 +846,7 @@
                     "open_issues": 33,
                     "owner": "vinceliuice",
                     "repo": "McMojave-kde",
-                    "stars": 261,
+                    "stars": 262,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -867,7 +867,7 @@
                     "open_issues": 35,
                     "owner": "vinceliuice",
                     "repo": "Fluent-kde",
-                    "stars": 240,
+                    "stars": 241,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -930,7 +930,7 @@
                     "open_issues": 29,
                     "owner": "vinceliuice",
                     "repo": "Qogir-kde",
-                    "stars": 191,
+                    "stars": 190,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1250,7 +1250,7 @@
                     "open_issues": 590,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8109,
+                    "stars": 8114,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T01:42:32.151Z",
+    "last_updated": "2026-09-29T02:35:41.085Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
@@ -1608,7 +1608,7 @@
       "open_issues": 1,
       "owner": "francoism90",
       "repo": "awesome-kde",
-      "stars": 854,
+      "stars": 855,
       "topics": [
         "applications",
         "awesome",
