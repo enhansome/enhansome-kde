@@ -198,6 +198,27 @@
             },
             {
               "node_type": "item",
+              "title": "LocalTranslate",
+              "description": "Offline translation app built with Qt Quick that makes use of Firefox's neural translation models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Translate offline using Firefox Translation Models",
+                "homepage": "https://terslang.github.io/LocalTranslate/",
+                "id": 936438260,
+                "language": "QML",
+                "license": "GPL-3.0",
+                "last_commit": "2026-06-07T08:38:03Z",
+                "open_issues": 15,
+                "owner": "terslang",
+                "repo": "LocalTranslate",
+                "stars": 66,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T06:57:02.631Z"
+            },
+            {
+              "node_type": "item",
               "title": "dictee",
               "description": "Push-to-talk voice dictation with KDE Plasma 6 plasmoid, PyQt6 setup wizard, and tray icon. 4 ASR backends (Parakeet, Vosk, Whisper, Canary), post-processing pipeline, translation. 100% local, 25+ languages.",
               "children": [],
@@ -212,7 +233,7 @@
                 "open_issues": 3,
                 "owner": "rcspam",
                 "repo": "dictee",
-                "stars": 66,
+                "stars": 65,
                 "topics": [
                   "asr",
                   "dictation-tool",
@@ -233,27 +254,6 @@
                   "whisper",
                   "whisper-asr"
                 ]
-              },
-              "first_seen": "2026-08-28T06:57:02.631Z"
-            },
-            {
-              "node_type": "item",
-              "title": "LocalTranslate",
-              "description": "Offline translation app built with Qt Quick that makes use of Firefox's neural translation models.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Translate offline using Firefox Translation Models",
-                "homepage": "https://terslang.github.io/LocalTranslate/",
-                "id": 936438260,
-                "language": "QML",
-                "license": "GPL-3.0",
-                "last_commit": "2026-06-07T08:38:03Z",
-                "open_issues": 15,
-                "owner": "terslang",
-                "repo": "LocalTranslate",
-                "stars": 66,
-                "topics": []
               },
               "first_seen": "2026-08-28T06:57:02.631Z"
             }
@@ -288,7 +288,7 @@
                     "open_issues": 1,
                     "owner": "tsujan",
                     "repo": "Kvantum",
-                    "stars": 2034,
+                    "stars": 2033,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -330,7 +330,7 @@
                     "open_issues": 26,
                     "owner": "psifidotos",
                     "repo": "applet-window-appmenu",
-                    "stars": 415,
+                    "stars": 414,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -376,7 +376,7 @@
                     "open_issues": 26,
                     "owner": "psifidotos",
                     "repo": "applet-window-title",
-                    "stars": 246,
+                    "stars": 245,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -414,7 +414,7 @@
                     "id": 1203582717,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-09-30T00:07:59Z",
+                    "last_commit": "2026-10-01T02:03:25Z",
                     "open_issues": 4,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
@@ -589,7 +589,7 @@
                     "open_issues": 0,
                     "owner": "Agundur-KDE",
                     "repo": "KClaude",
-                    "stars": 2,
+                    "stars": 3,
                     "topics": [
                       "ai-coding-assistant",
                       "claude-ai",
@@ -689,7 +689,7 @@
                     "open_issues": 78,
                     "owner": "vinceliuice",
                     "repo": "WhiteSur-kde",
-                    "stars": 1282,
+                    "stars": 1284,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -825,7 +825,7 @@
                     "open_issues": 23,
                     "owner": "vinceliuice",
                     "repo": "Orchis-kde",
-                    "stars": 339,
+                    "stars": 338,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1038,7 +1038,7 @@
                     "open_issues": 30,
                     "owner": "EliverLara",
                     "repo": "Sweet-kde",
-                    "stars": 250,
+                    "stars": 251,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1250,7 +1250,7 @@
                     "open_issues": 590,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8117,
+                    "stars": 8122,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1319,7 +1319,7 @@
                     "open_issues": 104,
                     "owner": "vinceliuice",
                     "repo": "Tela-icon-theme",
-                    "stars": 1884,
+                    "stars": 1885,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1340,7 +1340,7 @@
                     "open_issues": 155,
                     "owner": "EliverLara",
                     "repo": "candy-icons",
-                    "stars": 1318,
+                    "stars": 1319,
                     "topics": [
                       "hacktoberfest",
                       "icons",
@@ -1420,7 +1420,7 @@
                     "open_issues": 16,
                     "owner": "keeferrourke",
                     "repo": "capitaine-cursors",
-                    "stars": 1240,
+                    "stars": 1241,
                     "topics": [
                       "breeze",
                       "capitaine-cursors",
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T02:09:38.350Z",
+    "last_updated": "2026-10-01T02:11:34.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
