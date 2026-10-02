@@ -288,7 +288,7 @@
                     "open_issues": 1,
                     "owner": "tsujan",
                     "repo": "Kvantum",
-                    "stars": 2033,
+                    "stars": 2034,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -414,11 +414,11 @@
                     "id": 1203582717,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-10-01T02:03:25Z",
+                    "last_commit": "2026-10-01T19:04:29Z",
                     "open_issues": 4,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
-                    "stars": 66,
+                    "stars": 67,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -589,7 +589,7 @@
                     "open_issues": 0,
                     "owner": "Agundur-KDE",
                     "repo": "KClaude",
-                    "stars": 3,
+                    "stars": 4,
                     "topics": [
                       "ai-coding-assistant",
                       "claude-ai",
@@ -930,7 +930,7 @@
                     "open_issues": 29,
                     "owner": "vinceliuice",
                     "repo": "Qogir-kde",
-                    "stars": 190,
+                    "stars": 189,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1247,7 +1247,7 @@
                     "language": "Shell",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-21T12:46:33Z",
-                    "open_issues": 590,
+                    "open_issues": 591,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
                     "stars": 8122,
@@ -1319,7 +1319,7 @@
                     "open_issues": 104,
                     "owner": "vinceliuice",
                     "repo": "Tela-icon-theme",
-                    "stars": 1885,
+                    "stars": 1884,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1596,7 +1596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T02:11:34.918Z",
+    "last_updated": "2026-10-02T02:18:19.621Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
