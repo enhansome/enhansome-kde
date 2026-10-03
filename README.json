@@ -105,7 +105,7 @@
                 "open_issues": 43,
                 "owner": "oskarsh",
                 "repo": "Yin-Yang",
-                "stars": 705,
+                "stars": 704,
                 "topics": [
                   "budgie",
                   "gnome",
@@ -136,7 +136,7 @@
                 "open_issues": 46,
                 "owner": "Maldela",
                 "repo": "fancontrol-gui",
-                "stars": 391,
+                "stars": 392,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:02.631Z"
@@ -229,7 +229,7 @@
                 "id": 1173383779,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-23T14:04:52Z",
+                "last_commit": "2026-10-02T13:05:16Z",
                 "open_issues": 3,
                 "owner": "rcspam",
                 "repo": "dictee",
@@ -351,7 +351,7 @@
                     "open_issues": 22,
                     "owner": "zzag",
                     "repo": "plasma5-wallpapers-dynamic",
-                    "stars": 383,
+                    "stars": 384,
                     "topics": [
                       "dynamic",
                       "plasma",
@@ -439,7 +439,7 @@
                     "open_issues": 0,
                     "owner": "lubdhak7414",
                     "repo": "KDoit",
-                    "stars": 16,
+                    "stars": 17,
                     "topics": [
                       "kde-plasma",
                       "markdown",
@@ -689,7 +689,7 @@
                     "open_issues": 78,
                     "owner": "vinceliuice",
                     "repo": "WhiteSur-kde",
-                    "stars": 1284,
+                    "stars": 1282,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -710,7 +710,7 @@
                     "open_issues": 31,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "arc-kde",
-                    "stars": 943,
+                    "stars": 940,
                     "topics": [
                       "arc",
                       "arc-dark",
@@ -825,7 +825,7 @@
                     "open_issues": 23,
                     "owner": "vinceliuice",
                     "repo": "Orchis-kde",
-                    "stars": 338,
+                    "stars": 337,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -846,7 +846,7 @@
                     "open_issues": 33,
                     "owner": "vinceliuice",
                     "repo": "McMojave-kde",
-                    "stars": 262,
+                    "stars": 261,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1319,7 +1319,7 @@
                     "open_issues": 104,
                     "owner": "vinceliuice",
                     "repo": "Tela-icon-theme",
-                    "stars": 1884,
+                    "stars": 1883,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1420,7 +1420,7 @@
                     "open_issues": 16,
                     "owner": "keeferrourke",
                     "repo": "capitaine-cursors",
-                    "stars": 1241,
+                    "stars": 1242,
                     "topics": [
                       "breeze",
                       "capitaine-cursors",
@@ -1461,7 +1461,7 @@
                     "open_issues": 24,
                     "owner": "anametologin",
                     "repo": "krohnkite",
-                    "stars": 1233,
+                    "stars": 1231,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1517,6 +1517,42 @@
                     ]
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Panel Dodge",
+                  "description": "Moves the panel to another monitor while a window is fullscreen on the panel's screen, and back when it's gone.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "KWin script (Plasma 6): slides your panel off a monitor while a window is fullscreen there, and back when it's gone. Auto-detecting, zero-config.",
+                    "homepage": null,
+                    "id": 1316857183,
+                    "language": "JavaScript",
+                    "license": "MIT",
+                    "last_commit": "2026-08-07T22:13:12Z",
+                    "open_issues": 0,
+                    "owner": "iacosta3994",
+                    "repo": "panel-dodge",
+                    "stars": 0,
+                    "topics": [
+                      "fullscreen",
+                      "gaming",
+                      "kde",
+                      "kde-plasma",
+                      "kwin",
+                      "kwin-script",
+                      "kwin-scripts",
+                      "linux",
+                      "multi-monitor",
+                      "panel",
+                      "plasma",
+                      "plasma6",
+                      "taskbar",
+                      "wayland"
+                    ]
+                  },
+                  "first_seen": "2026-10-03T02:02:17.550Z"
                 }
               ],
               "description": null,
@@ -1596,7 +1632,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T02:18:19.621Z",
+    "last_updated": "2026-10-03T02:02:17.550Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
@@ -1604,8 +1640,8 @@
       "id": 126171103,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-01T07:23:36Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-02T14:41:16Z",
+      "open_issues": 0,
       "owner": "francoism90",
       "repo": "awesome-kde",
       "stars": 858,
@@ -1621,7 +1657,7 @@
         "qt5"
       ]
     },
-    "original_repository_sha": "ee85f08c664ec5abab292f2679ec6dd391a1fcf0",
+    "original_repository_sha": "949f54b0c0a934002e18e6f2f8279a8d0399c141",
     "enhanced_repository": "enhansome/enhansome-kde",
     "enhanced_repository_description": null,
     "title": "Awesome KDE with stars"
