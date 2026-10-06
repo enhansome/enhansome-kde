@@ -105,7 +105,7 @@
                 "open_issues": 43,
                 "owner": "oskarsh",
                 "repo": "Yin-Yang",
-                "stars": 704,
+                "stars": 703,
                 "topics": [
                   "budgie",
                   "gnome",
@@ -309,7 +309,7 @@
                     "open_issues": 73,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1152,
+                    "stars": 1155,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -330,7 +330,7 @@
                     "open_issues": 26,
                     "owner": "psifidotos",
                     "repo": "applet-window-appmenu",
-                    "stars": 414,
+                    "stars": 413,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -414,11 +414,11 @@
                     "id": 1203582717,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-10-04T21:13:21Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-10-05T13:22:03Z",
+                    "open_issues": 3,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
-                    "stars": 67,
+                    "stars": 68,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -689,7 +689,7 @@
                     "open_issues": 78,
                     "owner": "vinceliuice",
                     "repo": "WhiteSur-kde",
-                    "stars": 1282,
+                    "stars": 1283,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -743,7 +743,7 @@
                     "open_issues": 15,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "materia-kde",
-                    "stars": 672,
+                    "stars": 671,
                     "topics": [
                       "desktop-environment",
                       "kde-desktop",
@@ -825,7 +825,7 @@
                     "open_issues": 23,
                     "owner": "vinceliuice",
                     "repo": "Orchis-kde",
-                    "stars": 338,
+                    "stars": 339,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1038,7 +1038,7 @@
                     "open_issues": 30,
                     "owner": "EliverLara",
                     "repo": "Sweet-kde",
-                    "stars": 252,
+                    "stars": 254,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1250,7 +1250,7 @@
                     "open_issues": 593,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8127,
+                    "stars": 8130,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1577,7 +1577,7 @@
                     "open_issues": 6,
                     "owner": "MarianArlt",
                     "repo": "kde-plasma-chili",
-                    "stars": 227,
+                    "stars": 228,
                     "topics": [
                       "blurred-background",
                       "customizable",
@@ -1632,7 +1632,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T02:02:51.654Z",
+    "last_updated": "2026-10-06T03:02:41.283Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
@@ -1644,7 +1644,7 @@
       "open_issues": 0,
       "owner": "francoism90",
       "repo": "awesome-kde",
-      "stars": 858,
+      "stars": 859,
       "topics": [
         "applications",
         "awesome",
