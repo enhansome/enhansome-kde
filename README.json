@@ -306,7 +306,7 @@
                     "language": "TypeScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-08-23T12:11:23Z",
-                    "open_issues": 73,
+                    "open_issues": 72,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
                     "stars": 1155,
@@ -422,6 +422,44 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Krema",
+                  "description": "A Wayland-native dock for KDE Plasma 6 with parabolic zoom animations.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A lightweight, high-performance dock for KDE Plasma 6 — spiritual successor to Latte Dock",
+                    "homepage": "https://krema.bhyoo.com/",
+                    "id": 1163083555,
+                    "language": "C++",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-10-06T07:24:59Z",
+                    "open_issues": 8,
+                    "owner": "isac322",
+                    "repo": "krema",
+                    "stars": 37,
+                    "topics": [
+                      "accessibility",
+                      "cpp",
+                      "dock",
+                      "kde",
+                      "kde-plasma",
+                      "kirigami",
+                      "latte-dock",
+                      "launcher",
+                      "layer-shell",
+                      "linux",
+                      "pipewire",
+                      "plasma-6",
+                      "qml",
+                      "qt6",
+                      "taskbar",
+                      "wayland"
+                    ]
+                  },
+                  "first_seen": "2026-10-06T10:45:05.900Z"
                 },
                 {
                   "node_type": "item",
@@ -1147,7 +1185,7 @@
                     "open_issues": 8,
                     "owner": "fauzie811",
                     "repo": "Breeze10",
-                    "stars": 123,
+                    "stars": 124,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1250,7 +1288,7 @@
                     "open_issues": 593,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8130,
+                    "stars": 8131,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1632,7 +1670,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T03:02:41.283Z",
+    "last_updated": "2026-10-06T10:45:05.900Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
@@ -1640,7 +1678,7 @@
       "id": 126171103,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-02T14:41:16Z",
+      "last_commit": "2026-10-06T05:44:46Z",
       "open_issues": 0,
       "owner": "francoism90",
       "repo": "awesome-kde",
@@ -1657,7 +1695,7 @@
         "qt5"
       ]
     },
-    "original_repository_sha": "949f54b0c0a934002e18e6f2f8279a8d0399c141",
+    "original_repository_sha": "98bc56e565b3315005520a01368ea8abe6396146",
     "enhanced_repository": "enhansome/enhansome-kde",
     "enhanced_repository_description": null,
     "title": "Awesome KDE with stars"
