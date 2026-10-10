@@ -105,7 +105,7 @@
                 "open_issues": 43,
                 "owner": "oskarsh",
                 "repo": "Yin-Yang",
-                "stars": 702,
+                "stars": 701,
                 "topics": [
                   "budgie",
                   "gnome",
@@ -376,7 +376,7 @@
                     "open_issues": 26,
                     "owner": "psifidotos",
                     "repo": "applet-window-title",
-                    "stars": 245,
+                    "stars": 246,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -418,7 +418,7 @@
                     "open_issues": 3,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
-                    "stars": 68,
+                    "stars": 69,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -435,11 +435,11 @@
                     "id": 1163083555,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-08T14:45:09Z",
+                    "last_commit": "2026-10-09T17:51:27Z",
                     "open_issues": 4,
                     "owner": "isac322",
                     "repo": "krema",
-                    "stars": 38,
+                    "stars": 39,
                     "topics": [
                       "accessibility",
                       "cpp",
@@ -477,7 +477,7 @@
                     "open_issues": 0,
                     "owner": "lubdhak7414",
                     "repo": "KDoit",
-                    "stars": 17,
+                    "stars": 15,
                     "topics": [
                       "kde-plasma",
                       "markdown",
@@ -727,7 +727,7 @@
                     "open_issues": 78,
                     "owner": "vinceliuice",
                     "repo": "WhiteSur-kde",
-                    "stars": 1285,
+                    "stars": 1284,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -811,7 +811,7 @@
                     "open_issues": 40,
                     "owner": "vinceliuice",
                     "repo": "Layan-kde",
-                    "stars": 540,
+                    "stars": 541,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1139,7 +1139,7 @@
                     "open_issues": 7,
                     "owner": "Akava-Design",
                     "repo": "Akava-Kv",
-                    "stars": 192,
+                    "stars": 193,
                     "topics": [
                       "kde",
                       "kvantum",
@@ -1288,7 +1288,7 @@
                     "open_issues": 593,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8136,
+                    "stars": 8135,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1670,7 +1670,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T02:57:23.762Z",
+    "last_updated": "2026-10-10T02:23:16.441Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
