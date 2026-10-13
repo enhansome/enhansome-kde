@@ -17,7 +17,7 @@
                 "id": 1000167744,
                 "language": "QML",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-21T15:27:48Z",
+                "last_commit": "2026-10-12T11:07:12Z",
                 "open_issues": 1,
                 "owner": "Agundur-KDE",
                 "repo": "KCast",
@@ -198,27 +198,6 @@
             },
             {
               "node_type": "item",
-              "title": "LocalTranslate",
-              "description": "Offline translation app built with Qt Quick that makes use of Firefox's neural translation models.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Translate offline using Firefox Translation Models",
-                "homepage": "https://terslang.github.io/LocalTranslate/",
-                "id": 936438260,
-                "language": "QML",
-                "license": "GPL-3.0",
-                "last_commit": "2026-06-07T08:38:03Z",
-                "open_issues": 15,
-                "owner": "terslang",
-                "repo": "LocalTranslate",
-                "stars": 67,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:57:02.631Z"
-            },
-            {
-              "node_type": "item",
               "title": "dictee",
               "description": "Push-to-talk voice dictation with KDE Plasma 6 plasmoid, PyQt6 setup wizard, and tray icon. 4 ASR backends (Parakeet, Vosk, Whisper, Canary), post-processing pipeline, translation. 100% local, 25+ languages.",
               "children": [],
@@ -229,11 +208,11 @@
                 "id": 1173383779,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-11T14:48:20Z",
+                "last_commit": "2026-10-12T09:10:48Z",
                 "open_issues": 3,
                 "owner": "rcspam",
                 "repo": "dictee",
-                "stars": 66,
+                "stars": 67,
                 "topics": [
                   "asr",
                   "dictation-tool",
@@ -254,6 +233,27 @@
                   "whisper",
                   "whisper-asr"
                 ]
+              },
+              "first_seen": "2026-08-28T06:57:02.631Z"
+            },
+            {
+              "node_type": "item",
+              "title": "LocalTranslate",
+              "description": "Offline translation app built with Qt Quick that makes use of Firefox's neural translation models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Translate offline using Firefox Translation Models",
+                "homepage": "https://terslang.github.io/LocalTranslate/",
+                "id": 936438260,
+                "language": "QML",
+                "license": "GPL-3.0",
+                "last_commit": "2026-06-07T08:38:03Z",
+                "open_issues": 15,
+                "owner": "terslang",
+                "repo": "LocalTranslate",
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:02.631Z"
             }
@@ -288,7 +288,7 @@
                     "open_issues": 0,
                     "owner": "tsujan",
                     "repo": "Kvantum",
-                    "stars": 2037,
+                    "stars": 2038,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -309,7 +309,7 @@
                     "open_issues": 72,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1158,
+                    "stars": 1157,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -414,7 +414,7 @@
                     "id": 1203582717,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-10-11T04:03:02Z",
+                    "last_commit": "2026-10-12T17:14:22Z",
                     "open_issues": 3,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
@@ -435,8 +435,8 @@
                     "id": 1163083555,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-12T02:11:49Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-10-12T13:21:35Z",
+                    "open_issues": 4,
                     "owner": "isac322",
                     "repo": "krema",
                     "stars": 44,
@@ -474,10 +474,10 @@
                     "language": "QML",
                     "license": "NOASSERTION",
                     "last_commit": "2026-06-29T14:15:34Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "lubdhak7414",
                     "repo": "KDoit",
-                    "stars": 16,
+                    "stars": 17,
                     "topics": [
                       "kde-plasma",
                       "markdown",
@@ -781,7 +781,7 @@
                     "open_issues": 15,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "materia-kde",
-                    "stars": 673,
+                    "stars": 674,
                     "topics": [
                       "desktop-environment",
                       "kde-desktop",
@@ -811,7 +811,7 @@
                     "open_issues": 40,
                     "owner": "vinceliuice",
                     "repo": "Layan-kde",
-                    "stars": 541,
+                    "stars": 542,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1185,7 +1185,7 @@
                     "open_issues": 8,
                     "owner": "fauzie811",
                     "repo": "Breeze10",
-                    "stars": 124,
+                    "stars": 125,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1357,7 +1357,7 @@
                     "open_issues": 104,
                     "owner": "vinceliuice",
                     "repo": "Tela-icon-theme",
-                    "stars": 1888,
+                    "stars": 1889,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1378,7 +1378,7 @@
                     "open_issues": 156,
                     "owner": "EliverLara",
                     "repo": "candy-icons",
-                    "stars": 1323,
+                    "stars": 1324,
                     "topics": [
                       "hacktoberfest",
                       "icons",
@@ -1670,7 +1670,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T02:27:23.825Z",
+    "last_updated": "2026-10-13T03:35:54.835Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
