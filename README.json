@@ -309,7 +309,7 @@
                     "open_issues": 72,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1158,
+                    "stars": 1162,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -376,7 +376,7 @@
                     "open_issues": 26,
                     "owner": "psifidotos",
                     "repo": "applet-window-title",
-                    "stars": 246,
+                    "stars": 245,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -415,7 +415,7 @@
                     "language": "C++",
                     "license": null,
                     "last_commit": "2026-10-12T17:14:22Z",
-                    "open_issues": 3,
+                    "open_issues": 2,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
                     "stars": 70,
@@ -435,11 +435,11 @@
                     "id": 1163083555,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-13T17:27:52Z",
-                    "open_issues": 7,
+                    "last_commit": "2026-10-14T20:54:30Z",
+                    "open_issues": 10,
                     "owner": "isac322",
                     "repo": "krema",
-                    "stars": 46,
+                    "stars": 48,
                     "topics": [
                       "accessibility",
                       "cpp",
@@ -748,7 +748,7 @@
                     "open_issues": 31,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "arc-kde",
-                    "stars": 940,
+                    "stars": 941,
                     "topics": [
                       "arc",
                       "arc-dark",
@@ -1228,7 +1228,7 @@
                     "id": 44812667,
                     "language": "SCSS",
                     "license": null,
-                    "last_commit": "2026-10-08T08:40:16Z",
+                    "last_commit": "2026-10-14T08:06:07Z",
                     "open_issues": 0,
                     "owner": "KDE",
                     "repo": "breeze-gtk",
@@ -1285,10 +1285,10 @@
                     "language": "Shell",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-21T12:46:33Z",
-                    "open_issues": 595,
+                    "open_issues": 597,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8140,
+                    "stars": 8143,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1357,7 +1357,7 @@
                     "open_issues": 104,
                     "owner": "vinceliuice",
                     "repo": "Tela-icon-theme",
-                    "stars": 1889,
+                    "stars": 1890,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1378,7 +1378,7 @@
                     "open_issues": 155,
                     "owner": "EliverLara",
                     "repo": "candy-icons",
-                    "stars": 1323,
+                    "stars": 1324,
                     "topics": [
                       "hacktoberfest",
                       "icons",
@@ -1458,7 +1458,7 @@
                     "open_issues": 16,
                     "owner": "keeferrourke",
                     "repo": "capitaine-cursors",
-                    "stars": 1247,
+                    "stars": 1249,
                     "topics": [
                       "breeze",
                       "capitaine-cursors",
@@ -1670,7 +1670,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T01:56:26.103Z",
+    "last_updated": "2026-10-15T01:31:17.862Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
