@@ -252,7 +252,7 @@
                 "open_issues": 15,
                 "owner": "terslang",
                 "repo": "LocalTranslate",
-                "stars": 66,
+                "stars": 67,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:02.631Z"
@@ -306,10 +306,10 @@
                     "language": "TypeScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-08-23T12:11:23Z",
-                    "open_issues": 72,
+                    "open_issues": 73,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1162,
+                    "stars": 1165,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -435,8 +435,8 @@
                     "id": 1163083555,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-14T20:54:30Z",
-                    "open_issues": 10,
+                    "last_commit": "2026-10-15T08:22:34Z",
+                    "open_issues": 8,
                     "owner": "isac322",
                     "repo": "krema",
                     "stars": 48,
@@ -781,7 +781,7 @@
                     "open_issues": 15,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "materia-kde",
-                    "stars": 675,
+                    "stars": 673,
                     "topics": [
                       "desktop-environment",
                       "kde-desktop",
@@ -905,7 +905,7 @@
                     "open_issues": 35,
                     "owner": "vinceliuice",
                     "repo": "Fluent-kde",
-                    "stars": 242,
+                    "stars": 243,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1118,7 +1118,7 @@
                     "open_issues": 12,
                     "owner": "alex47",
                     "repo": "BreezeBlurred",
-                    "stars": 198,
+                    "stars": 197,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1164,7 +1164,7 @@
                     "open_issues": 16,
                     "owner": "alex47",
                     "repo": "KDE-Rounded-Corners",
-                    "stars": 168,
+                    "stars": 166,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1288,7 +1288,7 @@
                     "open_issues": 597,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8143,
+                    "stars": 8147,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1357,7 +1357,7 @@
                     "open_issues": 104,
                     "owner": "vinceliuice",
                     "repo": "Tela-icon-theme",
-                    "stars": 1890,
+                    "stars": 1889,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1458,7 +1458,7 @@
                     "open_issues": 16,
                     "owner": "keeferrourke",
                     "repo": "capitaine-cursors",
-                    "stars": 1249,
+                    "stars": 1248,
                     "topics": [
                       "breeze",
                       "capitaine-cursors",
@@ -1670,7 +1670,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T01:31:17.862Z",
+    "last_updated": "2026-10-16T01:25:11.155Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
