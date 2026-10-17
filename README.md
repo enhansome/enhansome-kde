@@ -133,14 +133,14 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Extensions
 
-* [Kvantum](https://github.com/tsujan/Kvantum) ⭐ 2,037 | 🐛 0 | 🌐 C++ | 📅 2026-10-06 - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
-* [Karousel](https://github.com/peterfajdiga/karousel) ⭐ 1,165 | 🐛 73 | 🌐 TypeScript | 📅 2026-08-23 - KWin tiling script with scrolling. Works especially well with ultrawide screens.
+* [Kvantum](https://github.com/tsujan/Kvantum) ⭐ 2,038 | 🐛 0 | 🌐 C++ | 📅 2026-10-06 - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
+* [Karousel](https://github.com/peterfajdiga/karousel) ⭐ 1,166 | 🐛 73 | 🌐 TypeScript | 📅 2026-08-23 - KWin tiling script with scrolling. Works especially well with ultrawide screens.
 * [Window AppMenu Applet](https://github.com/psifidotos/applet-window-appmenu) ⭐ 413 | 🐛 26 | 🌐 C++ | 📅 2024-07-11 - **Plasma 5** applet in order to show the window appmenu.
 * [Dynamic Wallpaper Engine](https://github.com/zzag/plasma5-wallpapers-dynamic) ⭐ 384 | 🐛 22 | 🌐 C++ | 📅 2026-08-31 - A wallpaper plugin that continuously updates the desktop background based on the current time in your location.
 * [Window Title Applet](https://github.com/psifidotos/applet-window-title/) ⭐ 245 | 🐛 26 | 🌐 QML | 📅 2024-07-11 - **Plasma 5** applet that shows the current window title and icon in your panels.
 * [Hoppla](https://github.com/Fuchs/hoppla-sa) ⭐ 72 | 🐛 8 | 🌐 QML | 📅 2025-02-24 - KDE Plasma desktop widget to control Philips Hue lights.
-* [Latte Dock NG](https://github.com/ruizhi-lab/latte-dock-ng) ⭐ 70 | 🐛 2 | 🌐 C++ | 📅 2026-10-12 is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets.
-* [Krema](https://github.com/isac322/krema) ⭐ 48 | 🐛 8 | 🌐 Python | 📅 2026-10-15 - A Wayland-native dock for KDE Plasma 6 with parabolic zoom animations.
+* [Latte Dock NG](https://github.com/ruizhi-lab/latte-dock-ng) ⭐ 71 | 🐛 3 | 🌐 C++ | 📅 2026-10-17 is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets.
+* [Krema](https://github.com/isac322/krema) ⭐ 48 | 🐛 17 | 🌐 Python | 📅 2026-10-16 - A Wayland-native dock for KDE Plasma 6 with parabolic zoom animations.
 * [KDoit](https://github.com/lubdhak7414/KDoit) ⭐ 18 | 🐛 4 | 🌐 QML | 📅 2026-06-29 - Lightweight to-do list plasmoid for KDE Plasma 6 with nested sublists, priorities, due dates, and UUID-based file sync.
 * [Places Widget](https://github.com/dfaust/plasma-applet-places-widget) ⭐ 13 | 🐛 11 | 🌐 QML | 📅 2024-02-21 - **Plasma 5** widget that gives access to user places.
 * [kfritz](https://github.com/Agundur-KDE/kfritz) ⭐ 7 | 🐛 2 | 🌐 C++ | 📅 2026-09-14 - A Plasma 6 callmonitor widget for the AVM FRITZ!Box.
@@ -177,22 +177,22 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 #### Qt and GTK+ Applications Appearance
 
 * [SierraBreeze](https://github.com/ishovkun/SierraBreeze) ⭐ 355 | 🐛 35 | 🌐 C++ | 📅 2021-11-12 - OSX-like window decoration for KDE Plasma written in C++.
-* [Sweet KDE](https://github.com/EliverLara/Sweet-kde) ⭐ 254 | 🐛 30 | 📅 2025-04-25 - A dark and modern theme for KDE plasma.
+* [Sweet KDE](https://github.com/EliverLara/Sweet-kde) ⭐ 253 | 🐛 30 | 📅 2025-04-25 - A dark and modern theme for KDE plasma.
 * [BreezeEnhanced](https://github.com/tsujan/BreezeEnhanced) ⭐ 213 | 🐛 0 | 🌐 C++ | 📅 2026-04-19 - A fork of KDE Breeze decoration with additional options.
 * [BreezeBlurred](https://github.com/alex47/BreezeBlurred) ⚠️ Archived - A fork of KDE Breeze window decoration written in Qt C++.
 * [Akava-Kv](https://github.com/Akava-Design/Akava-Kv) ⭐ 192 | 🐛 7 | 📅 2023-03-02 - User oriented Kvantum theme for KDE.
 * [KDE-Rounded-Corners](https://github.com/alex47/KDE-Rounded-Corners) ⚠️ Archived - Rounds the corners of your windows.
 * [Breeze10](https://github.com/fauzie811/Breeze10) ⭐ 125 | 🐛 8 | 🌐 C++ | 📅 2025-11-29 - A Windows 10 style windows decoration for KDE Plasma.
 * [XBoomer](https://github.com/efskap/XBoomer) ⭐ 115 | 🐛 0 | 📅 2019-11-23 - XP Window Decorations for KDE Plasma.
-* [breeze-gtk](https://github.com/KDE/breeze-gtk) ⭐ 87 | 🐛 0 | 🌐 SCSS | 📅 2026-10-14 - A GTK Theme Built to Match KDE's Breeze 📌.
+* [breeze-gtk](https://github.com/KDE/breeze-gtk) ⭐ 87 | 🐛 0 | 🌐 SCSS | 📅 2026-10-16 - A GTK Theme Built to Match KDE's Breeze 📌.
 * [Chrome-KDE5BreezeDark](https://github.com/pdeljanov/Chrome-KDE5BreezeDark) ⭐ 22 | 🐛 0 | 📅 2021-09-05 - A theme for Chrome on KDE5 when using the Breeze Dark window decoration.
 
 #### Icons
 
-* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,147 | 🐛 597 | 🌐 Shell | 📅 2026-09-21 - Material icon theme, initially based on Paper.
+* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,146 | 🐛 597 | 🌐 Shell | 📅 2026-09-21 - Material icon theme, initially based on Paper.
 * [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) ⭐ 1,996 | 🐛 112 | 🌐 Shell | 📅 2021-11-25 - Icon pack with inspiration taken from the latest iterations of macOS and Google's Material Design.
-* [Tela](https://github.com/vinceliuice/Tela-icon-theme) ⭐ 1,889 | 🐛 104 | 🌐 Shell | 📅 2026-08-10 - A flat colorful Design icon theme.
-* [Candy](https://github.com/EliverLara/candy-icons) ⭐ 1,324 | 🐛 155 | 📅 2026-03-06 - Sweet gradient icons.
+* [Tela](https://github.com/vinceliuice/Tela-icon-theme) ⭐ 1,890 | 🐛 104 | 🌐 Shell | 📅 2026-08-10 - A flat colorful Design icon theme.
+* [Candy](https://github.com/EliverLara/candy-icons) ⭐ 1,324 | 🐛 147 | 📅 2026-10-16 - Sweet gradient icons.
 * [Zafiro](https://github.com/zayronxio/Zafiro-icons) ⭐ 465 | 🐛 21 | 🌐 Shell | 📅 2024-11-05 - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white. The priority is simplicity.
 * [Flatery](https://github.com/cbrnix/Flatery) ⭐ 327 | 🐛 6 | 🌐 Shell | 📅 2022-03-18 - Icon theme for Linux in flat style.
 * [Antu](https://gitlab.com/froodo_alexis/Antu-icons) - A smooth icon theme designed for Plasma Desktop.
@@ -246,4 +246,4 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._

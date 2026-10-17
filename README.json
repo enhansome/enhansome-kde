@@ -288,7 +288,7 @@
                     "open_issues": 0,
                     "owner": "tsujan",
                     "repo": "Kvantum",
-                    "stars": 2037,
+                    "stars": 2038,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -309,7 +309,7 @@
                     "open_issues": 73,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1165,
+                    "stars": 1166,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -414,11 +414,11 @@
                     "id": 1203582717,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-10-12T17:14:22Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-10-17T01:20:26Z",
+                    "open_issues": 3,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
-                    "stars": 70,
+                    "stars": 71,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -435,8 +435,8 @@
                     "id": 1163083555,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-15T08:22:34Z",
-                    "open_issues": 8,
+                    "last_commit": "2026-10-16T22:37:04Z",
+                    "open_issues": 17,
                     "owner": "isac322",
                     "repo": "krema",
                     "stars": 48,
@@ -926,7 +926,7 @@
                     "open_issues": 8,
                     "owner": "n4n0GH",
                     "repo": "hello",
-                    "stars": 214,
+                    "stars": 213,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1076,7 +1076,7 @@
                     "open_issues": 30,
                     "owner": "EliverLara",
                     "repo": "Sweet-kde",
-                    "stars": 254,
+                    "stars": 253,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1228,7 +1228,7 @@
                     "id": 44812667,
                     "language": "SCSS",
                     "license": null,
-                    "last_commit": "2026-10-14T08:06:07Z",
+                    "last_commit": "2026-10-16T14:10:27Z",
                     "open_issues": 0,
                     "owner": "KDE",
                     "repo": "breeze-gtk",
@@ -1288,7 +1288,7 @@
                     "open_issues": 597,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8147,
+                    "stars": 8146,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1357,7 +1357,7 @@
                     "open_issues": 104,
                     "owner": "vinceliuice",
                     "repo": "Tela-icon-theme",
-                    "stars": 1889,
+                    "stars": 1890,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1374,8 +1374,8 @@
                     "id": 171178504,
                     "language": null,
                     "license": "GPL-3.0",
-                    "last_commit": "2026-03-06T23:36:09Z",
-                    "open_issues": 155,
+                    "last_commit": "2026-10-16T18:38:10Z",
+                    "open_issues": 147,
                     "owner": "EliverLara",
                     "repo": "candy-icons",
                     "stars": 1324,
@@ -1499,7 +1499,7 @@
                     "open_issues": 24,
                     "owner": "anametologin",
                     "repo": "krohnkite",
-                    "stars": 1228,
+                    "stars": 1227,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1670,7 +1670,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T01:25:11.155Z",
+    "last_updated": "2026-10-17T01:20:45.677Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
@@ -1682,7 +1682,7 @@
       "open_issues": 1,
       "owner": "francoism90",
       "repo": "awesome-kde",
-      "stars": 867,
+      "stars": 869,
       "topics": [
         "applications",
         "awesome",
