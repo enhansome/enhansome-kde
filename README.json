@@ -284,7 +284,7 @@
                     "id": 22761923,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-10-18T14:44:26Z",
+                    "last_commit": "2026-10-21T17:40:17Z",
                     "open_issues": 0,
                     "owner": "tsujan",
                     "repo": "Kvantum",
@@ -309,7 +309,7 @@
                     "open_issues": 75,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1167,
+                    "stars": 1170,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -330,7 +330,7 @@
                     "open_issues": 26,
                     "owner": "psifidotos",
                     "repo": "applet-window-appmenu",
-                    "stars": 413,
+                    "stars": 412,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -414,7 +414,7 @@
                     "id": 1203582717,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-10-18T19:09:46Z",
+                    "last_commit": "2026-10-21T16:56:34Z",
                     "open_issues": 2,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
@@ -435,8 +435,8 @@
                     "id": 1163083555,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-20T01:45:05Z",
-                    "open_issues": 18,
+                    "last_commit": "2026-10-21T11:35:38Z",
+                    "open_issues": 19,
                     "owner": "isac322",
                     "repo": "krema",
                     "stars": 52,
@@ -727,7 +727,7 @@
                     "open_issues": 80,
                     "owner": "vinceliuice",
                     "repo": "WhiteSur-kde",
-                    "stars": 1290,
+                    "stars": 1291,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -811,7 +811,7 @@
                     "open_issues": 41,
                     "owner": "vinceliuice",
                     "repo": "Layan-kde",
-                    "stars": 542,
+                    "stars": 541,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -863,7 +863,7 @@
                     "open_issues": 23,
                     "owner": "vinceliuice",
                     "repo": "Orchis-kde",
-                    "stars": 342,
+                    "stars": 340,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1285,10 +1285,10 @@
                     "language": "Shell",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-21T12:46:33Z",
-                    "open_issues": 600,
+                    "open_issues": 601,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8161,
+                    "stars": 8160,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1670,7 +1670,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T01:38:40.129Z",
+    "last_updated": "2026-10-22T01:33:41.920Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
@@ -1682,7 +1682,7 @@
       "open_issues": 1,
       "owner": "francoism90",
       "repo": "awesome-kde",
-      "stars": 872,
+      "stars": 873,
       "topics": [
         "applications",
         "awesome",
