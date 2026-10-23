@@ -288,7 +288,7 @@
                     "open_issues": 0,
                     "owner": "tsujan",
                     "repo": "Kvantum",
-                    "stars": 2042,
+                    "stars": 2041,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -309,7 +309,7 @@
                     "open_issues": 75,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1170,
+                    "stars": 1172,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -383,6 +383,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Latte Dock NG",
+                  "description": "is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Latte Dock NG is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets. It animates its contents using a parabolic zoom effect and stays out of the way when not needed.",
+                    "homepage": null,
+                    "id": 1203582717,
+                    "language": "C++",
+                    "license": null,
+                    "last_commit": "2026-10-21T16:56:34Z",
+                    "open_issues": 2,
+                    "owner": "ruizhi-lab",
+                    "repo": "latte-dock-ng",
+                    "stars": 73,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T06:57:02.631Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Hoppla",
                   "description": "KDE Plasma desktop widget to control Philips Hue lights.",
                   "children": [],
@@ -404,27 +425,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Latte Dock NG",
-                  "description": "is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Latte Dock NG is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets. It animates its contents using a parabolic zoom effect and stays out of the way when not needed.",
-                    "homepage": null,
-                    "id": 1203582717,
-                    "language": "C++",
-                    "license": null,
-                    "last_commit": "2026-10-21T16:56:34Z",
-                    "open_issues": 2,
-                    "owner": "ruizhi-lab",
-                    "repo": "latte-dock-ng",
-                    "stars": 71,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T06:57:02.631Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Krema",
                   "description": "A Wayland-native dock for KDE Plasma 6 with parabolic zoom animations.",
                   "children": [],
@@ -436,10 +436,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-21T11:35:38Z",
-                    "open_issues": 19,
+                    "open_issues": 20,
                     "owner": "isac322",
                     "repo": "krema",
-                    "stars": 52,
+                    "stars": 54,
                     "topics": [
                       "accessibility",
                       "cpp",
@@ -627,7 +627,7 @@
                     "open_issues": 0,
                     "owner": "Agundur-KDE",
                     "repo": "KClaude",
-                    "stars": 4,
+                    "stars": 3,
                     "topics": [
                       "ai-coding-assistant",
                       "claude-ai",
@@ -811,7 +811,7 @@
                     "open_issues": 41,
                     "owner": "vinceliuice",
                     "repo": "Layan-kde",
-                    "stars": 541,
+                    "stars": 539,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1031,6 +1031,38 @@
                     ]
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Fastfetch KDE Splash",
+                  "description": "A matrix-style boot splash that renders your system info with a glitch character-reveal, preserving full ANSI color (256 and 24-bit truecolor).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Fastfetch splash screen for KDE Plasma",
+                    "homepage": null,
+                    "id": 1251447176,
+                    "language": "QML",
+                    "license": "MIT",
+                    "last_commit": "2026-10-22T16:29:50Z",
+                    "open_issues": 0,
+                    "owner": "DeadIndian",
+                    "repo": "fastfetch-kde-splash",
+                    "stars": 2,
+                    "topics": [
+                      "fastfetch",
+                      "kde",
+                      "kde-plasma",
+                      "kde-plasma-6",
+                      "linux",
+                      "look-and-feel",
+                      "plasma",
+                      "qml",
+                      "ricing",
+                      "splash-screen"
+                    ]
+                  },
+                  "first_seen": "2026-10-23T01:34:10.468Z"
                 }
               ],
               "description": null,
@@ -1288,7 +1320,7 @@
                     "open_issues": 601,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8160,
+                    "stars": 8163,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1499,7 +1531,7 @@
                     "open_issues": 24,
                     "owner": "anametologin",
                     "repo": "krohnkite",
-                    "stars": 1227,
+                    "stars": 1228,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1670,7 +1702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T01:33:41.920Z",
+    "last_updated": "2026-10-23T01:34:10.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
@@ -1678,7 +1710,7 @@
       "id": 126171103,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-06T05:44:46Z",
+      "last_commit": "2026-10-22T17:01:12Z",
       "open_issues": 1,
       "owner": "francoism90",
       "repo": "awesome-kde",
@@ -1687,15 +1719,19 @@
         "applications",
         "awesome",
         "awesome-list",
+        "breeze",
         "kde",
         "kde-desktop",
         "linux",
         "plasma",
+        "plasma-applet",
+        "plasma-desktop",
         "qt",
-        "qt5"
+        "qt5",
+        "qt6"
       ]
     },
-    "original_repository_sha": "98bc56e565b3315005520a01368ea8abe6396146",
+    "original_repository_sha": "ea229970f4bae89649fb4c99b28739d378ae210b",
     "enhanced_repository": "enhansome/enhansome-kde",
     "enhanced_repository_description": null,
     "title": "Awesome KDE with stars"

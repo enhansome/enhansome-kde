@@ -133,20 +133,20 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Extensions
 
-* [Kvantum](https://github.com/tsujan/Kvantum) ⭐ 2,042 | 🐛 0 | 🌐 C++ | 📅 2026-10-21 - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
-* [Karousel](https://github.com/peterfajdiga/karousel) ⭐ 1,170 | 🐛 75 | 🌐 TypeScript | 📅 2026-08-23 - KWin tiling script with scrolling. Works especially well with ultrawide screens.
+* [Kvantum](https://github.com/tsujan/Kvantum) ⭐ 2,041 | 🐛 0 | 🌐 C++ | 📅 2026-10-21 - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
+* [Karousel](https://github.com/peterfajdiga/karousel) ⭐ 1,172 | 🐛 75 | 🌐 TypeScript | 📅 2026-08-23 - KWin tiling script with scrolling. Works especially well with ultrawide screens.
 * [Window AppMenu Applet](https://github.com/psifidotos/applet-window-appmenu) ⭐ 412 | 🐛 26 | 🌐 C++ | 📅 2024-07-11 - **Plasma 5** applet in order to show the window appmenu.
 * [Dynamic Wallpaper Engine](https://github.com/zzag/plasma5-wallpapers-dynamic) ⭐ 384 | 🐛 22 | 🌐 C++ | 📅 2026-08-31 - A wallpaper plugin that continuously updates the desktop background based on the current time in your location.
 * [Window Title Applet](https://github.com/psifidotos/applet-window-title/) ⭐ 246 | 🐛 26 | 🌐 QML | 📅 2024-07-11 - **Plasma 5** applet that shows the current window title and icon in your panels.
+* [Latte Dock NG](https://github.com/ruizhi-lab/latte-dock-ng) ⭐ 73 | 🐛 2 | 🌐 C++ | 📅 2026-10-21 is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets.
 * [Hoppla](https://github.com/Fuchs/hoppla-sa) ⭐ 72 | 🐛 8 | 🌐 QML | 📅 2025-02-24 - KDE Plasma desktop widget to control Philips Hue lights.
-* [Latte Dock NG](https://github.com/ruizhi-lab/latte-dock-ng) ⭐ 71 | 🐛 2 | 🌐 C++ | 📅 2026-10-21 is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets.
-* [Krema](https://github.com/isac322/krema) ⭐ 52 | 🐛 19 | 🌐 Python | 📅 2026-10-21 - A Wayland-native dock for KDE Plasma 6 with parabolic zoom animations.
+* [Krema](https://github.com/isac322/krema) ⭐ 54 | 🐛 20 | 🌐 Python | 📅 2026-10-21 - A Wayland-native dock for KDE Plasma 6 with parabolic zoom animations.
 * [KDoit](https://github.com/lubdhak7414/KDoit) ⭐ 18 | 🐛 4 | 🌐 QML | 📅 2026-06-29 - Lightweight to-do list plasmoid for KDE Plasma 6 with nested sublists, priorities, due dates, and UUID-based file sync.
 * [Places Widget](https://github.com/dfaust/plasma-applet-places-widget) ⭐ 13 | 🐛 11 | 🌐 QML | 📅 2024-02-21 - **Plasma 5** widget that gives access to user places.
 * [kfritz](https://github.com/Agundur-KDE/kfritz) ⭐ 7 | 🐛 2 | 🌐 C++ | 📅 2026-09-14 - A Plasma 6 callmonitor widget for the AVM FRITZ!Box.
 * [EZMonitor](https://github.com/Agundur-KDE/EZMonitor) ⭐ 5 | 🐛 0 | 🌐 QML | 📅 2026-07-30 - A Plasma 6 widget that shows the live power output of an APsystems EZ1 microinverter.
 * [KPictureFrame](https://github.com/Agundur-KDE/KPictureFrame) ⭐ 5 | 🐛 0 | 🌐 QML | 📅 2026-09-14 - A Plasma 6 widget that turns your desktop into a picture frame.
-* [KClaude](https://github.com/Agundur-KDE/KClaude) ⭐ 4 | 🐛 0 | 🌐 QML | 📅 2026-07-30 - A Plasma 6 widget to remember Claude Code sessions and resume them in the right directory with one click.
+* [KClaude](https://github.com/Agundur-KDE/KClaude) ⭐ 3 | 🐛 0 | 🌐 QML | 📅 2026-07-30 - A Plasma 6 widget to remember Claude Code sessions and resume them in the right directory with one click.
 * [OSBMonitor](https://github.com/Agundur-KDE/OSBMonitor) ⭐ 2 | 🐛 0 | 🌐 QML | 📅 2026-08-06 - A Plasma 6 widget that monitors the build status of your Open Build Service projects and packages.
 * [Latte-Dock](https://invent.kde.org/plasma/latte-dock) - Latte is a dock based on Plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids for **Plasma 5** 📌. ⚠️ Unmaintained.
 
@@ -161,7 +161,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 * [WhiteSur](https://github.com/vinceliuice/WhiteSur-kde) ⭐ 1,291 | 🐛 80 | 🌐 QML | 📅 2026-08-07 - A MacOS Big Sur theme for KDE Plasma.
 * [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde) ⭐ 941 | 🐛 31 | 🌐 QML | 📅 2025-12-17 - A port of the popular GTK theme Arc for **Plasma 5** desktop with a few additions and extras.
 * [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) ⭐ 673 | 🐛 15 | 🌐 QML | 📅 2024-03-19 - A port of the popular GTK theme Materia for **Plasma 5** desktop with a few additions and extras.
-* [Layan](https://github.com/vinceliuice/Layan-kde) ⭐ 541 | 🐛 41 | 🌐 QML | 📅 2025-11-27 - A flat design theme for KDE Plasma desktop.
+* [Layan](https://github.com/vinceliuice/Layan-kde) ⭐ 539 | 🐛 41 | 🌐 QML | 📅 2025-11-27 - A flat design theme for KDE Plasma desktop.
 * [Adapta KDE](https://github.com/PapirusDevelopmentTeam/adapta-kde) ⚠️ Archived - A port of the popular GTK theme Adapta for **Plasma 5** desktop with a few additions and extras.
 * [Orchis](https://github.com/vinceliuice/Orchis-kde) ⭐ 340 | 🐛 23 | 🌐 QML | 📅 2025-10-18 - A materia Design theme for KDE Plasma desktop.
 * [McMojave](https://github.com/vinceliuice/McMojave-kde) ⭐ 261 | 🐛 33 | 🌐 QML | 📅 2024-10-20 - A MacOSX Mojave like theme for KDE Plasma desktop.
@@ -171,6 +171,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 * [Qogir](https://github.com/vinceliuice/Qogir-kde) ⭐ 190 | 🐛 29 | 🌐 QML | 📅 2024-12-20 - A flat design theme for KDE Plasma desktop.
 * [Canta](https://github.com/vinceliuice/Canta-kde) ⭐ 78 | 🐛 7 | 🌐 QML | 📅 2022-05-17 - A flat design theme for KDE Plasma desktop.
 * [Darkine KDE](https://github.com/Rokin05/darkine-kde) ⭐ 48 | 🐛 1 | 🌐 CSS | 📅 2020-02-19 - Theme for KDE **Plasma 5** desktop, SDDM and more.
+* [Fastfetch KDE Splash](https://github.com/DeadIndian/fastfetch-kde-splash) ⭐ 2 | 🐛 0 | 🌐 QML | 📅 2026-10-22 - A matrix-style boot splash that renders your `fastfetch` system info with a glitch character-reveal, preserving full ANSI color (256 and 24-bit truecolor).
 * [Breath](https://gitlab.manjaro.org/artwork/themes/breath) - Breath Theme for Manjaro Linux (**Plasma 5**).
 * [Helium](https://store.kde.org/p/998869/) - A translucent theme for **Plasma 5**.
 
@@ -189,7 +190,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Icons
 
-* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,160 | 🐛 601 | 🌐 Shell | 📅 2026-09-21 - Material icon theme, initially based on Paper.
+* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,163 | 🐛 601 | 🌐 Shell | 📅 2026-09-21 - Material icon theme, initially based on Paper.
 * [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) ⭐ 1,997 | 🐛 112 | 🌐 Shell | 📅 2021-11-25 - Icon pack with inspiration taken from the latest iterations of macOS and Google's Material Design.
 * [Tela](https://github.com/vinceliuice/Tela-icon-theme) ⭐ 1,893 | 🐛 104 | 🌐 Shell | 📅 2026-08-10 - A flat colorful Design icon theme.
 * [Candy](https://github.com/EliverLara/candy-icons) ⭐ 1,329 | 🐛 146 | 📅 2026-10-19 - Sweet gradient icons.
@@ -246,4 +247,4 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
