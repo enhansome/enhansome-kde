@@ -105,7 +105,7 @@
                 "open_issues": 43,
                 "owner": "oskarsh",
                 "repo": "Yin-Yang",
-                "stars": 702,
+                "stars": 703,
                 "topics": [
                   "budgie",
                   "gnome",
@@ -136,7 +136,7 @@
                 "open_issues": 46,
                 "owner": "Maldela",
                 "repo": "fancontrol-gui",
-                "stars": 391,
+                "stars": 392,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:02.631Z"
@@ -309,7 +309,7 @@
                     "open_issues": 75,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1172,
+                    "stars": 1175,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -397,7 +397,7 @@
                     "open_issues": 2,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
-                    "stars": 73,
+                    "stars": 74,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -435,11 +435,11 @@
                     "id": 1163083555,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-21T11:35:38Z",
-                    "open_issues": 20,
+                    "last_commit": "2026-10-23T14:17:31Z",
+                    "open_issues": 18,
                     "owner": "isac322",
                     "repo": "krema",
-                    "stars": 54,
+                    "stars": 55,
                     "topics": [
                       "accessibility",
                       "cpp",
@@ -863,7 +863,7 @@
                     "open_issues": 23,
                     "owner": "vinceliuice",
                     "repo": "Orchis-kde",
-                    "stars": 340,
+                    "stars": 341,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1320,7 +1320,7 @@
                     "open_issues": 601,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8163,
+                    "stars": 8166,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1702,7 +1702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T01:34:10.468Z",
+    "last_updated": "2026-10-24T01:38:31.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
@@ -1714,7 +1714,7 @@
       "open_issues": 1,
       "owner": "francoism90",
       "repo": "awesome-kde",
-      "stars": 873,
+      "stars": 874,
       "topics": [
         "applications",
         "awesome",
