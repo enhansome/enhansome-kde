@@ -54,7 +54,7 @@
                 "id": 1271668766,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-25T16:42:30Z",
+                "last_commit": "2026-10-26T04:50:10Z",
                 "open_issues": 0,
                 "owner": "TimInTech",
                 "repo": "blitztext-linux",
@@ -136,7 +136,7 @@
                 "open_issues": 46,
                 "owner": "Maldela",
                 "repo": "fancontrol-gui",
-                "stars": 392,
+                "stars": 389,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:02.631Z"
@@ -229,7 +229,7 @@
                 "id": 1173383779,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-12T09:10:48Z",
+                "last_commit": "2026-10-26T15:39:46Z",
                 "open_issues": 3,
                 "owner": "rcspam",
                 "repo": "dictee",
@@ -288,7 +288,7 @@
                     "open_issues": 0,
                     "owner": "tsujan",
                     "repo": "Kvantum",
-                    "stars": 2042,
+                    "stars": 2043,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -309,7 +309,7 @@
                     "open_issues": 72,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1176,
+                    "stars": 1177,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -330,7 +330,7 @@
                     "open_issues": 26,
                     "owner": "psifidotos",
                     "repo": "applet-window-appmenu",
-                    "stars": 412,
+                    "stars": 411,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -393,8 +393,8 @@
                     "id": 1203582717,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-10-25T09:25:14Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-10-26T15:06:03Z",
+                    "open_issues": 2,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
                     "stars": 75,
@@ -435,11 +435,11 @@
                     "id": 1163083555,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-25T22:59:25Z",
-                    "open_issues": 21,
+                    "last_commit": "2026-10-26T19:25:26Z",
+                    "open_issues": 22,
                     "owner": "isac322",
                     "repo": "krema",
-                    "stars": 58,
+                    "stars": 59,
                     "topics": [
                       "accessibility",
                       "cpp",
@@ -727,7 +727,7 @@
                     "open_issues": 80,
                     "owner": "vinceliuice",
                     "repo": "WhiteSur-kde",
-                    "stars": 1293,
+                    "stars": 1295,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -748,7 +748,7 @@
                     "open_issues": 31,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "arc-kde",
-                    "stars": 941,
+                    "stars": 938,
                     "topics": [
                       "arc",
                       "arc-dark",
@@ -811,7 +811,7 @@
                     "open_issues": 41,
                     "owner": "vinceliuice",
                     "repo": "Layan-kde",
-                    "stars": 540,
+                    "stars": 541,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -863,7 +863,7 @@
                     "open_issues": 23,
                     "owner": "vinceliuice",
                     "repo": "Orchis-kde",
-                    "stars": 342,
+                    "stars": 344,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1048,7 +1048,7 @@
                     "open_issues": 0,
                     "owner": "DeadIndian",
                     "repo": "fastfetch-kde-splash",
-                    "stars": 3,
+                    "stars": 4,
                     "topics": [
                       "fastfetch",
                       "kde",
@@ -1317,10 +1317,10 @@
                     "language": "Shell",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-21T12:46:33Z",
-                    "open_issues": 602,
+                    "open_issues": 603,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8166,
+                    "stars": 8172,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1349,7 +1349,7 @@
                     "open_issues": 112,
                     "owner": "keeferrourke",
                     "repo": "la-capitaine-icon-theme",
-                    "stars": 1998,
+                    "stars": 1999,
                     "topics": [
                       "breeze",
                       "desktop-environment",
@@ -1389,7 +1389,7 @@
                     "open_issues": 105,
                     "owner": "vinceliuice",
                     "repo": "Tela-icon-theme",
-                    "stars": 1893,
+                    "stars": 1895,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1406,11 +1406,11 @@
                     "id": 171178504,
                     "language": null,
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-19T20:10:20Z",
+                    "last_commit": "2026-10-26T21:13:50Z",
                     "open_issues": 146,
                     "owner": "EliverLara",
                     "repo": "candy-icons",
-                    "stars": 1329,
+                    "stars": 1330,
                     "topics": [
                       "hacktoberfest",
                       "icons",
@@ -1462,7 +1462,7 @@
                     "open_issues": 6,
                     "owner": "cbrnix",
                     "repo": "Flatery",
-                    "stars": 327,
+                    "stars": 328,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1490,7 +1490,7 @@
                     "open_issues": 16,
                     "owner": "keeferrourke",
                     "repo": "capitaine-cursors",
-                    "stars": 1251,
+                    "stars": 1252,
                     "topics": [
                       "breeze",
                       "capitaine-cursors",
@@ -1531,7 +1531,7 @@
                     "open_issues": 24,
                     "owner": "anametologin",
                     "repo": "krohnkite",
-                    "stars": 1228,
+                    "stars": 1229,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1702,7 +1702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T01:15:07.497Z",
+    "last_updated": "2026-10-27T02:07:27.411Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
@@ -1714,7 +1714,7 @@
       "open_issues": 1,
       "owner": "francoism90",
       "repo": "awesome-kde",
-      "stars": 875,
+      "stars": 876,
       "topics": [
         "applications",
         "awesome",
