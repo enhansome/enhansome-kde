@@ -54,7 +54,7 @@
                 "id": 1271668766,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-28T06:39:05Z",
+                "last_commit": "2026-10-29T17:36:14Z",
                 "open_issues": 0,
                 "owner": "TimInTech",
                 "repo": "blitztext-linux",
@@ -439,7 +439,7 @@
                     "open_issues": 17,
                     "owner": "isac322",
                     "repo": "krema",
-                    "stars": 59,
+                    "stars": 60,
                     "topics": [
                       "accessibility",
                       "cpp",
@@ -1320,7 +1320,7 @@
                     "open_issues": 605,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8177,
+                    "stars": 8182,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1410,7 +1410,7 @@
                     "open_issues": 146,
                     "owner": "EliverLara",
                     "repo": "candy-icons",
-                    "stars": 1330,
+                    "stars": 1331,
                     "topics": [
                       "hacktoberfest",
                       "icons",
@@ -1702,7 +1702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T02:28:22.999Z",
+    "last_updated": "2026-10-30T02:39:02.968Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
@@ -1714,7 +1714,7 @@
       "open_issues": 1,
       "owner": "francoism90",
       "repo": "awesome-kde",
-      "stars": 876,
+      "stars": 877,
       "topics": [
         "applications",
         "awesome",
