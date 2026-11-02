@@ -95,7 +95,7 @@ Tip: An overview of the most used KDE community apps are listed on the [official
 
 ### Utilities & Tools
 
-* [Yin-Yang](https://github.com/daehruoydeef/Yin-Yang) ⭐ 703 | 🐛 43 | 🌐 Python | 📅 2026-03-26 - Auto Night-mode for Linux.
+* [Yin-Yang](https://github.com/daehruoydeef/Yin-Yang) ⭐ 704 | 🐛 43 | 🌐 Python | 📅 2026-03-26 - Auto Night-mode for Linux.
 * [fancontrol-gui](https://github.com/Maldela/fancontrol-gui) ⭐ 389 | 🐛 46 | 🌐 C++ | 📅 2025-05-13 - GUI for fancontrol which is part of lm\_sensors.
 * [KWin-lowlatency](https://github.com/tildearrow/kwin-lowlatency) ⚠️ Archived - An attempt to reduce latency and stuttering in the popular KWin compositor used in KDE.
 * [Wacom GUI](https://github.com/tb2097/wacom-gui) ⭐ 146 | 🐛 40 | 🌐 Python | 📅 2023-07-30 - Python/PyQt Wacom GUI for KDE.
@@ -134,13 +134,13 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 #### Extensions
 
 * [Kvantum](https://github.com/tsujan/Kvantum) ⭐ 2,046 | 🐛 0 | 🌐 C++ | 📅 2026-10-31 - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
-* [Karousel](https://github.com/peterfajdiga/karousel) ⭐ 1,186 | 🐛 73 | 🌐 TypeScript | 📅 2026-10-25 - KWin tiling script with scrolling. Works especially well with ultrawide screens.
+* [Karousel](https://github.com/peterfajdiga/karousel) ⭐ 1,188 | 🐛 73 | 🌐 TypeScript | 📅 2026-10-25 - KWin tiling script with scrolling. Works especially well with ultrawide screens.
 * [Window AppMenu Applet](https://github.com/psifidotos/applet-window-appmenu) ⭐ 411 | 🐛 26 | 🌐 C++ | 📅 2024-07-11 - **Plasma 5** applet in order to show the window appmenu.
 * [Dynamic Wallpaper Engine](https://github.com/zzag/plasma5-wallpapers-dynamic) ⭐ 384 | 🐛 22 | 🌐 C++ | 📅 2026-08-31 - A wallpaper plugin that continuously updates the desktop background based on the current time in your location.
 * [Window Title Applet](https://github.com/psifidotos/applet-window-title/) ⭐ 246 | 🐛 26 | 🌐 QML | 📅 2024-07-11 - **Plasma 5** applet that shows the current window title and icon in your panels.
-* [Latte Dock NG](https://github.com/ruizhi-lab/latte-dock-ng) ⭐ 74 | 🐛 2 | 🌐 C++ | 📅 2026-10-28 is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets.
+* [Latte Dock NG](https://github.com/ruizhi-lab/latte-dock-ng) ⭐ 74 | 🐛 3 | 🌐 C++ | 📅 2026-10-28 is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets.
 * [Hoppla](https://github.com/Fuchs/hoppla-sa) ⭐ 72 | 🐛 8 | 🌐 QML | 📅 2025-02-24 - KDE Plasma desktop widget to control Philips Hue lights.
-* [Krema](https://github.com/isac322/krema) ⭐ 62 | 🐛 17 | 🌐 Python | 📅 2026-10-28 - A Wayland-native dock for KDE Plasma 6 with parabolic zoom animations.
+* [Krema](https://github.com/isac322/krema) ⭐ 62 | 🐛 14 | 🌐 Python | 📅 2026-11-01 - A Wayland-native dock for KDE Plasma 6 with parabolic zoom animations.
 * [KDoit](https://github.com/lubdhak7414/KDoit) ⭐ 19 | 🐛 4 | 🌐 QML | 📅 2026-06-29 - Lightweight to-do list plasmoid for KDE Plasma 6 with nested sublists, priorities, due dates, and UUID-based file sync.
 * [Places Widget](https://github.com/dfaust/plasma-applet-places-widget) ⭐ 13 | 🐛 11 | 🌐 QML | 📅 2024-02-21 - **Plasma 5** widget that gives access to user places.
 * [kfritz](https://github.com/Agundur-KDE/kfritz) ⭐ 7 | 🐛 2 | 🌐 C++ | 📅 2026-09-14 - A Plasma 6 callmonitor widget for the AVM FRITZ!Box.
@@ -184,15 +184,15 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 * [Akava-Kv](https://github.com/Akava-Design/Akava-Kv) ⭐ 193 | 🐛 7 | 📅 2023-03-02 - User oriented Kvantum theme for KDE.
 * [KDE-Rounded-Corners](https://github.com/alex47/KDE-Rounded-Corners) ⚠️ Archived - Rounds the corners of your windows.
 * [Breeze10](https://github.com/fauzie811/Breeze10) ⭐ 125 | 🐛 8 | 🌐 C++ | 📅 2025-11-29 - A Windows 10 style windows decoration for KDE Plasma.
-* [XBoomer](https://github.com/efskap/XBoomer) ⭐ 115 | 🐛 0 | 📅 2019-11-23 - XP Window Decorations for KDE Plasma.
+* [XBoomer](https://github.com/efskap/XBoomer) ⭐ 116 | 🐛 0 | 📅 2019-11-23 - XP Window Decorations for KDE Plasma.
 * [breeze-gtk](https://github.com/KDE/breeze-gtk) ⭐ 87 | 🐛 0 | 🌐 SCSS | 📅 2026-10-27 - A GTK Theme Built to Match KDE's Breeze 📌.
 * [Chrome-KDE5BreezeDark](https://github.com/pdeljanov/Chrome-KDE5BreezeDark) ⭐ 22 | 🐛 0 | 📅 2021-09-05 - A theme for Chrome on KDE5 when using the Breeze Dark window decoration.
 
 #### Icons
 
-* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,187 | 🐛 608 | 🌐 Shell | 📅 2026-09-21 - Material icon theme, initially based on Paper.
-* [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) ⭐ 1,998 | 🐛 112 | 🌐 Shell | 📅 2021-11-25 - Icon pack with inspiration taken from the latest iterations of macOS and Google's Material Design.
-* [Tela](https://github.com/vinceliuice/Tela-icon-theme) ⭐ 1,895 | 🐛 105 | 🌐 Shell | 📅 2026-08-10 - A flat colorful Design icon theme.
+* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,189 | 🐛 602 | 🌐 Shell | 📅 2026-11-01 - Material icon theme, initially based on Paper.
+* [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) ⭐ 1,999 | 🐛 112 | 🌐 Shell | 📅 2021-11-25 - Icon pack with inspiration taken from the latest iterations of macOS and Google's Material Design.
+* [Tela](https://github.com/vinceliuice/Tela-icon-theme) ⭐ 1,894 | 🐛 105 | 🌐 Shell | 📅 2026-08-10 - A flat colorful Design icon theme.
 * [Candy](https://github.com/EliverLara/candy-icons) ⭐ 1,333 | 🐛 148 | 📅 2026-10-26 - Sweet gradient icons.
 * [Zafiro](https://github.com/zayronxio/Zafiro-icons) ⭐ 465 | 🐛 21 | 🌐 Shell | 📅 2024-11-05 - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white. The priority is simplicity.
 * [Flatery](https://github.com/cbrnix/Flatery) ⭐ 328 | 🐛 6 | 🌐 Shell | 📅 2022-03-18 - Icon theme for Linux in flat style.
@@ -247,4 +247,4 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._

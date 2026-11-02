@@ -105,7 +105,7 @@
                 "open_issues": 43,
                 "owner": "oskarsh",
                 "repo": "Yin-Yang",
-                "stars": 703,
+                "stars": 704,
                 "topics": [
                   "budgie",
                   "gnome",
@@ -309,7 +309,7 @@
                     "open_issues": 73,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1186,
+                    "stars": 1188,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -394,7 +394,7 @@
                     "language": "C++",
                     "license": null,
                     "last_commit": "2026-10-28T17:16:41Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
                     "stars": 74,
@@ -435,8 +435,8 @@
                     "id": 1163083555,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-28T18:20:28Z",
-                    "open_issues": 17,
+                    "last_commit": "2026-11-01T17:28:06Z",
+                    "open_issues": 14,
                     "owner": "isac322",
                     "repo": "krema",
                     "stars": 62,
@@ -1238,7 +1238,7 @@
                     "open_issues": 0,
                     "owner": "efskap",
                     "repo": "XBoomer",
-                    "stars": 115,
+                    "stars": 116,
                     "topics": [
                       "aurorae-theme",
                       "boomer",
@@ -1316,11 +1316,11 @@
                     "id": 60187911,
                     "language": "Shell",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-21T12:46:33Z",
-                    "open_issues": 608,
+                    "last_commit": "2026-11-01T20:35:29Z",
+                    "open_issues": 602,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8187,
+                    "stars": 8189,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1349,7 +1349,7 @@
                     "open_issues": 112,
                     "owner": "keeferrourke",
                     "repo": "la-capitaine-icon-theme",
-                    "stars": 1998,
+                    "stars": 1999,
                     "topics": [
                       "breeze",
                       "desktop-environment",
@@ -1389,7 +1389,7 @@
                     "open_issues": 105,
                     "owner": "vinceliuice",
                     "repo": "Tela-icon-theme",
-                    "stars": 1895,
+                    "stars": 1894,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1702,7 +1702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T02:16:24.783Z",
+    "last_updated": "2026-11-02T02:33:43.844Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
