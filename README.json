@@ -105,7 +105,7 @@
                 "open_issues": 43,
                 "owner": "oskarsh",
                 "repo": "Yin-Yang",
-                "stars": 704,
+                "stars": 705,
                 "topics": [
                   "budgie",
                   "gnome",
@@ -212,7 +212,7 @@
                 "open_issues": 15,
                 "owner": "terslang",
                 "repo": "LocalTranslate",
-                "stars": 70,
+                "stars": 71,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:02.631Z"
@@ -309,7 +309,7 @@
                     "open_issues": 73,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1188,
+                    "stars": 1190,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -351,7 +351,7 @@
                     "open_issues": 22,
                     "owner": "zzag",
                     "repo": "plasma5-wallpapers-dynamic",
-                    "stars": 384,
+                    "stars": 385,
                     "topics": [
                       "dynamic",
                       "plasma",
@@ -393,11 +393,11 @@
                     "id": 1203582717,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-10-28T17:16:41Z",
+                    "last_commit": "2026-11-02T16:11:53Z",
                     "open_issues": 3,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
-                    "stars": 74,
+                    "stars": 75,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -435,11 +435,11 @@
                     "id": 1163083555,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-01T17:28:06Z",
-                    "open_issues": 14,
+                    "last_commit": "2026-11-02T17:20:04Z",
+                    "open_issues": 15,
                     "owner": "isac322",
                     "repo": "krema",
-                    "stars": 62,
+                    "stars": 67,
                     "topics": [
                       "accessibility",
                       "cpp",
@@ -552,6 +552,35 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "KPictureFrame",
+                  "description": "A Plasma 6 widget that turns your desktop into a picture frame.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A KDE Plasma 6 picture frame for your desktop",
+                    "homepage": "https://github.com/Agundur-KDE/KPictureFrame",
+                    "id": 1009642942,
+                    "language": "QML",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-09-14T08:03:45Z",
+                    "open_issues": 0,
+                    "owner": "Agundur-KDE",
+                    "repo": "KPictureFrame",
+                    "stars": 6,
+                    "topics": [
+                      "kde",
+                      "kde-desktop",
+                      "kde-plasma",
+                      "kde-plasma-6",
+                      "picture-viewer",
+                      "qml",
+                      "utility"
+                    ]
+                  },
+                  "first_seen": "2026-09-02T01:03:19.557Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "EZMonitor",
                   "description": "A Plasma 6 widget that shows the live power output of an APsystems EZ1 microinverter.",
                   "children": [],
@@ -578,35 +607,6 @@
                       "solar",
                       "solar-energy",
                       "solar-system"
-                    ]
-                  },
-                  "first_seen": "2026-09-02T01:03:19.557Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "KPictureFrame",
-                  "description": "A Plasma 6 widget that turns your desktop into a picture frame.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A KDE Plasma 6 picture frame for your desktop",
-                    "homepage": "https://github.com/Agundur-KDE/KPictureFrame",
-                    "id": 1009642942,
-                    "language": "QML",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-09-14T08:03:45Z",
-                    "open_issues": 0,
-                    "owner": "Agundur-KDE",
-                    "repo": "KPictureFrame",
-                    "stars": 5,
-                    "topics": [
-                      "kde",
-                      "kde-desktop",
-                      "kde-plasma",
-                      "kde-plasma-6",
-                      "picture-viewer",
-                      "qml",
-                      "utility"
                     ]
                   },
                   "first_seen": "2026-09-02T01:03:19.557Z"
@@ -727,7 +727,7 @@
                     "open_issues": 80,
                     "owner": "vinceliuice",
                     "repo": "WhiteSur-kde",
-                    "stars": 1298,
+                    "stars": 1300,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -811,7 +811,7 @@
                     "open_issues": 41,
                     "owner": "vinceliuice",
                     "repo": "Layan-kde",
-                    "stars": 542,
+                    "stars": 543,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1317,10 +1317,10 @@
                     "language": "Shell",
                     "license": "GPL-3.0",
                     "last_commit": "2026-11-01T20:35:29Z",
-                    "open_issues": 602,
+                    "open_issues": 604,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8189,
+                    "stars": 8191,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1702,7 +1702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T02:33:43.844Z",
+    "last_updated": "2026-11-03T03:56:30.167Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
@@ -1714,7 +1714,7 @@
       "open_issues": 1,
       "owner": "francoism90",
       "repo": "awesome-kde",
-      "stars": 879,
+      "stars": 882,
       "topics": [
         "applications",
         "awesome",
