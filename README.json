@@ -306,7 +306,7 @@
                     "language": "TypeScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-25T17:50:15Z",
-                    "open_issues": 73,
+                    "open_issues": 74,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
                     "stars": 1192,
@@ -393,11 +393,11 @@
                     "id": 1203582717,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-11-04T01:00:55Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-11-04T20:19:59Z",
+                    "open_issues": 2,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
-                    "stars": 75,
+                    "stars": 77,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -435,11 +435,11 @@
                     "id": 1163083555,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-04T00:42:32Z",
-                    "open_issues": 15,
+                    "last_commit": "2026-11-04T09:35:13Z",
+                    "open_issues": 14,
                     "owner": "isac322",
                     "repo": "krema",
-                    "stars": 68,
+                    "stars": 70,
                     "topics": [
                       "accessibility",
                       "cpp",
@@ -727,7 +727,7 @@
                     "open_issues": 80,
                     "owner": "vinceliuice",
                     "repo": "WhiteSur-kde",
-                    "stars": 1304,
+                    "stars": 1305,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1238,7 +1238,7 @@
                     "open_issues": 0,
                     "owner": "efskap",
                     "repo": "XBoomer",
-                    "stars": 116,
+                    "stars": 117,
                     "topics": [
                       "aurorae-theme",
                       "boomer",
@@ -1316,11 +1316,11 @@
                     "id": 60187911,
                     "language": "Shell",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-01T20:35:29Z",
-                    "open_issues": 604,
+                    "last_commit": "2026-11-04T13:12:56Z",
+                    "open_issues": 603,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8193,
+                    "stars": 8195,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1410,7 +1410,7 @@
                     "open_issues": 148,
                     "owner": "EliverLara",
                     "repo": "candy-icons",
-                    "stars": 1335,
+                    "stars": 1336,
                     "topics": [
                       "hacktoberfest",
                       "icons",
@@ -1435,7 +1435,7 @@
                     "open_issues": 21,
                     "owner": "zayronxio",
                     "repo": "Zafiro-icons",
-                    "stars": 465,
+                    "stars": 466,
                     "topics": [
                       "artwork",
                       "flat-ui",
@@ -1702,7 +1702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T03:01:42.399Z",
+    "last_updated": "2026-11-05T03:31:21.661Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
