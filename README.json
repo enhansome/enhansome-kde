@@ -54,7 +54,7 @@
                 "id": 1271668766,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-29T17:36:14Z",
+                "last_commit": "2026-11-05T13:00:11Z",
                 "open_issues": 0,
                 "owner": "TimInTech",
                 "repo": "blitztext-linux",
@@ -233,7 +233,7 @@
                 "open_issues": 3,
                 "owner": "rcspam",
                 "repo": "dictee",
-                "stars": 68,
+                "stars": 69,
                 "topics": [
                   "asr",
                   "dictation-tool",
@@ -393,11 +393,11 @@
                     "id": 1203582717,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-11-04T20:19:59Z",
+                    "last_commit": "2026-11-06T02:06:24Z",
                     "open_issues": 2,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
-                    "stars": 77,
+                    "stars": 78,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -727,7 +727,7 @@
                     "open_issues": 80,
                     "owner": "vinceliuice",
                     "repo": "WhiteSur-kde",
-                    "stars": 1305,
+                    "stars": 1307,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -781,7 +781,7 @@
                     "open_issues": 15,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "materia-kde",
-                    "stars": 675,
+                    "stars": 674,
                     "topics": [
                       "desktop-environment",
                       "kde-desktop",
@@ -1264,7 +1264,7 @@
                     "open_issues": 0,
                     "owner": "KDE",
                     "repo": "breeze-gtk",
-                    "stars": 87,
+                    "stars": 88,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1317,10 +1317,10 @@
                     "language": "Shell",
                     "license": "GPL-3.0",
                     "last_commit": "2026-11-04T13:12:56Z",
-                    "open_issues": 603,
+                    "open_issues": 604,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8195,
+                    "stars": 8193,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1702,7 +1702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T03:31:21.661Z",
+    "last_updated": "2026-11-06T03:27:40.662Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
@@ -1714,7 +1714,7 @@
       "open_issues": 1,
       "owner": "francoism90",
       "repo": "awesome-kde",
-      "stars": 883,
+      "stars": 884,
       "topics": [
         "applications",
         "awesome",
