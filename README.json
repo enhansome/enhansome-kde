@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "Agundur-KDE",
                 "repo": "KCast",
-                "stars": 57,
+                "stars": 58,
                 "topics": [
                   "chromecast",
                   "kde",
@@ -284,11 +284,11 @@
                     "id": 22761923,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-10-31T20:00:02Z",
+                    "last_commit": "2026-11-08T21:46:14Z",
                     "open_issues": 0,
                     "owner": "tsujan",
                     "repo": "Kvantum",
-                    "stars": 2045,
+                    "stars": 2047,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -306,10 +306,10 @@
                     "language": "TypeScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-25T17:50:15Z",
-                    "open_issues": 74,
+                    "open_issues": 76,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1194,
+                    "stars": 1195,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -393,7 +393,7 @@
                     "id": 1203582717,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-11-06T06:05:12Z",
+                    "last_commit": "2026-11-09T01:25:30Z",
                     "open_issues": 2,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
@@ -727,7 +727,7 @@
                     "open_issues": 80,
                     "owner": "vinceliuice",
                     "repo": "WhiteSur-kde",
-                    "stars": 1308,
+                    "stars": 1307,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1260,7 +1260,7 @@
                     "id": 44812667,
                     "language": "SCSS",
                     "license": null,
-                    "last_commit": "2026-11-07T13:35:58Z",
+                    "last_commit": "2026-11-08T18:40:22Z",
                     "open_issues": 0,
                     "owner": "KDE",
                     "repo": "breeze-gtk",
@@ -1316,11 +1316,11 @@
                     "id": 60187911,
                     "language": "Shell",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-04T13:12:56Z",
-                    "open_issues": 604,
+                    "last_commit": "2026-11-09T01:00:52Z",
+                    "open_issues": 605,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8199,
+                    "stars": 8200,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1389,7 +1389,7 @@
                     "open_issues": 105,
                     "owner": "vinceliuice",
                     "repo": "Tela-icon-theme",
-                    "stars": 1896,
+                    "stars": 1895,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1702,7 +1702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T02:31:39.537Z",
+    "last_updated": "2026-11-09T02:42:07.372Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
