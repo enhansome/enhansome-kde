@@ -233,7 +233,7 @@
                 "open_issues": 3,
                 "owner": "rcspam",
                 "repo": "dictee",
-                "stars": 69,
+                "stars": 70,
                 "topics": [
                   "asr",
                   "dictation-tool",
@@ -288,7 +288,7 @@
                     "open_issues": 0,
                     "owner": "tsujan",
                     "repo": "Kvantum",
-                    "stars": 2047,
+                    "stars": 2048,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -351,7 +351,7 @@
                     "open_issues": 22,
                     "owner": "zzag",
                     "repo": "plasma5-wallpapers-dynamic",
-                    "stars": 385,
+                    "stars": 386,
                     "topics": [
                       "dynamic",
                       "plasma",
@@ -393,11 +393,11 @@
                     "id": 1203582717,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-11-09T01:25:30Z",
+                    "last_commit": "2026-11-10T01:16:33Z",
                     "open_issues": 2,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
-                    "stars": 79,
+                    "stars": 80,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -435,11 +435,11 @@
                     "id": 1163083555,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-04T09:35:13Z",
+                    "last_commit": "2026-11-09T17:22:23Z",
                     "open_issues": 14,
                     "owner": "isac322",
                     "repo": "krema",
-                    "stars": 71,
+                    "stars": 72,
                     "topics": [
                       "accessibility",
                       "cpp",
@@ -727,7 +727,7 @@
                     "open_issues": 80,
                     "owner": "vinceliuice",
                     "repo": "WhiteSur-kde",
-                    "stars": 1307,
+                    "stars": 1306,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1238,7 +1238,7 @@
                     "open_issues": 0,
                     "owner": "efskap",
                     "repo": "XBoomer",
-                    "stars": 117,
+                    "stars": 116,
                     "topics": [
                       "aurorae-theme",
                       "boomer",
@@ -1260,7 +1260,7 @@
                     "id": 44812667,
                     "language": "SCSS",
                     "license": null,
-                    "last_commit": "2026-11-08T18:40:22Z",
+                    "last_commit": "2026-11-09T13:39:37Z",
                     "open_issues": 0,
                     "owner": "KDE",
                     "repo": "breeze-gtk",
@@ -1316,11 +1316,11 @@
                     "id": 60187911,
                     "language": "Shell",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-09T01:00:52Z",
-                    "open_issues": 605,
+                    "last_commit": "2026-11-09T13:13:31Z",
+                    "open_issues": 606,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8200,
+                    "stars": 8203,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1389,7 +1389,7 @@
                     "open_issues": 105,
                     "owner": "vinceliuice",
                     "repo": "Tela-icon-theme",
-                    "stars": 1895,
+                    "stars": 1898,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1490,7 +1490,7 @@
                     "open_issues": 16,
                     "owner": "keeferrourke",
                     "repo": "capitaine-cursors",
-                    "stars": 1254,
+                    "stars": 1256,
                     "topics": [
                       "breeze",
                       "capitaine-cursors",
@@ -1702,7 +1702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T02:42:07.372Z",
+    "last_updated": "2026-11-10T04:38:49.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
