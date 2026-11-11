@@ -133,14 +133,14 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Extensions
 
-* [Kvantum](https://github.com/tsujan/Kvantum) ⭐ 2,048 | 🐛 0 | 🌐 C++ | 📅 2026-11-08 - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
-* [Karousel](https://github.com/peterfajdiga/karousel) ⭐ 1,195 | 🐛 76 | 🌐 TypeScript | 📅 2026-10-25 - KWin tiling script with scrolling. Works especially well with ultrawide screens.
+* [Kvantum](https://github.com/tsujan/Kvantum) ⭐ 2,049 | 🐛 0 | 🌐 C++ | 📅 2026-11-08 - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
+* [Karousel](https://github.com/peterfajdiga/karousel) ⭐ 1,197 | 🐛 76 | 🌐 TypeScript | 📅 2026-10-25 - KWin tiling script with scrolling. Works especially well with ultrawide screens.
 * [Window AppMenu Applet](https://github.com/psifidotos/applet-window-appmenu) ⭐ 411 | 🐛 26 | 🌐 C++ | 📅 2024-07-11 - **Plasma 5** applet in order to show the window appmenu.
 * [Dynamic Wallpaper Engine](https://github.com/zzag/plasma5-wallpapers-dynamic) ⭐ 386 | 🐛 22 | 🌐 C++ | 📅 2026-08-31 - A wallpaper plugin that continuously updates the desktop background based on the current time in your location.
 * [Window Title Applet](https://github.com/psifidotos/applet-window-title/) ⭐ 246 | 🐛 26 | 🌐 QML | 📅 2024-07-11 - **Plasma 5** applet that shows the current window title and icon in your panels.
 * [Latte Dock NG](https://github.com/ruizhi-lab/latte-dock-ng) ⭐ 80 | 🐛 2 | 🌐 C++ | 📅 2026-11-10 is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets.
+* [Krema](https://github.com/isac322/krema) ⭐ 73 | 🐛 12 | 🌐 Python | 📅 2026-11-10 - A Wayland-native dock for KDE Plasma 6 with parabolic zoom animations.
 * [Hoppla](https://github.com/Fuchs/hoppla-sa) ⭐ 72 | 🐛 8 | 🌐 QML | 📅 2025-02-24 - KDE Plasma desktop widget to control Philips Hue lights.
-* [Krema](https://github.com/isac322/krema) ⭐ 72 | 🐛 14 | 🌐 Python | 📅 2026-11-09 - A Wayland-native dock for KDE Plasma 6 with parabolic zoom animations.
 * [KDoit](https://github.com/lubdhak7414/KDoit) ⭐ 19 | 🐛 4 | 🌐 QML | 📅 2026-06-29 - Lightweight to-do list plasmoid for KDE Plasma 6 with nested sublists, priorities, due dates, and UUID-based file sync.
 * [Places Widget](https://github.com/dfaust/plasma-applet-places-widget) ⭐ 13 | 🐛 11 | 🌐 QML | 📅 2024-02-21 - **Plasma 5** widget that gives access to user places.
 * [kfritz](https://github.com/Agundur-KDE/kfritz) ⭐ 7 | 🐛 2 | 🌐 C++ | 📅 2026-09-14 - A Plasma 6 callmonitor widget for the AVM FRITZ!Box.
@@ -163,7 +163,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 * [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) ⭐ 674 | 🐛 15 | 🌐 QML | 📅 2024-03-19 - A port of the popular GTK theme Materia for **Plasma 5** desktop with a few additions and extras.
 * [Layan](https://github.com/vinceliuice/Layan-kde) ⭐ 543 | 🐛 41 | 🌐 QML | 📅 2025-11-27 - A flat design theme for KDE Plasma desktop.
 * [Adapta KDE](https://github.com/PapirusDevelopmentTeam/adapta-kde) ⚠️ Archived - A port of the popular GTK theme Adapta for **Plasma 5** desktop with a few additions and extras.
-* [Orchis](https://github.com/vinceliuice/Orchis-kde) ⭐ 346 | 🐛 23 | 🌐 QML | 📅 2025-10-18 - A materia Design theme for KDE Plasma desktop.
+* [Orchis](https://github.com/vinceliuice/Orchis-kde) ⭐ 346 | 🐛 24 | 🌐 QML | 📅 2025-10-18 - A materia Design theme for KDE Plasma desktop.
 * [McMojave](https://github.com/vinceliuice/McMojave-kde) ⭐ 262 | 🐛 33 | 🌐 QML | 📅 2024-10-20 - A MacOSX Mojave like theme for KDE Plasma desktop.
 * [Fluent](https://github.com/vinceliuice/Fluent-kde) ⭐ 243 | 🐛 35 | 🌐 QML | 📅 2025-11-10 - A Microsoft inspired fluent Design theme for the KDE Plasma desktop.
 * [Hello](https://github.com/n4n0GH/hello) ⚠️ Archived - A compilation of various color-schemes, themes, icons and more for the KDE Plasma desktop. It is unopinionated, putting you in charge.
@@ -185,29 +185,29 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 * [KDE-Rounded-Corners](https://github.com/alex47/KDE-Rounded-Corners) ⚠️ Archived - Rounds the corners of your windows.
 * [Breeze10](https://github.com/fauzie811/Breeze10) ⭐ 123 | 🐛 8 | 🌐 C++ | 📅 2025-11-29 - A Windows 10 style windows decoration for KDE Plasma.
 * [XBoomer](https://github.com/efskap/XBoomer) ⭐ 116 | 🐛 0 | 📅 2019-11-23 - XP Window Decorations for KDE Plasma.
-* [breeze-gtk](https://github.com/KDE/breeze-gtk) ⭐ 88 | 🐛 0 | 🌐 SCSS | 📅 2026-11-09 - A GTK Theme Built to Match KDE's Breeze 📌.
+* [breeze-gtk](https://github.com/KDE/breeze-gtk) ⭐ 88 | 🐛 0 | 🌐 SCSS | 📅 2026-11-10 - A GTK Theme Built to Match KDE's Breeze 📌.
 * [Chrome-KDE5BreezeDark](https://github.com/pdeljanov/Chrome-KDE5BreezeDark) ⭐ 22 | 🐛 0 | 📅 2021-09-05 - A theme for Chrome on KDE5 when using the Breeze Dark window decoration.
 
 #### Icons
 
-* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,203 | 🐛 606 | 🌐 Shell | 📅 2026-11-09 - Material icon theme, initially based on Paper.
+* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,204 | 🐛 606 | 🌐 Shell | 📅 2026-11-09 - Material icon theme, initially based on Paper.
 * [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) ⭐ 2,000 | 🐛 112 | 🌐 Shell | 📅 2021-11-25 - Icon pack with inspiration taken from the latest iterations of macOS and Google's Material Design.
-* [Tela](https://github.com/vinceliuice/Tela-icon-theme) ⭐ 1,898 | 🐛 105 | 🌐 Shell | 📅 2026-08-10 - A flat colorful Design icon theme.
+* [Tela](https://github.com/vinceliuice/Tela-icon-theme) ⭐ 1,899 | 🐛 105 | 🌐 Shell | 📅 2026-08-10 - A flat colorful Design icon theme.
 * [Candy](https://github.com/EliverLara/candy-icons) ⭐ 1,337 | 🐛 148 | 📅 2026-10-26 - Sweet gradient icons.
-* [Zafiro](https://github.com/zayronxio/Zafiro-icons) ⭐ 466 | 🐛 21 | 🌐 Shell | 📅 2024-11-05 - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white. The priority is simplicity.
+* [Zafiro](https://github.com/zayronxio/Zafiro-icons) ⭐ 465 | 🐛 21 | 🌐 Shell | 📅 2024-11-05 - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white. The priority is simplicity.
 * [Flatery](https://github.com/cbrnix/Flatery) ⭐ 329 | 🐛 6 | 🌐 Shell | 📅 2022-03-18 - Icon theme for Linux in flat style.
 * [Antu](https://gitlab.com/froodo_alexis/Antu-icons) - A smooth icon theme designed for Plasma Desktop.
 
 #### Cursors
 
-* [Capitaine](https://github.com/keeferrourke/capitaine-cursors) ⭐ 1,256 | 🐛 16 | 🌐 Python | 📅 2022-06-05 - An x-cursor theme inspired by macOS and based on KDE Breeze.
+* [Capitaine](https://github.com/keeferrourke/capitaine-cursors) ⭐ 1,256 | 🐛 17 | 🌐 Python | 📅 2022-06-05 - An x-cursor theme inspired by macOS and based on KDE Breeze.
 * [Bibata](https://store.kde.org/p/1197198/) - Material Based Cursor Theme.
 
 #### Scripts
 
 * [Kröhnkite](https://github.com/anametologin/krohnkite) ⚠️ Archived - A dynamic tiling extension for KWin.
 * [kwin-tiling](https://github.com/faho/kwin-tiling) ⚠️ Archived - Tiling script for kwin.
-* [Grid-Tiling-Kwin](https://github.com/lingtjien/Grid-Tiling-Kwin) ⭐ 914 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-22 - A kwin script that automatically tiles windows.
+* [Grid-Tiling-Kwin](https://github.com/lingtjien/Grid-Tiling-Kwin) ⭐ 915 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-22 - A kwin script that automatically tiles windows.
 * [Panel Dodge](https://github.com/iacosta3994/panel-dodge) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-07 - Moves the panel to another monitor while a window is fullscreen on the panel's screen, and back when it's gone.
 * [Fluid tile](https://codeberg.org/Serroda/fluid-tile) - Simple auto tiling with UI for KWin that works natively.
 
@@ -247,4 +247,4 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
