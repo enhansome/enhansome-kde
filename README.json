@@ -233,7 +233,7 @@
                 "open_issues": 3,
                 "owner": "rcspam",
                 "repo": "dictee",
-                "stars": 70,
+                "stars": 71,
                 "topics": [
                   "asr",
                   "dictation-tool",
@@ -309,7 +309,7 @@
                     "open_issues": 76,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1197,
+                    "stars": 1198,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -393,8 +393,8 @@
                     "id": 1203582717,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-11-11T17:01:28Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-11-13T02:13:30Z",
+                    "open_issues": 4,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
                     "stars": 81,
@@ -526,7 +526,7 @@
                     "id": 1011665035,
                     "language": "C++",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-14T08:03:43Z",
+                    "last_commit": "2026-11-12T17:50:33Z",
                     "open_issues": 2,
                     "owner": "Agundur-KDE",
                     "repo": "kfritz",
@@ -727,7 +727,7 @@
                     "open_issues": 81,
                     "owner": "vinceliuice",
                     "repo": "WhiteSur-kde",
-                    "stars": 1309,
+                    "stars": 1314,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -811,7 +811,7 @@
                     "open_issues": 41,
                     "owner": "vinceliuice",
                     "repo": "Layan-kde",
-                    "stars": 543,
+                    "stars": 544,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1317,7 +1317,7 @@
                     "language": "Shell",
                     "license": "GPL-3.0",
                     "last_commit": "2026-11-09T13:13:31Z",
-                    "open_issues": 607,
+                    "open_issues": 608,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
                     "stars": 8204,
@@ -1349,7 +1349,7 @@
                     "open_issues": 112,
                     "owner": "keeferrourke",
                     "repo": "la-capitaine-icon-theme",
-                    "stars": 2000,
+                    "stars": 1999,
                     "topics": [
                       "breeze",
                       "desktop-environment",
@@ -1702,7 +1702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T03:50:53.227Z",
+    "last_updated": "2026-11-13T03:26:40.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
