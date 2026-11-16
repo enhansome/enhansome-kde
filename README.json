@@ -17,7 +17,7 @@
                 "id": 1000167744,
                 "language": "QML",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-12T11:07:12Z",
+                "last_commit": "2026-11-15T09:51:41Z",
                 "open_issues": 1,
                 "owner": "Agundur-KDE",
                 "repo": "KCast",
@@ -284,8 +284,8 @@
                     "id": 22761923,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-11-08T21:46:14Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-11-15T18:19:21Z",
+                    "open_issues": 0,
                     "owner": "tsujan",
                     "repo": "Kvantum",
                     "stars": 2050,
@@ -309,7 +309,7 @@
                     "open_issues": 77,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1200,
+                    "stars": 1199,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -351,7 +351,7 @@
                     "open_issues": 22,
                     "owner": "zzag",
                     "repo": "plasma5-wallpapers-dynamic",
-                    "stars": 387,
+                    "stars": 384,
                     "topics": [
                       "dynamic",
                       "plasma",
@@ -526,7 +526,7 @@
                     "id": 1011665035,
                     "language": "C++",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-12T17:50:33Z",
+                    "last_commit": "2026-11-15T09:51:35Z",
                     "open_issues": 2,
                     "owner": "Agundur-KDE",
                     "repo": "kfritz",
@@ -562,7 +562,7 @@
                     "id": 1009642942,
                     "language": "QML",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-14T08:03:45Z",
+                    "last_commit": "2026-11-15T09:51:51Z",
                     "open_issues": 0,
                     "owner": "Agundur-KDE",
                     "repo": "KPictureFrame",
@@ -591,7 +591,7 @@
                     "id": 1000173794,
                     "language": "QML",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-07-30T11:29:38Z",
+                    "last_commit": "2026-11-15T09:51:54Z",
                     "open_issues": 0,
                     "owner": "Agundur-KDE",
                     "repo": "EZMonitor",
@@ -623,7 +623,7 @@
                     "id": 1291081304,
                     "language": "QML",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-07-30T11:29:33Z",
+                    "last_commit": "2026-11-15T09:51:31Z",
                     "open_issues": 0,
                     "owner": "Agundur-KDE",
                     "repo": "KClaude",
@@ -657,7 +657,7 @@
                     "id": 1003519906,
                     "language": "QML",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-13T09:45:03Z",
+                    "last_commit": "2026-11-15T09:51:38Z",
                     "open_issues": 0,
                     "owner": "Agundur-KDE",
                     "repo": "OSBMonitor",
@@ -1108,7 +1108,7 @@
                     "open_issues": 30,
                     "owner": "EliverLara",
                     "repo": "Sweet-kde",
-                    "stars": 255,
+                    "stars": 256,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1320,7 +1320,7 @@
                     "open_issues": 609,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8209,
+                    "stars": 8213,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1389,7 +1389,7 @@
                     "open_issues": 105,
                     "owner": "vinceliuice",
                     "repo": "Tela-icon-theme",
-                    "stars": 1902,
+                    "stars": 1903,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1410,7 +1410,7 @@
                     "open_issues": 148,
                     "owner": "EliverLara",
                     "repo": "candy-icons",
-                    "stars": 1338,
+                    "stars": 1337,
                     "topics": [
                       "hacktoberfest",
                       "icons",
@@ -1702,7 +1702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T02:44:09.073Z",
+    "last_updated": "2026-11-16T02:47:35.860Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
@@ -1711,7 +1711,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-22T17:01:12Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "francoism90",
       "repo": "awesome-kde",
       "stars": 887,
