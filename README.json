@@ -284,11 +284,11 @@
                     "id": 22761923,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-11-15T18:19:21Z",
+                    "last_commit": "2026-11-16T13:19:42Z",
                     "open_issues": 0,
                     "owner": "tsujan",
                     "repo": "Kvantum",
-                    "stars": 2050,
+                    "stars": 2052,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -305,7 +305,7 @@
                     "id": 586101119,
                     "language": "TypeScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-25T17:50:15Z",
+                    "last_commit": "2026-11-16T19:43:47Z",
                     "open_issues": 77,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
@@ -376,7 +376,7 @@
                     "open_issues": 26,
                     "owner": "psifidotos",
                     "repo": "applet-window-title",
-                    "stars": 246,
+                    "stars": 247,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -393,7 +393,7 @@
                     "id": 1203582717,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-11-14T17:21:36Z",
+                    "last_commit": "2026-11-17T00:34:20Z",
                     "open_issues": 3,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
@@ -418,7 +418,7 @@
                     "open_issues": 14,
                     "owner": "isac322",
                     "repo": "krema",
-                    "stars": 77,
+                    "stars": 78,
                     "topics": [
                       "accessibility",
                       "cpp",
@@ -781,7 +781,7 @@
                     "open_issues": 15,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "materia-kde",
-                    "stars": 674,
+                    "stars": 673,
                     "topics": [
                       "desktop-environment",
                       "kde-desktop",
@@ -863,7 +863,7 @@
                     "open_issues": 24,
                     "owner": "vinceliuice",
                     "repo": "Orchis-kde",
-                    "stars": 346,
+                    "stars": 347,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -905,7 +905,7 @@
                     "open_issues": 35,
                     "owner": "vinceliuice",
                     "repo": "Fluent-kde",
-                    "stars": 243,
+                    "stars": 244,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1317,10 +1317,10 @@
                     "language": "Shell",
                     "license": "GPL-3.0",
                     "last_commit": "2026-11-09T13:13:31Z",
-                    "open_issues": 609,
+                    "open_issues": 610,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8213,
+                    "stars": 8214,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1702,7 +1702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T02:47:35.860Z",
+    "last_updated": "2026-11-17T05:05:51.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
