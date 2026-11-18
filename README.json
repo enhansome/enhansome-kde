@@ -309,7 +309,7 @@
                     "open_issues": 77,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1199,
+                    "stars": 1200,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -393,7 +393,7 @@
                     "id": 1203582717,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-11-17T00:34:20Z",
+                    "last_commit": "2026-11-17T17:27:25Z",
                     "open_issues": 3,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
@@ -418,7 +418,7 @@
                     "open_issues": 14,
                     "owner": "isac322",
                     "repo": "krema",
-                    "stars": 78,
+                    "stars": 79,
                     "topics": [
                       "accessibility",
                       "cpp",
@@ -727,7 +727,7 @@
                     "open_issues": 81,
                     "owner": "vinceliuice",
                     "repo": "WhiteSur-kde",
-                    "stars": 1314,
+                    "stars": 1315,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -781,7 +781,7 @@
                     "open_issues": 15,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "materia-kde",
-                    "stars": 673,
+                    "stars": 674,
                     "topics": [
                       "desktop-environment",
                       "kde-desktop",
@@ -863,7 +863,7 @@
                     "open_issues": 24,
                     "owner": "vinceliuice",
                     "repo": "Orchis-kde",
-                    "stars": 347,
+                    "stars": 348,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -968,7 +968,7 @@
                     "open_issues": 30,
                     "owner": "vinceliuice",
                     "repo": "Qogir-kde",
-                    "stars": 192,
+                    "stars": 191,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1048,7 +1048,7 @@
                     "open_issues": 0,
                     "owner": "DeadIndian",
                     "repo": "fastfetch-kde-splash",
-                    "stars": 4,
+                    "stars": 5,
                     "topics": [
                       "fastfetch",
                       "kde",
@@ -1150,7 +1150,7 @@
                     "open_issues": 12,
                     "owner": "alex47",
                     "repo": "BreezeBlurred",
-                    "stars": 197,
+                    "stars": 198,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1171,7 +1171,7 @@
                     "open_issues": 7,
                     "owner": "Akava-Design",
                     "repo": "Akava-Kv",
-                    "stars": 193,
+                    "stars": 194,
                     "topics": [
                       "kde",
                       "kvantum",
@@ -1196,7 +1196,7 @@
                     "open_issues": 16,
                     "owner": "alex47",
                     "repo": "KDE-Rounded-Corners",
-                    "stars": 166,
+                    "stars": 167,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1260,7 +1260,7 @@
                     "id": 44812667,
                     "language": "SCSS",
                     "license": null,
-                    "last_commit": "2026-11-10T11:08:21Z",
+                    "last_commit": "2026-11-17T13:27:59Z",
                     "open_issues": 0,
                     "owner": "KDE",
                     "repo": "breeze-gtk",
@@ -1320,7 +1320,7 @@
                     "open_issues": 610,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8214,
+                    "stars": 8216,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1389,7 +1389,7 @@
                     "open_issues": 105,
                     "owner": "vinceliuice",
                     "repo": "Tela-icon-theme",
-                    "stars": 1903,
+                    "stars": 1902,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1407,10 +1407,10 @@
                     "language": null,
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-26T21:13:50Z",
-                    "open_issues": 148,
+                    "open_issues": 150,
                     "owner": "EliverLara",
                     "repo": "candy-icons",
-                    "stars": 1337,
+                    "stars": 1338,
                     "topics": [
                       "hacktoberfest",
                       "icons",
@@ -1490,7 +1490,7 @@
                     "open_issues": 17,
                     "owner": "keeferrourke",
                     "repo": "capitaine-cursors",
-                    "stars": 1259,
+                    "stars": 1260,
                     "topics": [
                       "breeze",
                       "capitaine-cursors",
@@ -1702,7 +1702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T05:05:51.585Z",
+    "last_updated": "2026-11-18T04:27:28.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
