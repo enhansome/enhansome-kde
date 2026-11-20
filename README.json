@@ -284,11 +284,11 @@
                     "id": 22761923,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-11-16T13:19:42Z",
+                    "last_commit": "2026-11-19T12:10:42Z",
                     "open_issues": 0,
                     "owner": "tsujan",
                     "repo": "Kvantum",
-                    "stars": 2054,
+                    "stars": 2055,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -393,7 +393,7 @@
                     "id": 1203582717,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-11-19T00:54:31Z",
+                    "last_commit": "2026-11-19T23:55:18Z",
                     "open_issues": 3,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
@@ -415,7 +415,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-10T13:30:49Z",
-                    "open_issues": 14,
+                    "open_issues": 15,
                     "owner": "isac322",
                     "repo": "krema",
                     "stars": 79,
@@ -526,7 +526,7 @@
                     "id": 1011665035,
                     "language": "C++",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-18T14:55:13Z",
+                    "last_commit": "2026-11-19T08:07:21Z",
                     "open_issues": 2,
                     "owner": "Agundur-KDE",
                     "repo": "kfritz",
@@ -808,7 +808,7 @@
                     "language": "QML",
                     "license": "GPL-3.0",
                     "last_commit": "2025-11-27T13:56:14Z",
-                    "open_issues": 41,
+                    "open_issues": 42,
                     "owner": "vinceliuice",
                     "repo": "Layan-kde",
                     "stars": 544,
@@ -905,7 +905,7 @@
                     "open_issues": 35,
                     "owner": "vinceliuice",
                     "repo": "Fluent-kde",
-                    "stars": 244,
+                    "stars": 245,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -968,7 +968,7 @@
                     "open_issues": 30,
                     "owner": "vinceliuice",
                     "repo": "Qogir-kde",
-                    "stars": 191,
+                    "stars": 190,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1129,7 +1129,7 @@
                     "open_issues": 0,
                     "owner": "tsujan",
                     "repo": "BreezeEnhanced",
-                    "stars": 213,
+                    "stars": 214,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1317,10 +1317,10 @@
                     "language": "Shell",
                     "license": "GPL-3.0",
                     "last_commit": "2026-11-09T13:13:31Z",
-                    "open_issues": 610,
+                    "open_issues": 613,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8219,
+                    "stars": 8221,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1407,10 +1407,10 @@
                     "language": null,
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-26T21:13:50Z",
-                    "open_issues": 150,
+                    "open_issues": 151,
                     "owner": "EliverLara",
                     "repo": "candy-icons",
-                    "stars": 1339,
+                    "stars": 1338,
                     "topics": [
                       "hacktoberfest",
                       "icons",
@@ -1552,7 +1552,7 @@
                     "open_issues": 16,
                     "owner": "kwin-scripts",
                     "repo": "kwin-tiling",
-                    "stars": 1091,
+                    "stars": 1090,
                     "topics": [
                       "javascript",
                       "kwin"
@@ -1576,7 +1576,7 @@
                     "open_issues": 2,
                     "owner": "lingtjien",
                     "repo": "Grid-Tiling-Kwin",
-                    "stars": 915,
+                    "stars": 912,
                     "topics": [
                       "javascript",
                       "kde",
@@ -1702,7 +1702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T04:13:59.463Z",
+    "last_updated": "2026-11-20T04:00:17.324Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
