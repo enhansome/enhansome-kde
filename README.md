@@ -133,17 +133,17 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Extensions
 
-* [Kvantum](https://github.com/tsujan/Kvantum) ⭐ 2,055 | 🐛 0 | 🌐 C++ | 📅 2026-11-19 - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
+* [Kvantum](https://github.com/tsujan/Kvantum) ⭐ 2,054 | 🐛 0 | 🌐 C++ | 📅 2026-11-20 - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
 * [Karousel](https://github.com/peterfajdiga/karousel) ⭐ 1,200 | 🐛 78 | 🌐 TypeScript | 📅 2026-11-16 - KWin tiling script with scrolling. Works especially well with ultrawide screens.
 * [Window AppMenu Applet](https://github.com/psifidotos/applet-window-appmenu) ⭐ 411 | 🐛 26 | 🌐 C++ | 📅 2024-07-11 - **Plasma 5** applet in order to show the window appmenu.
 * [Dynamic Wallpaper Engine](https://github.com/zzag/plasma5-wallpapers-dynamic) ⭐ 384 | 🐛 22 | 🌐 C++ | 📅 2026-08-31 - A wallpaper plugin that continuously updates the desktop background based on the current time in your location.
 * [Window Title Applet](https://github.com/psifidotos/applet-window-title/) ⭐ 247 | 🐛 26 | 🌐 QML | 📅 2024-07-11 - **Plasma 5** applet that shows the current window title and icon in your panels.
-* [Latte Dock NG](https://github.com/ruizhi-lab/latte-dock-ng) ⭐ 83 | 🐛 3 | 🌐 C++ | 📅 2026-11-19 is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets.
+* [Latte Dock NG](https://github.com/ruizhi-lab/latte-dock-ng) ⭐ 83 | 🐛 3 | 🌐 C++ | 📅 2026-11-21 is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets.
 * [Krema](https://github.com/isac322/krema) ⭐ 79 | 🐛 15 | 🌐 Python | 📅 2026-11-10 - A Wayland-native dock for KDE Plasma 6 with parabolic zoom animations.
 * [Hoppla](https://github.com/Fuchs/hoppla-sa) ⭐ 72 | 🐛 8 | 🌐 QML | 📅 2025-02-24 - KDE Plasma desktop widget to control Philips Hue lights.
 * [KDoit](https://github.com/lubdhak7414/KDoit) ⭐ 19 | 🐛 0 | 🌐 QML | 📅 2026-11-18 - Lightweight to-do list plasmoid for KDE Plasma 6 with nested sublists, priorities, due dates, and UUID-based file sync.
 * [Places Widget](https://github.com/dfaust/plasma-applet-places-widget) ⭐ 13 | 🐛 11 | 🌐 QML | 📅 2024-02-21 - **Plasma 5** widget that gives access to user places.
-* [kfritz](https://github.com/Agundur-KDE/kfritz) ⭐ 7 | 🐛 2 | 🌐 C++ | 📅 2026-11-19 - A Plasma 6 callmonitor widget for the AVM FRITZ!Box.
+* [kfritz](https://github.com/Agundur-KDE/kfritz) ⭐ 7 | 🐛 2 | 🌐 C++ | 📅 2026-11-20 - A Plasma 6 callmonitor widget for the AVM FRITZ!Box.
 * [KPictureFrame](https://github.com/Agundur-KDE/KPictureFrame) ⭐ 6 | 🐛 0 | 🌐 QML | 📅 2026-11-15 - A Plasma 6 widget that turns your desktop into a picture frame.
 * [EZMonitor](https://github.com/Agundur-KDE/EZMonitor) ⭐ 5 | 🐛 0 | 🌐 QML | 📅 2026-11-15 - A Plasma 6 widget that shows the live power output of an APsystems EZ1 microinverter.
 * [KClaude](https://github.com/Agundur-KDE/KClaude) ⭐ 3 | 🐛 0 | 🌐 QML | 📅 2026-11-15 - A Plasma 6 widget to remember Claude Code sessions and resume them in the right directory with one click.
@@ -178,7 +178,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 #### Qt and GTK+ Applications Appearance
 
 * [SierraBreeze](https://github.com/ishovkun/SierraBreeze) ⭐ 355 | 🐛 35 | 🌐 C++ | 📅 2021-11-12 - OSX-like window decoration for KDE Plasma written in C++.
-* [Sweet KDE](https://github.com/EliverLara/Sweet-kde) ⭐ 256 | 🐛 29 | 📅 2025-04-25 - A dark and modern theme for KDE plasma.
+* [Sweet KDE](https://github.com/EliverLara/Sweet-kde) ⭐ 257 | 🐛 29 | 📅 2025-04-25 - A dark and modern theme for KDE plasma.
 * [BreezeEnhanced](https://github.com/tsujan/BreezeEnhanced) ⭐ 214 | 🐛 0 | 🌐 C++ | 📅 2026-10-30 - A fork of KDE Breeze decoration with additional options.
 * [BreezeBlurred](https://github.com/alex47/BreezeBlurred) ⚠️ Archived - A fork of KDE Breeze window decoration written in Qt C++.
 * [Akava-Kv](https://github.com/Akava-Design/Akava-Kv) ⭐ 194 | 🐛 7 | 📅 2023-03-02 - User oriented Kvantum theme for KDE.
@@ -190,17 +190,17 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Icons
 
-* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,221 | 🐛 613 | 🌐 Shell | 📅 2026-11-09 - Material icon theme, initially based on Paper.
+* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,222 | 🐛 613 | 🌐 Shell | 📅 2026-11-09 - Material icon theme, initially based on Paper.
 * [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) ⭐ 1,999 | 🐛 112 | 🌐 Shell | 📅 2021-11-25 - Icon pack with inspiration taken from the latest iterations of macOS and Google's Material Design.
 * [Tela](https://github.com/vinceliuice/Tela-icon-theme) ⭐ 1,902 | 🐛 105 | 🌐 Shell | 📅 2026-08-10 - A flat colorful Design icon theme.
-* [Candy](https://github.com/EliverLara/candy-icons) ⭐ 1,338 | 🐛 151 | 📅 2026-10-26 - Sweet gradient icons.
+* [Candy](https://github.com/EliverLara/candy-icons) ⭐ 1,339 | 🐛 151 | 📅 2026-10-26 - Sweet gradient icons.
 * [Zafiro](https://github.com/zayronxio/Zafiro-icons) ⭐ 465 | 🐛 21 | 🌐 Shell | 📅 2024-11-05 - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white. The priority is simplicity.
 * [Flatery](https://github.com/cbrnix/Flatery) ⭐ 329 | 🐛 6 | 🌐 Shell | 📅 2022-03-18 - Icon theme for Linux in flat style.
 * [Antu](https://gitlab.com/froodo_alexis/Antu-icons) - A smooth icon theme designed for Plasma Desktop.
 
 #### Cursors
 
-* [Capitaine](https://github.com/keeferrourke/capitaine-cursors) ⭐ 1,261 | 🐛 17 | 🌐 Python | 📅 2022-06-05 - An x-cursor theme inspired by macOS and based on KDE Breeze.
+* [Capitaine](https://github.com/keeferrourke/capitaine-cursors) ⭐ 1,262 | 🐛 17 | 🌐 Python | 📅 2022-06-05 - An x-cursor theme inspired by macOS and based on KDE Breeze.
 * [Bibata](https://store.kde.org/p/1197198/) - Material Based Cursor Theme.
 
 #### Scripts
@@ -224,7 +224,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 * [KDE Bugtracker](https://bugs.kde.org/) - KDE's official Bugtracker 📌.
 * [ArchWiki](https://wiki.archlinux.org/index.php/KDE) - Arch Linux KDE Wiki.
 * [Gentoo Wiki](https://wiki.gentoo.org/wiki/KDE) - Gentoo KDE Wiki.
-* [KDE Configs](https://github.com/shalva97/kde-configuration-files) ⭐ 1,074 | 🐛 0 | 🌐 Shell | 📅 2026-11-02 - List of KDE configuration files and more.
+* [KDE Configs](https://github.com/shalva97/kde-configuration-files) ⭐ 1,073 | 🐛 0 | 🌐 Shell | 📅 2026-11-02 - List of KDE configuration files and more.
 
 ## Articles
 
@@ -247,4 +247,4 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
