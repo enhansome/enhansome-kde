@@ -56,7 +56,7 @@ Tip: An overview of the most used KDE community apps are listed on the [official
 
 ### Multimedia
 
-* [KCast](https://github.com/Agundur-KDE/KCast) ⭐ 58 | 🐛 1 | 🌐 QML | 📅 2026-11-15 - A Plasma 6 widget to cast video files or YouTube URLs to a Chromecast device.
+* [KCast](https://github.com/Agundur-KDE/KCast) ⭐ 59 | 🐛 1 | 🌐 QML | 📅 2026-11-15 - A Plasma 6 widget to cast video files or YouTube URLs to a Chromecast device.
 * [Amarok](https://amarok.kde.org/) - Amarok is a powerful music player for Linux, Unix and Windows with an intuitive interface 📌.
 * [Elisa](https://elisa.kde.org/) - A music player developed by the KDE community that strives to be simple and nice to use 📌.
 * [Haruna](https://invent.kde.org/multimedia/haruna) - Open source video player built with Qt/QML and libmpv 📌.
@@ -134,12 +134,12 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 #### Extensions
 
 * [Kvantum](https://github.com/tsujan/Kvantum) ⭐ 2,054 | 🐛 0 | 🌐 C++ | 📅 2026-11-20 - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
-* [Karousel](https://github.com/peterfajdiga/karousel) ⭐ 1,200 | 🐛 78 | 🌐 TypeScript | 📅 2026-11-16 - KWin tiling script with scrolling. Works especially well with ultrawide screens.
-* [Window AppMenu Applet](https://github.com/psifidotos/applet-window-appmenu) ⭐ 411 | 🐛 26 | 🌐 C++ | 📅 2024-07-11 - **Plasma 5** applet in order to show the window appmenu.
+* [Karousel](https://github.com/peterfajdiga/karousel) ⭐ 1,201 | 🐛 78 | 🌐 TypeScript | 📅 2026-11-16 - KWin tiling script with scrolling. Works especially well with ultrawide screens.
+* [Window AppMenu Applet](https://github.com/psifidotos/applet-window-appmenu) ⭐ 412 | 🐛 26 | 🌐 C++ | 📅 2024-07-11 - **Plasma 5** applet in order to show the window appmenu.
 * [Dynamic Wallpaper Engine](https://github.com/zzag/plasma5-wallpapers-dynamic) ⭐ 384 | 🐛 22 | 🌐 C++ | 📅 2026-08-31 - A wallpaper plugin that continuously updates the desktop background based on the current time in your location.
-* [Window Title Applet](https://github.com/psifidotos/applet-window-title/) ⭐ 247 | 🐛 26 | 🌐 QML | 📅 2024-07-11 - **Plasma 5** applet that shows the current window title and icon in your panels.
-* [Latte Dock NG](https://github.com/ruizhi-lab/latte-dock-ng) ⭐ 83 | 🐛 3 | 🌐 C++ | 📅 2026-11-21 is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets.
-* [Krema](https://github.com/isac322/krema) ⭐ 79 | 🐛 15 | 🌐 Python | 📅 2026-11-10 - A Wayland-native dock for KDE Plasma 6 with parabolic zoom animations.
+* [Window Title Applet](https://github.com/psifidotos/applet-window-title/) ⭐ 248 | 🐛 26 | 🌐 QML | 📅 2024-07-11 - **Plasma 5** applet that shows the current window title and icon in your panels.
+* [Latte Dock NG](https://github.com/ruizhi-lab/latte-dock-ng) ⭐ 83 | 🐛 2 | 🌐 C++ | 📅 2026-11-21 is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets.
+* [Krema](https://github.com/isac322/krema) ⭐ 80 | 🐛 15 | 🌐 Python | 📅 2026-11-10 - A Wayland-native dock for KDE Plasma 6 with parabolic zoom animations.
 * [Hoppla](https://github.com/Fuchs/hoppla-sa) ⭐ 72 | 🐛 8 | 🌐 QML | 📅 2025-02-24 - KDE Plasma desktop widget to control Philips Hue lights.
 * [KDoit](https://github.com/lubdhak7414/KDoit) ⭐ 19 | 🐛 0 | 🌐 QML | 📅 2026-11-18 - Lightweight to-do list plasmoid for KDE Plasma 6 with nested sublists, priorities, due dates, and UUID-based file sync.
 * [Places Widget](https://github.com/dfaust/plasma-applet-places-widget) ⭐ 13 | 🐛 11 | 🌐 QML | 📅 2024-02-21 - **Plasma 5** widget that gives access to user places.
@@ -158,7 +158,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Themes
 
-* [WhiteSur](https://github.com/vinceliuice/WhiteSur-kde) ⭐ 1,315 | 🐛 81 | 🌐 QML | 📅 2026-08-07 - A MacOS Big Sur theme for KDE Plasma.
+* [WhiteSur](https://github.com/vinceliuice/WhiteSur-kde) ⭐ 1,316 | 🐛 81 | 🌐 QML | 📅 2026-08-07 - A MacOS Big Sur theme for KDE Plasma.
 * [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde) ⭐ 938 | 🐛 31 | 🌐 QML | 📅 2025-12-17 - A port of the popular GTK theme Arc for **Plasma 5** desktop with a few additions and extras.
 * [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) ⭐ 674 | 🐛 15 | 🌐 QML | 📅 2024-03-19 - A port of the popular GTK theme Materia for **Plasma 5** desktop with a few additions and extras.
 * [Layan](https://github.com/vinceliuice/Layan-kde) ⭐ 544 | 🐛 42 | 🌐 QML | 📅 2025-11-27 - A flat design theme for KDE Plasma desktop.
@@ -190,7 +190,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Icons
 
-* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,222 | 🐛 613 | 🌐 Shell | 📅 2026-11-09 - Material icon theme, initially based on Paper.
+* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,222 | 🐛 610 | 🌐 Shell | 📅 2026-11-22 - Material icon theme, initially based on Paper.
 * [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) ⭐ 1,999 | 🐛 112 | 🌐 Shell | 📅 2021-11-25 - Icon pack with inspiration taken from the latest iterations of macOS and Google's Material Design.
 * [Tela](https://github.com/vinceliuice/Tela-icon-theme) ⭐ 1,902 | 🐛 105 | 🌐 Shell | 📅 2026-08-10 - A flat colorful Design icon theme.
 * [Candy](https://github.com/EliverLara/candy-icons) ⭐ 1,339 | 🐛 151 | 📅 2026-10-26 - Sweet gradient icons.
@@ -200,7 +200,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Cursors
 
-* [Capitaine](https://github.com/keeferrourke/capitaine-cursors) ⭐ 1,262 | 🐛 17 | 🌐 Python | 📅 2022-06-05 - An x-cursor theme inspired by macOS and based on KDE Breeze.
+* [Capitaine](https://github.com/keeferrourke/capitaine-cursors) ⭐ 1,261 | 🐛 17 | 🌐 Python | 📅 2022-06-05 - An x-cursor theme inspired by macOS and based on KDE Breeze.
 * [Bibata](https://store.kde.org/p/1197198/) - Material Based Cursor Theme.
 
 #### Scripts
@@ -247,4 +247,4 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._

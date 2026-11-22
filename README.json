@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "Agundur-KDE",
                 "repo": "KCast",
-                "stars": 58,
+                "stars": 59,
                 "topics": [
                   "chromecast",
                   "kde",
@@ -309,7 +309,7 @@
                     "open_issues": 78,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1200,
+                    "stars": 1201,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -330,7 +330,7 @@
                     "open_issues": 26,
                     "owner": "psifidotos",
                     "repo": "applet-window-appmenu",
-                    "stars": 411,
+                    "stars": 412,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -376,7 +376,7 @@
                     "open_issues": 26,
                     "owner": "psifidotos",
                     "repo": "applet-window-title",
-                    "stars": 247,
+                    "stars": 248,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -393,8 +393,8 @@
                     "id": 1203582717,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-11-21T03:53:52Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-11-21T10:26:54Z",
+                    "open_issues": 2,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
                     "stars": 83,
@@ -418,7 +418,7 @@
                     "open_issues": 15,
                     "owner": "isac322",
                     "repo": "krema",
-                    "stars": 79,
+                    "stars": 80,
                     "topics": [
                       "accessibility",
                       "cpp",
@@ -727,7 +727,7 @@
                     "open_issues": 81,
                     "owner": "vinceliuice",
                     "repo": "WhiteSur-kde",
-                    "stars": 1315,
+                    "stars": 1316,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1316,8 +1316,8 @@
                     "id": 60187911,
                     "language": "Shell",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-09T13:13:31Z",
-                    "open_issues": 613,
+                    "last_commit": "2026-11-22T00:17:19Z",
+                    "open_issues": 610,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
                     "stars": 8222,
@@ -1490,7 +1490,7 @@
                     "open_issues": 17,
                     "owner": "keeferrourke",
                     "repo": "capitaine-cursors",
-                    "stars": 1262,
+                    "stars": 1261,
                     "topics": [
                       "breeze",
                       "capitaine-cursors",
@@ -1702,7 +1702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T03:59:56.434Z",
+    "last_updated": "2026-11-22T03:14:44.551Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
@@ -1711,7 +1711,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-22T17:01:12Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "francoism90",
       "repo": "awesome-kde",
       "stars": 890,
