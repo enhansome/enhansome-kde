@@ -34,6 +34,41 @@
                 ]
               },
               "first_seen": "2026-08-28T06:57:02.631Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Chordist",
+              "description": "A Plasma 6 widget that shows the chords, tab, synced lyrics and fingerings for whatever is playing, in step with the song.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Guitar companion for KDE Plasma: live chords, tabs, lyrics and fingerings for whatever is playing. Mirror of gitlab.com/ritwick7/chordist",
+                "homepage": "https://gitlab.com/ritwick7/chordist",
+                "id": 1452934201,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-16T12:28:15Z",
+                "open_issues": 0,
+                "owner": "RitwickVerma",
+                "repo": "chordist",
+                "stars": 3,
+                "topics": [
+                  "chords",
+                  "guitar",
+                  "guitar-tabs",
+                  "kde",
+                  "kde-plasma",
+                  "linux",
+                  "lyrics",
+                  "mpris",
+                  "plasma-widget",
+                  "plasma6",
+                  "plasmoid",
+                  "python",
+                  "qml"
+                ]
+              },
+              "first_seen": "2026-11-23T03:44:43.325Z"
             }
           ],
           "description": null,
@@ -256,6 +291,32 @@
                 ]
               },
               "first_seen": "2026-08-28T06:57:02.631Z"
+            },
+            {
+              "node_type": "item",
+              "title": "dotplasma",
+              "description": "A CLI to back up, compare, import, and restore KDE Plasma configurations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Comprehensive cli to save, load, backup and diff check KDE Plasma configurations. Managing configurations and dotfiles made easy",
+                "homepage": null,
+                "id": 1403584460,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2026-11-12T22:43:00Z",
+                "open_issues": 0,
+                "owner": "A-Murchison",
+                "repo": "dotplasma",
+                "stars": 8,
+                "topics": [
+                  "backups",
+                  "dotfiles",
+                  "kde-plasma",
+                  "linux"
+                ]
+              },
+              "first_seen": "2026-11-23T03:44:43.325Z"
             }
           ],
           "description": null,
@@ -288,7 +349,7 @@
                     "open_issues": 0,
                     "owner": "tsujan",
                     "repo": "Kvantum",
-                    "stars": 2054,
+                    "stars": 2055,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -309,7 +370,7 @@
                     "open_issues": 78,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1201,
+                    "stars": 1202,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -526,7 +587,7 @@
                     "id": 1011665035,
                     "language": "C++",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-20T08:42:46Z",
+                    "last_commit": "2026-11-22T10:37:10Z",
                     "open_issues": 2,
                     "owner": "Agundur-KDE",
                     "repo": "kfritz",
@@ -727,7 +788,7 @@
                     "open_issues": 81,
                     "owner": "vinceliuice",
                     "repo": "WhiteSur-kde",
-                    "stars": 1316,
+                    "stars": 1317,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -884,7 +945,7 @@
                     "open_issues": 33,
                     "owner": "vinceliuice",
                     "repo": "McMojave-kde",
-                    "stars": 262,
+                    "stars": 263,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1087,7 +1148,7 @@
                     "open_issues": 35,
                     "owner": "ishovkun",
                     "repo": "SierraBreeze",
-                    "stars": 355,
+                    "stars": 354,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1317,10 +1378,10 @@
                     "language": "Shell",
                     "license": "GPL-3.0",
                     "last_commit": "2026-11-22T00:17:19Z",
-                    "open_issues": 610,
+                    "open_issues": 612,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8222,
+                    "stars": 8221,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1389,7 +1450,7 @@
                     "open_issues": 105,
                     "owner": "vinceliuice",
                     "repo": "Tela-icon-theme",
-                    "stars": 1902,
+                    "stars": 1903,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1462,7 +1523,7 @@
                     "open_issues": 6,
                     "owner": "cbrnix",
                     "repo": "Flatery",
-                    "stars": 329,
+                    "stars": 328,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1490,7 +1551,7 @@
                     "open_issues": 17,
                     "owner": "keeferrourke",
                     "repo": "capitaine-cursors",
-                    "stars": 1261,
+                    "stars": 1262,
                     "topics": [
                       "breeze",
                       "capitaine-cursors",
@@ -1531,7 +1592,7 @@
                     "open_issues": 24,
                     "owner": "anametologin",
                     "repo": "krohnkite",
-                    "stars": 1227,
+                    "stars": 1226,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1702,7 +1763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T03:14:44.551Z",
+    "last_updated": "2026-11-23T03:44:43.325Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
@@ -1710,11 +1771,11 @@
       "id": 126171103,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-22T17:01:12Z",
-      "open_issues": 4,
+      "last_commit": "2026-11-22T07:15:17Z",
+      "open_issues": 2,
       "owner": "francoism90",
       "repo": "awesome-kde",
-      "stars": 890,
+      "stars": 891,
       "topics": [
         "applications",
         "awesome",
@@ -1731,7 +1792,7 @@
         "qt6"
       ]
     },
-    "original_repository_sha": "ea229970f4bae89649fb4c99b28739d378ae210b",
+    "original_repository_sha": "baf0b3ded3ccea7e972099d94be86b8e4a2dd1ec",
     "enhanced_repository": "enhansome/enhansome-kde",
     "enhanced_repository_description": null,
     "title": "Awesome KDE with stars"
