@@ -233,27 +233,6 @@
             },
             {
               "node_type": "item",
-              "title": "LocalTranslate",
-              "description": "Offline translation app built with Qt Quick that makes use of Firefox's neural translation models.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Translate offline using Firefox Translation Models",
-                "homepage": "https://terslang.github.io/LocalTranslate/",
-                "id": 936438260,
-                "language": "QML",
-                "license": "GPL-3.0",
-                "last_commit": "2026-06-07T08:38:03Z",
-                "open_issues": 15,
-                "owner": "terslang",
-                "repo": "LocalTranslate",
-                "stars": 72,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:57:02.631Z"
-            },
-            {
-              "node_type": "item",
               "title": "dictee",
               "description": "Push-to-talk voice dictation with KDE Plasma 6 plasmoid, PyQt6 setup wizard, and tray icon. 4 ASR backends (Parakeet, Vosk, Whisper, Canary), post-processing pipeline, translation. 100% local, 25+ languages.",
               "children": [],
@@ -268,7 +247,7 @@
                 "open_issues": 3,
                 "owner": "rcspam",
                 "repo": "dictee",
-                "stars": 71,
+                "stars": 72,
                 "topics": [
                   "asr",
                   "dictation-tool",
@@ -294,6 +273,27 @@
             },
             {
               "node_type": "item",
+              "title": "LocalTranslate",
+              "description": "Offline translation app built with Qt Quick that makes use of Firefox's neural translation models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Translate offline using Firefox Translation Models",
+                "homepage": "https://terslang.github.io/LocalTranslate/",
+                "id": 936438260,
+                "language": "QML",
+                "license": "GPL-3.0",
+                "last_commit": "2026-11-23T06:06:04Z",
+                "open_issues": 14,
+                "owner": "terslang",
+                "repo": "LocalTranslate",
+                "stars": 72,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T06:57:02.631Z"
+            },
+            {
+              "node_type": "item",
               "title": "dotplasma",
               "description": "A CLI to back up, compare, import, and restore KDE Plasma configurations.",
               "children": [],
@@ -308,7 +308,7 @@
                 "open_issues": 0,
                 "owner": "A-Murchison",
                 "repo": "dotplasma",
-                "stars": 8,
+                "stars": 9,
                 "topics": [
                   "backups",
                   "dotfiles",
@@ -370,7 +370,7 @@
                     "open_issues": 78,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1202,
+                    "stars": 1203,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -454,11 +454,11 @@
                     "id": 1203582717,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-11-21T10:26:54Z",
+                    "last_commit": "2026-11-24T00:48:47Z",
                     "open_issues": 2,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
-                    "stars": 83,
+                    "stars": 84,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -479,7 +479,7 @@
                     "open_issues": 15,
                     "owner": "isac322",
                     "repo": "krema",
-                    "stars": 80,
+                    "stars": 81,
                     "topics": [
                       "accessibility",
                       "cpp",
@@ -788,7 +788,7 @@
                     "open_issues": 81,
                     "owner": "vinceliuice",
                     "repo": "WhiteSur-kde",
-                    "stars": 1317,
+                    "stars": 1318,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -924,7 +924,7 @@
                     "open_issues": 24,
                     "owner": "vinceliuice",
                     "repo": "Orchis-kde",
-                    "stars": 348,
+                    "stars": 349,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1109,7 +1109,7 @@
                     "open_issues": 0,
                     "owner": "DeadIndian",
                     "repo": "fastfetch-kde-splash",
-                    "stars": 5,
+                    "stars": 6,
                     "topics": [
                       "fastfetch",
                       "kde",
@@ -1278,7 +1278,7 @@
                     "open_issues": 8,
                     "owner": "fauzie811",
                     "repo": "Breeze10",
-                    "stars": 123,
+                    "stars": 124,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1378,10 +1378,10 @@
                     "language": "Shell",
                     "license": "GPL-3.0",
                     "last_commit": "2026-11-22T00:17:19Z",
-                    "open_issues": 612,
+                    "open_issues": 613,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8221,
+                    "stars": 8225,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1450,7 +1450,7 @@
                     "open_issues": 105,
                     "owner": "vinceliuice",
                     "repo": "Tela-icon-theme",
-                    "stars": 1903,
+                    "stars": 1901,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1763,7 +1763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T03:44:43.325Z",
+    "last_updated": "2026-11-24T06:58:16.625Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
@@ -1775,7 +1775,7 @@
       "open_issues": 2,
       "owner": "francoism90",
       "repo": "awesome-kde",
-      "stars": 891,
+      "stars": 893,
       "topics": [
         "applications",
         "awesome",
