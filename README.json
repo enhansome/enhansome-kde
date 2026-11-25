@@ -93,7 +93,7 @@
                 "open_issues": 0,
                 "owner": "TimInTech",
                 "repo": "blitztext-linux",
-                "stars": 11,
+                "stars": 13,
                 "topics": [
                   "blitztext",
                   "desktop-app",
@@ -168,7 +168,7 @@
                 "language": "C++",
                 "license": "GPL-2.0",
                 "last_commit": "2025-05-13T14:44:51Z",
-                "open_issues": 45,
+                "open_issues": 46,
                 "owner": "Maldela",
                 "repo": "fancontrol-gui",
                 "stars": 389,
@@ -243,11 +243,11 @@
                 "id": 1173383779,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-14T05:06:33Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-24T17:44:21Z",
+                "open_issues": 4,
                 "owner": "rcspam",
                 "repo": "dictee",
-                "stars": 72,
+                "stars": 73,
                 "topics": [
                   "asr",
                   "dictation-tool",
@@ -287,7 +287,7 @@
                 "open_issues": 14,
                 "owner": "terslang",
                 "repo": "LocalTranslate",
-                "stars": 72,
+                "stars": 73,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:02.631Z"
@@ -370,7 +370,7 @@
                     "open_issues": 78,
                     "owner": "peterfajdiga",
                     "repo": "karousel",
-                    "stars": 1203,
+                    "stars": 1204,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -412,7 +412,7 @@
                     "open_issues": 22,
                     "owner": "zzag",
                     "repo": "plasma5-wallpapers-dynamic",
-                    "stars": 384,
+                    "stars": 385,
                     "topics": [
                       "dynamic",
                       "plasma",
@@ -454,11 +454,11 @@
                     "id": 1203582717,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-11-24T00:48:47Z",
+                    "last_commit": "2026-11-24T12:53:14Z",
                     "open_issues": 2,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
-                    "stars": 84,
+                    "stars": 85,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -479,7 +479,7 @@
                     "open_issues": 15,
                     "owner": "isac322",
                     "repo": "krema",
-                    "stars": 81,
+                    "stars": 83,
                     "topics": [
                       "accessibility",
                       "cpp",
@@ -1381,7 +1381,7 @@
                     "open_issues": 613,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8225,
+                    "stars": 8227,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1450,7 +1450,7 @@
                     "open_issues": 105,
                     "owner": "vinceliuice",
                     "repo": "Tela-icon-theme",
-                    "stars": 1901,
+                    "stars": 1902,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1471,7 +1471,7 @@
                     "open_issues": 151,
                     "owner": "EliverLara",
                     "repo": "candy-icons",
-                    "stars": 1339,
+                    "stars": 1340,
                     "topics": [
                       "hacktoberfest",
                       "icons",
@@ -1551,7 +1551,7 @@
                     "open_issues": 17,
                     "owner": "keeferrourke",
                     "repo": "capitaine-cursors",
-                    "stars": 1262,
+                    "stars": 1261,
                     "topics": [
                       "breeze",
                       "capitaine-cursors",
@@ -1592,7 +1592,7 @@
                     "open_issues": 24,
                     "owner": "anametologin",
                     "repo": "krohnkite",
-                    "stars": 1226,
+                    "stars": 1227,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1637,7 +1637,7 @@
                     "open_issues": 2,
                     "owner": "lingtjien",
                     "repo": "Grid-Tiling-Kwin",
-                    "stars": 912,
+                    "stars": 913,
                     "topics": [
                       "javascript",
                       "kde",
@@ -1708,7 +1708,7 @@
                     "open_issues": 6,
                     "owner": "MarianArlt",
                     "repo": "kde-plasma-chili",
-                    "stars": 230,
+                    "stars": 231,
                     "topics": [
                       "blurred-background",
                       "customizable",
@@ -1763,7 +1763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T06:58:16.625Z",
+    "last_updated": "2026-11-25T05:27:13.674Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
@@ -1772,7 +1772,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-11-22T07:15:17Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "francoism90",
       "repo": "awesome-kde",
       "stars": 893,

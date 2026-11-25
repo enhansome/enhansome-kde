@@ -92,16 +92,16 @@ Tip: An overview of the most used KDE community apps are listed on the [official
 
 ### Accessibility
 
-* [Blitztext Linux](https://github.com/TimInTech/blitztext-linux) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-11-05 - Hotkey-driven voice dictation tray app for KDE Plasma/Wayland: hold a key, speak, and the local Whisper transcript is pasted into the active app. Optional LLM text workflows.
+* [Blitztext Linux](https://github.com/TimInTech/blitztext-linux) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-11-05 - Hotkey-driven voice dictation tray app for KDE Plasma/Wayland: hold a key, speak, and the local Whisper transcript is pasted into the active app. Optional LLM text workflows.
 
 ### Utilities & Tools
 
 * [Yin-Yang](https://github.com/daehruoydeef/Yin-Yang) ⭐ 705 | 🐛 43 | 🌐 Python | 📅 2026-03-26 - Auto Night-mode for Linux.
-* [fancontrol-gui](https://github.com/Maldela/fancontrol-gui) ⭐ 389 | 🐛 45 | 🌐 C++ | 📅 2025-05-13 - GUI for fancontrol which is part of lm\_sensors.
+* [fancontrol-gui](https://github.com/Maldela/fancontrol-gui) ⭐ 389 | 🐛 46 | 🌐 C++ | 📅 2025-05-13 - GUI for fancontrol which is part of lm\_sensors.
 * [KWin-lowlatency](https://github.com/tildearrow/kwin-lowlatency) ⚠️ Archived - An attempt to reduce latency and stuttering in the popular KWin compositor used in KDE.
 * [Wacom GUI](https://github.com/tb2097/wacom-gui) ⭐ 146 | 🐛 40 | 🌐 Python | 📅 2023-07-30 - Python/PyQt Wacom GUI for KDE.
-* [dictee](https://github.com/rcspam/dictee) ⭐ 72 | 🐛 3 | 🌐 Python | 📅 2026-11-14 - Push-to-talk voice dictation with KDE Plasma 6 plasmoid, PyQt6 setup wizard, and tray icon. 4 ASR backends (Parakeet, Vosk, Whisper, Canary), post-processing pipeline, translation. 100% local, 25+ languages.
-* [LocalTranslate](https://github.com/terslang/LocalTranslate) ⭐ 72 | 🐛 14 | 🌐 QML | 📅 2026-11-23 - Offline translation app built with Qt Quick that makes use of Firefox's [neural translation models](https://github.com/mozilla/firefox-translations-models) ⚠️ Archived.
+* [dictee](https://github.com/rcspam/dictee) ⭐ 73 | 🐛 4 | 🌐 Python | 📅 2026-11-24 - Push-to-talk voice dictation with KDE Plasma 6 plasmoid, PyQt6 setup wizard, and tray icon. 4 ASR backends (Parakeet, Vosk, Whisper, Canary), post-processing pipeline, translation. 100% local, 25+ languages.
+* [LocalTranslate](https://github.com/terslang/LocalTranslate) ⭐ 73 | 🐛 14 | 🌐 QML | 📅 2026-11-23 - Offline translation app built with Qt Quick that makes use of Firefox's [neural translation models](https://github.com/mozilla/firefox-translations-models) ⚠️ Archived.
 * [dotplasma](https://github.com/A-Murchison/dotplasma) ⭐ 9 | 🐛 0 | 🌐 Go | 📅 2026-11-12 - A CLI to back up, compare, import, and restore KDE Plasma configurations.
 * [Android File Transfer](https://whoozle.github.io/android-file-transfer-linux/) - Reliable MTP client with minimalistic UI.
 * [Ark](https://apps.kde.org/ark/) - Archiving Tool 📌.
@@ -136,12 +136,12 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 #### Extensions
 
 * [Kvantum](https://github.com/tsujan/Kvantum) ⭐ 2,055 | 🐛 0 | 🌐 C++ | 📅 2026-11-20 - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
-* [Karousel](https://github.com/peterfajdiga/karousel) ⭐ 1,203 | 🐛 78 | 🌐 TypeScript | 📅 2026-11-16 - KWin tiling script with scrolling. Works especially well with ultrawide screens.
+* [Karousel](https://github.com/peterfajdiga/karousel) ⭐ 1,204 | 🐛 78 | 🌐 TypeScript | 📅 2026-11-16 - KWin tiling script with scrolling. Works especially well with ultrawide screens.
 * [Window AppMenu Applet](https://github.com/psifidotos/applet-window-appmenu) ⭐ 412 | 🐛 26 | 🌐 C++ | 📅 2024-07-11 - **Plasma 5** applet in order to show the window appmenu.
-* [Dynamic Wallpaper Engine](https://github.com/zzag/plasma5-wallpapers-dynamic) ⭐ 384 | 🐛 22 | 🌐 C++ | 📅 2026-08-31 - A wallpaper plugin that continuously updates the desktop background based on the current time in your location.
+* [Dynamic Wallpaper Engine](https://github.com/zzag/plasma5-wallpapers-dynamic) ⭐ 385 | 🐛 22 | 🌐 C++ | 📅 2026-08-31 - A wallpaper plugin that continuously updates the desktop background based on the current time in your location.
 * [Window Title Applet](https://github.com/psifidotos/applet-window-title/) ⭐ 248 | 🐛 26 | 🌐 QML | 📅 2024-07-11 - **Plasma 5** applet that shows the current window title and icon in your panels.
-* [Latte Dock NG](https://github.com/ruizhi-lab/latte-dock-ng) ⭐ 84 | 🐛 2 | 🌐 C++ | 📅 2026-11-24 is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets.
-* [Krema](https://github.com/isac322/krema) ⭐ 81 | 🐛 15 | 🌐 Python | 📅 2026-11-10 - A Wayland-native dock for KDE Plasma 6 with parabolic zoom animations.
+* [Latte Dock NG](https://github.com/ruizhi-lab/latte-dock-ng) ⭐ 85 | 🐛 2 | 🌐 C++ | 📅 2026-11-24 is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets.
+* [Krema](https://github.com/isac322/krema) ⭐ 83 | 🐛 15 | 🌐 Python | 📅 2026-11-10 - A Wayland-native dock for KDE Plasma 6 with parabolic zoom animations.
 * [Hoppla](https://github.com/Fuchs/hoppla-sa) ⭐ 72 | 🐛 8 | 🌐 QML | 📅 2025-02-24 - KDE Plasma desktop widget to control Philips Hue lights.
 * [KDoit](https://github.com/lubdhak7414/KDoit) ⭐ 19 | 🐛 0 | 🌐 QML | 📅 2026-11-18 - Lightweight to-do list plasmoid for KDE Plasma 6 with nested sublists, priorities, due dates, and UUID-based file sync.
 * [Places Widget](https://github.com/dfaust/plasma-applet-places-widget) ⭐ 13 | 🐛 11 | 🌐 QML | 📅 2024-02-21 - **Plasma 5** widget that gives access to user places.
@@ -192,30 +192,30 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Icons
 
-* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,225 | 🐛 613 | 🌐 Shell | 📅 2026-11-22 - Material icon theme, initially based on Paper.
+* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,227 | 🐛 613 | 🌐 Shell | 📅 2026-11-22 - Material icon theme, initially based on Paper.
 * [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) ⭐ 1,999 | 🐛 112 | 🌐 Shell | 📅 2021-11-25 - Icon pack with inspiration taken from the latest iterations of macOS and Google's Material Design.
-* [Tela](https://github.com/vinceliuice/Tela-icon-theme) ⭐ 1,901 | 🐛 105 | 🌐 Shell | 📅 2026-08-10 - A flat colorful Design icon theme.
-* [Candy](https://github.com/EliverLara/candy-icons) ⭐ 1,339 | 🐛 151 | 📅 2026-10-26 - Sweet gradient icons.
+* [Tela](https://github.com/vinceliuice/Tela-icon-theme) ⭐ 1,902 | 🐛 105 | 🌐 Shell | 📅 2026-08-10 - A flat colorful Design icon theme.
+* [Candy](https://github.com/EliverLara/candy-icons) ⭐ 1,340 | 🐛 151 | 📅 2026-10-26 - Sweet gradient icons.
 * [Zafiro](https://github.com/zayronxio/Zafiro-icons) ⭐ 465 | 🐛 21 | 🌐 Shell | 📅 2024-11-05 - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white. The priority is simplicity.
 * [Flatery](https://github.com/cbrnix/Flatery) ⭐ 328 | 🐛 6 | 🌐 Shell | 📅 2022-03-18 - Icon theme for Linux in flat style.
 * [Antu](https://gitlab.com/froodo_alexis/Antu-icons) - A smooth icon theme designed for Plasma Desktop.
 
 #### Cursors
 
-* [Capitaine](https://github.com/keeferrourke/capitaine-cursors) ⭐ 1,262 | 🐛 17 | 🌐 Python | 📅 2022-06-05 - An x-cursor theme inspired by macOS and based on KDE Breeze.
+* [Capitaine](https://github.com/keeferrourke/capitaine-cursors) ⭐ 1,261 | 🐛 17 | 🌐 Python | 📅 2022-06-05 - An x-cursor theme inspired by macOS and based on KDE Breeze.
 * [Bibata](https://store.kde.org/p/1197198/) - Material Based Cursor Theme.
 
 #### Scripts
 
 * [Kröhnkite](https://github.com/anametologin/krohnkite) ⚠️ Archived - A dynamic tiling extension for KWin.
 * [kwin-tiling](https://github.com/faho/kwin-tiling) ⚠️ Archived - Tiling script for kwin.
-* [Grid-Tiling-Kwin](https://github.com/lingtjien/Grid-Tiling-Kwin) ⭐ 912 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-22 - A kwin script that automatically tiles windows.
+* [Grid-Tiling-Kwin](https://github.com/lingtjien/Grid-Tiling-Kwin) ⭐ 913 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-22 - A kwin script that automatically tiles windows.
 * [Panel Dodge](https://github.com/iacosta3994/panel-dodge) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-07 - Moves the panel to another monitor while a window is fullscreen on the panel's screen, and back when it's gone.
 * [Fluid tile](https://codeberg.org/Serroda/fluid-tile) - Simple auto tiling with UI for KWin that works natively.
 
 #### Display Manager
 
-* [Chili](https://github.com/MarianArlt/kde-plasma-chili) ⭐ 230 | 🐛 6 | 🌐 QML | 📅 2019-07-23 - The hottest login theme around for KDE **Plasma 5**.
+* [Chili](https://github.com/MarianArlt/kde-plasma-chili) ⭐ 231 | 🐛 6 | 🌐 QML | 📅 2019-07-23 - The hottest login theme around for KDE **Plasma 5**.
 * [Delicious](https://github.com/stuomas/delicious-sddm-theme) ⭐ 118 | 🐛 4 | 🌐 QML | 📅 2020-10-02 - A delicious SDDM theme for DE collectors/addicts.
 * [Sugar Candy](https://framagit.org/MarianArlt/sddm-sugar-candy) - The sweetest login theme available for the SDDM display manager.
 
@@ -226,7 +226,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 * [KDE Bugtracker](https://bugs.kde.org/) - KDE's official Bugtracker 📌.
 * [ArchWiki](https://wiki.archlinux.org/index.php/KDE) - Arch Linux KDE Wiki.
 * [Gentoo Wiki](https://wiki.gentoo.org/wiki/KDE) - Gentoo KDE Wiki.
-* [KDE Configs](https://github.com/shalva97/kde-configuration-files) ⭐ 1,074 | 🐛 0 | 🌐 Shell | 📅 2026-11-02 - List of KDE configuration files and more.
+* [KDE Configs](https://github.com/shalva97/kde-configuration-files) ⭐ 1,075 | 🐛 0 | 🌐 Shell | 📅 2026-11-02 - List of KDE configuration files and more.
 
 ## Articles
 
@@ -249,4 +249,4 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
