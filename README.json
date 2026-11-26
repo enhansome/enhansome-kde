@@ -171,7 +171,7 @@
                 "open_issues": 46,
                 "owner": "Maldela",
                 "repo": "fancontrol-gui",
-                "stars": 389,
+                "stars": 390,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:02.631Z"
@@ -243,8 +243,8 @@
                 "id": 1173383779,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-24T17:44:21Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-25T18:56:17Z",
+                "open_issues": 3,
                 "owner": "rcspam",
                 "repo": "dictee",
                 "stars": 73,
@@ -308,7 +308,7 @@
                 "open_issues": 0,
                 "owner": "A-Murchison",
                 "repo": "dotplasma",
-                "stars": 9,
+                "stars": 10,
                 "topics": [
                   "backups",
                   "dotfiles",
@@ -345,7 +345,7 @@
                     "id": 22761923,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-11-20T14:58:58Z",
+                    "last_commit": "2026-11-25T19:36:21Z",
                     "open_issues": 0,
                     "owner": "tsujan",
                     "repo": "Kvantum",
@@ -412,7 +412,7 @@
                     "open_issues": 22,
                     "owner": "zzag",
                     "repo": "plasma5-wallpapers-dynamic",
-                    "stars": 385,
+                    "stars": 386,
                     "topics": [
                       "dynamic",
                       "plasma",
@@ -454,8 +454,8 @@
                     "id": 1203582717,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-11-24T12:53:14Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-11-25T14:54:18Z",
+                    "open_issues": 3,
                     "owner": "ruizhi-lab",
                     "repo": "latte-dock-ng",
                     "stars": 85,
@@ -479,7 +479,7 @@
                     "open_issues": 15,
                     "owner": "isac322",
                     "repo": "krema",
-                    "stars": 83,
+                    "stars": 84,
                     "topics": [
                       "accessibility",
                       "cpp",
@@ -788,7 +788,7 @@
                     "open_issues": 81,
                     "owner": "vinceliuice",
                     "repo": "WhiteSur-kde",
-                    "stars": 1318,
+                    "stars": 1319,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -842,7 +842,7 @@
                     "open_issues": 15,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "materia-kde",
-                    "stars": 674,
+                    "stars": 673,
                     "topics": [
                       "desktop-environment",
                       "kde-desktop",
@@ -1378,10 +1378,10 @@
                     "language": "Shell",
                     "license": "GPL-3.0",
                     "last_commit": "2026-11-22T00:17:19Z",
-                    "open_issues": 613,
+                    "open_issues": 614,
                     "owner": "PapirusDevelopmentTeam",
                     "repo": "papirus-icon-theme",
-                    "stars": 8227,
+                    "stars": 8229,
                     "topics": [
                       "icon-theme",
                       "icons",
@@ -1523,7 +1523,7 @@
                     "open_issues": 6,
                     "owner": "cbrnix",
                     "repo": "Flatery",
-                    "stars": 328,
+                    "stars": 327,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:02.631Z"
@@ -1763,7 +1763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T05:27:13.674Z",
+    "last_updated": "2026-11-26T05:07:35.834Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.",
